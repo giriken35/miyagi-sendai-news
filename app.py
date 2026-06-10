@@ -147,21 +147,21 @@ html, body, [data-testid="stAppViewContainer"] {
     flex-shrink: 0;
     text-align: center;
     background: #F5F0E6;
-    padding: 0.4rem 0.5rem;
+    padding: 0.55rem 0.65rem;
     border-radius: 8px;
     color: #5A4A3A;
-    min-width: 3.5rem;
+    min-width: 4.6rem;
     font-family: 'Noto Sans JP', sans-serif;
     border: 1px solid #EAE3D5;
 }
 .news-date-day {
-    font-size: 0.85rem;
+    font-size: 1.1rem;
     font-weight: 700;
     line-height: 1.2;
     letter-spacing: -0.02em;
 }
 .news-date-time {
-    font-size: 0.65rem;
+    font-size: 0.85rem;
     font-weight: 500;
     margin-top: 0.2rem;
     color: #8A8070;
