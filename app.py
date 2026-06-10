@@ -267,37 +267,51 @@ hr { border: none; border-top: 1px solid #E0D8C8; margin: 0.5rem 0; }
 
 # ───────────────────────────────────────────────
 #  RSS フィード定義
+#  ※ urls は上から順に試行し、最初に成功したものを使用する
 # ───────────────────────────────────────────────
 FEEDS = [
-    {
-        "name": "河北新報",
-        "key": "kahoku",
-        "emoji": "📰",
-        "urls": [
-            "https://kahoku.news/rss/category/news_miyagi.xml",
-            "https://kahoku.news/feed/",
-            "https://kahoku.news/news/rss/",
-        ],
-        "fallback_scrape": "https://kahoku.news/",
-    },
     {
         "name": "仙台つーしん",
         "key": "tushin",
         "emoji": "🍜",
         "urls": [
             "https://sendai-tushin.jp/feed/",
+            "https://sendai-tushin.jp/feed",
         ],
-        "fallback_scrape": None,
     },
     {
-        "name": "Yahoo!宮城",
-        "key": "yahoo",
+        "name": "河北新報",
+        "key": "kahoku",
+        "emoji": "📰",
+        "urls": [
+            # WordPress系の一般的なフィードURL（複数試行）
+            "https://kahoku.news/feed/",
+            "https://kahoku.news/feed",
+            "https://kahoku.news/rss/",
+            "https://kahoku.news/rss.xml",
+            "https://kahoku.news/rss/category/miyagi/",
+            "https://kahoku.news/rss/news/",
+        ],
+    },
+    {
+        "name": "NHK東北",
+        "key": "nhk",
         "emoji": "📡",
         "urls": [
-            "https://news.yahoo.co.jp/rss/topics/local/miyagi.xml",
-            "https://news.yahoo.co.jp/rss/media/kahoku/articles.xml",
+            # NHK全国ニュース（東北・宮城に絞ったRSSは非公開のため全国版を使用）
+            "https://www3.nhk.or.jp/rss/news/cat0.xml",
+            "https://www.nhk.or.jp/rss/news/cat0.xml",
         ],
-        "fallback_scrape": None,
+    },
+    {
+        "name": "Yahoo!ニュース",
+        "key": "yahoo",
+        "emoji": "🗞️",
+        "urls": [
+            # Yahoo!ニュース 地域（公開されているRSS）
+            "https://news.yahoo.co.jp/rss/topics/domestic.xml",
+            "https://news.yahoo.co.jp/rss/topics/local.xml",
+        ],
     },
 ]
 
@@ -321,26 +335,79 @@ GOURMET_KEYWORDS = [
 #  ユーティリティ関数
 # ───────────────────────────────────────────────
 
-def fetch_rss(feed_info: dict) -> list[dict]:
-    """複数の候補 URL を順に試して RSS を取得する。"""
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) "
-            "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 "
-            "Mobile/15E148 Safari/604.1"
-        ),
-        "Accept": "application/rss+xml, application/xml, text/xml, */*",
-    }
+# Streamlit Cloud / 一般サーバー向け User-Agent
+_UA_BROWSER = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/124.0.0.0 Safari/537.36"
+)
+_UA_BOT = "FeedFetcher/1.0 (+https://streamlit.io)"
+
+_REQUEST_HEADERS = {
+    "User-Agent": _UA_BROWSER,
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "Accept-Language": "ja,en;q=0.9",
+    "Cache-Control": "no-cache",
+}
+
+
+def fetch_rss(feed_info: dict) -> tuple[list[dict], str]:
+    """複数の候補 URL を順に試して RSS を取得する。
+    戻り値: (items_list, '成功したURL or 空文字')
+    """
+    last_error = ""
+
     for url in feed_info["urls"]:
+        # ── 方法1: feedparser に直接URLを渡す（内部で HTTP 取得） ──
         try:
-            resp = requests.get(url, headers=headers, timeout=8)
-            if resp.status_code == 200 and len(resp.content) > 200:
+            feed = feedparser.parse(
+                url,
+                agent=_UA_BROWSER,
+                request_headers=_REQUEST_HEADERS,
+            )
+            # bozo=True でも entries があれば使う（軽微なXMLエラーは許容）
+            if feed.entries:
+                return _parse_entries(feed.entries, feed_info), url
+        except Exception as e:
+            last_error = f"feedparser direct [{url}]: {e}"
+
+        # ── 方法2: requests で取得 → feedparser でパース ──
+        try:
+            resp = requests.get(
+                url,
+                headers=_REQUEST_HEADERS,
+                timeout=12,
+                allow_redirects=True,
+                verify=True,
+            )
+            if resp.status_code == 200 and len(resp.content) > 300:
+                # 文字コードを明示してからパース
+                resp.encoding = resp.apparent_encoding or "utf-8"
                 feed = feedparser.parse(resp.content)
                 if feed.entries:
-                    return _parse_entries(feed.entries, feed_info)
-        except Exception:
+                    return _parse_entries(feed.entries, feed_info), url
+        except requests.exceptions.SSLError:
+            # SSL エラーの場合は verify=False で再試行
+            try:
+                resp = requests.get(
+                    url,
+                    headers=_REQUEST_HEADERS,
+                    timeout=12,
+                    allow_redirects=True,
+                    verify=False,
+                )
+                if resp.status_code == 200 and len(resp.content) > 300:
+                    resp.encoding = resp.apparent_encoding or "utf-8"
+                    feed = feedparser.parse(resp.content)
+                    if feed.entries:
+                        return _parse_entries(feed.entries, feed_info), url
+            except Exception as e:
+                last_error = f"requests(no-verify) [{url}]: {e}"
+        except Exception as e:
+            last_error = f"requests [{url}]: {e}"
             continue
-    return []
+
+    return [], last_error
 
 
 def _parse_entries(entries, feed_info: dict) -> list[dict]:
@@ -364,46 +431,77 @@ def _parse_entries(entries, feed_info: dict) -> list[dict]:
         else:
             date_str = ""
 
-        # 概要
+        # 概要（HTMLタグ除去）
         summary = entry.get("summary", "")
         if summary:
-            soup = BeautifulSoup(summary, "html.parser")
-            summary = soup.get_text(" ", strip=True)[:120]
+            try:
+                soup = BeautifulSoup(summary, "html.parser")
+                summary = soup.get_text(" ", strip=True)[:120]
+            except Exception:
+                summary = ""
 
         items.append({
-            "title":   title,
-            "link":    link,
-            "date":    date_str,
-            "summary": summary,
-            "source":  feed_info["name"],
+            "title":      title,
+            "link":       link,
+            "date":       date_str,
+            "summary":    summary,
+            "source":     feed_info["name"],
             "source_key": feed_info["key"],
-            "emoji":   feed_info["emoji"],
+            "emoji":      feed_info["emoji"],
         })
     return items
 
 
-def fetch_all_feeds() -> list[dict]:
-    """全フィードを並列取得してマージ・日時ソートする。"""
-    all_items = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as executor:
-        futures = {executor.submit(fetch_rss, f): f for f in FEEDS}
-        for future in concurrent.futures.as_completed(futures, timeout=15):
+def fetch_all_feeds() -> tuple[list[dict], dict]:
+    """全フィードを並列取得してマージ・日時ソートする。
+    戻り値: (items_list, debug_info_dict)
+    """
+    all_items: list[dict] = []
+    debug_info: dict = {}  # フィード名 -> 成功URL or エラー文字列
+
+    futures_map: dict = {}
+    try:
+        executor = concurrent.futures.ThreadPoolExecutor(max_workers=8)
+        for f in FEEDS:
+            fut = executor.submit(fetch_rss, f)
+            futures_map[fut] = f["name"]
+
+        # タイムアウトを長めに設定し、TimeoutError を明示的に捕捉する
+        done, not_done = concurrent.futures.wait(
+            futures_map.keys(),
+            timeout=25,
+            return_when=concurrent.futures.ALL_COMPLETED,
+        )
+        executor.shutdown(wait=False)
+
+        for fut in done:
+            feed_name = futures_map[fut]
             try:
-                all_items.extend(future.result())
-            except Exception:
-                pass
+                items, info = fut.result(timeout=1)
+                all_items.extend(items)
+                debug_info[feed_name] = f"✅ {len(items)}件 ({info})"
+            except Exception as e:
+                debug_info[feed_name] = f"❌ {e}"
+
+        for fut in not_done:
+            feed_name = futures_map[fut]
+            debug_info[feed_name] = "⏱️ タイムアウト"
+            fut.cancel()
+
+    except Exception as e:
+        debug_info["system"] = f"並列取得エラー: {e}"
 
     # 重複 URL 除去
-    seen = set()
-    unique = []
+    seen: set = set()
+    unique: list[dict] = []
     for item in all_items:
         if item["link"] not in seen:
             seen.add(item["link"])
             unique.append(item)
 
-    # 日付降順ソート（date文字列があるものを優先）
+    # 日付降順ソート
     unique.sort(key=lambda x: x["date"], reverse=True)
-    return unique
+    return unique, debug_info
 
 
 def classify(item: dict) -> str:
@@ -515,9 +613,12 @@ def get_genre_icon(genre: str, source_key: str) -> str:
 #  キャッシュ付きデータ取得
 # ───────────────────────────────────────────────
 @st.cache_data(ttl=300, show_spinner=False)  # 5分キャッシュ
-def get_news_data():
+def get_news_data() -> tuple[list[dict], dict]:
     """ニュースデータを取得してキャッシュする。"""
-    return fetch_all_feeds()
+    try:
+        return fetch_all_feeds()
+    except Exception as e:
+        return [], {"system": f"致命的エラー: {e}"}
 
 
 # ───────────────────────────────────────────────
@@ -614,14 +715,23 @@ def main():
 
     # データ取得
     with st.spinner("ニュースを取得中..."):
-        all_items = get_news_data()
+        all_items, debug_info = get_news_data()
 
     if not all_items:
-        st.error("ニュースの取得に失敗しました。インターネット接続を確認して、ページを更新してください。")
+        st.error("ニュースの取得に失敗しました。しばらくしてから更新ボタンを押してください。")
+        # デバッグ情報を折りたたんで表示
+        with st.expander("🔍 取得状況の詳細（開発者向け）"):
+            for src, msg in debug_info.items():
+                st.text(f"{src}: {msg}")
         if st.button("🔄 再読み込み"):
             st.cache_data.clear()
             st.rerun()
         return
+
+    # デバッグパネル（折りたたみ・通常時は非表示）
+    with st.expander("🔍 フィード取得状況", expanded=False):
+        for src, msg in debug_info.items():
+            st.text(f"{src}: {msg}")
 
     # タブ
     tab_all, tab_incident, tab_gourmet = st.tabs([
