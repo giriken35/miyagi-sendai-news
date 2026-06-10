@@ -471,6 +471,14 @@ def _parse_entries(entries, feed_info: dict) -> list[dict]:
             try:
                 soup = BeautifulSoup(summary, "html.parser")
                 summary = soup.get_text(" ", strip=True)[:300]
+                
+                # タイトルとほぼ同じ内容（重複）なら概要を消去する
+                t_clean = title.replace(" ", "").replace("　", "")
+                s_clean = summary.replace(" ", "").replace("　", "")
+                if len(t_clean) >= 10 and s_clean.startswith(t_clean[:10]):
+                    # 概要がタイトルより極端に長くない（＋25文字以内）なら重複とみなす
+                    if len(s_clean) <= len(t_clean) + 25:
+                        summary = ""
             except Exception:
                 summary = ""
 
