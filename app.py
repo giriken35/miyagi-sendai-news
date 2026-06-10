@@ -311,10 +311,14 @@ FEEDS = [
 # ───────────────────────────────────────────────
 #  キーワード分類設定
 # ───────────────────────────────────────────────
-INCIDENT_KEYWORDS = [
-    "逮捕", "火災", "事故", "警察", "容疑", "死亡", "負傷", "被害",
-    "事件", "犯罪", "捜査", "検挙", "刑事", "窃盗", "詐欺", "暴行",
-    "救助", "行方不明", "震度", "地震", "津波", "災害", "台風", "洪水",
+CRIME_KEYWORDS = [
+    "逮捕", "警察", "容疑", "被害", "事件", "犯罪", "捜査", "検挙", "刑事",
+    "窃盗", "詐欺", "暴行", "強盗", "殺人", "送検", "書類送検"
+]
+
+ACCIDENT_KEYWORDS = [
+    "事故", "火災", "死亡", "負傷", "救助", "行方不明", "衝突", "転落", "炎上",
+    "震度", "地震", "津波", "災害", "台風", "洪水", "警報"
 ]
 
 GOURMET_KEYWORDS = [
@@ -352,7 +356,7 @@ MIYAGI_KEYWORDS: list[str] = [
 ]
 
 # 取得上限：各媒体ごとの最新件数
-PER_SOURCE_LIMIT: int = 15
+PER_SOURCE_LIMIT: int = 20
 # 期間制限：現在から何日前までの記事を許可するか
 DAYS_LIMIT: int = 30
 
@@ -594,9 +598,12 @@ def classify(item: dict) -> str:
     for kw in TRAFFIC_KEYWORDS:
         if kw in title:
             return "traffic"
-    for kw in INCIDENT_KEYWORDS:
+    for kw in ACCIDENT_KEYWORDS:
         if kw in title:
-            return "incident"
+            return "accident"
+    for kw in CRIME_KEYWORDS:
+        if kw in title:
+            return "crime"
     for kw in REALESTATE_KEYWORDS:
         if kw in title:
             return "realestate"
@@ -691,7 +698,8 @@ def scrape_article(url: str) -> str | None:
 
 def get_genre_icon(genre: str, source_key: str) -> str:
     icons = {
-        "incident":   "🚨",
+        "crime":      "🚨",
+        "accident":   "💥",
         "gourmet":    "🍽️",
         "realestate": "🏢",
         "bear":       "🐻",
@@ -772,8 +780,10 @@ def render_news_card(item: dict, idx: int):
 
 def render_tab(items: list[dict], tab_genre: str | None = None):
     """タブ内のニュース一覧を描画する。"""
-    if tab_genre == "incident":
-        filtered = [it for it in items if classify(it) == "incident"]
+    if tab_genre == "crime":
+        filtered = [it for it in items if classify(it) == "crime"]
+    elif tab_genre == "accident":
+        filtered = [it for it in items if classify(it) == "accident"]
     elif tab_genre == "gourmet":
         filtered = [it for it in items if classify(it) == "gourmet"]
     elif tab_genre == "realestate":
@@ -838,9 +848,10 @@ def main():
             st.text(f"{src}: {msg}")
 
     # タブ
-    tab_all, tab_incident, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic = st.tabs([
+    tab_all, tab_crime, tab_accident, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic = st.tabs([
         f"📋 すべて ({len(all_items)})",
-        f"🚨 事件・事故",
+        f"🚨 事件",
+        f"💥 事故",
         f"🍽️ グルメ",
         f"🏢 不動産",
         f"🐻 熊",
@@ -851,8 +862,11 @@ def main():
     with tab_all:
         render_tab(all_items, tab_genre=None)
 
-    with tab_incident:
-        render_tab(all_items, tab_genre="incident")
+    with tab_crime:
+        render_tab(all_items, tab_genre="crime")
+
+    with tab_accident:
+        render_tab(all_items, tab_genre="accident")
 
     with tab_gourmet:
         render_tab(all_items, tab_genre="gourmet")
