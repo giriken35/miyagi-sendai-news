@@ -847,16 +847,25 @@ def main():
         for src, msg in debug_info.items():
             st.text(f"{src}: {msg}")
 
+    # タブ生成のための件数カウント
+    count_crime = sum(1 for it in all_items if classify(it) == "crime")
+    count_accident = sum(1 for it in all_items if classify(it) == "accident")
+    count_gourmet = sum(1 for it in all_items if classify(it) == "gourmet")
+    count_realestate = sum(1 for it in all_items if classify(it) == "realestate")
+    count_bear = sum(1 for it in all_items if classify(it) == "bear")
+    count_event = sum(1 for it in all_items if classify(it) == "event")
+    count_traffic = sum(1 for it in all_items if classify(it) == "traffic")
+
     # タブ
     tab_all, tab_crime, tab_accident, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic = st.tabs([
         f"📋 すべて ({len(all_items)})",
-        f"🚨 事件",
-        f"💥 事故",
-        f"🍽️ グルメ",
-        f"🏢 不動産",
-        f"🐻 熊",
-        f"🎪 イベント",
-        f"🚃 交通",
+        f"🚨 事件 ({count_crime})",
+        f"💥 事故 ({count_accident})",
+        f"🍽️ グルメ ({count_gourmet})",
+        f"🏢 不動産 ({count_realestate})",
+        f"🐻 熊 ({count_bear})",
+        f"🎪 イベント ({count_event})",
+        f"🚃 交通 ({count_traffic})",
     ])
 
     with tab_all:
