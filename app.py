@@ -276,7 +276,7 @@ FEEDS = [
         "emoji": "🍜",
         "urls": [
             "https://sendai-tushin.jp/feed/",
-            "https://sendai-tushin.jp/feed",
+            "https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja",
         ],
     },
     {
@@ -284,13 +284,8 @@ FEEDS = [
         "key": "kahoku",
         "emoji": "📰",
         "urls": [
-            # WordPress系の一般的なフィードURL（複数試行）
+            "https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja",
             "https://kahoku.news/feed/",
-            "https://kahoku.news/feed",
-            "https://kahoku.news/rss/",
-            "https://kahoku.news/rss.xml",
-            "https://kahoku.news/rss/category/miyagi/",
-            "https://kahoku.news/rss/news/",
         ],
     },
     {
@@ -298,9 +293,8 @@ FEEDS = [
         "key": "nhk",
         "emoji": "📡",
         "urls": [
-            # NHK全国ニュース（東北・宮城に絞ったRSSは非公開のため全国版を使用）
+            "https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja",
             "https://www3.nhk.or.jp/rss/news/cat0.xml",
-            "https://www.nhk.or.jp/rss/news/cat0.xml",
         ],
     },
     {
@@ -308,9 +302,8 @@ FEEDS = [
         "key": "yahoo",
         "emoji": "🗞️",
         "urls": [
-            # Yahoo!ニュース 地域（公開されているRSS）
+            "https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja",
             "https://news.yahoo.co.jp/rss/topics/domestic.xml",
-            "https://news.yahoo.co.jp/rss/topics/local.xml",
         ],
     },
 ]
