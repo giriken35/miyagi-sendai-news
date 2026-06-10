@@ -673,32 +673,16 @@ def render_news_card(item: dict, idx: int):
     st.markdown(
         f"""<div class="news-card">
             <div class="news-title">{icon} {item['title']}</div>
-            <div class="news-meta">
-                <span class="{badge_cls}">{item['source']}</span>
-                <span>🕐 {item['date']}</span>
+            <div class="news-meta" style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
+                <div style="display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap;">
+                    <span class="{badge_cls}">{item['source']}</span>
+                    <span>🕐 {item['date']}</span>
+                </div>
+                <a href="{item['link']}" target="_blank" class="open-link-btn" style="margin-top: 0; padding: 0.25rem 0.6rem; font-size: 0.65rem; white-space: nowrap;">🔗 続きを読む</a>
             </div>
         </div>""",
         unsafe_allow_html=True,
     )
-
-    summary = item.get("summary", "").strip()
-    if summary and len(summary) > 10:
-        with st.expander("📖 概要を読む", expanded=False):
-            st.markdown(
-                f'<div class="article-body">{summary}...</div>',
-                unsafe_allow_html=True,
-            )
-            st.markdown(
-                f'<a href="{item["link"]}" target="_blank" class="open-link-btn">'
-                f'🔗 元サイトで続きを読む</a>',
-                unsafe_allow_html=True,
-            )
-    else:
-        st.markdown(
-            f'<div style="margin-bottom: 1.2rem;"><a href="{item["link"]}" target="_blank" class="open-link-btn">'
-            f'🔗 元サイトで読む</a></div>',
-            unsafe_allow_html=True,
-        )
 
 
 def render_tab(items: list[dict], tab_genre: str | None = None):
