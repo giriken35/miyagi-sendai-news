@@ -331,6 +331,30 @@ GOURMET_KEYWORDS = [
     "パン", "ケーキ", "コーヒー", "ベーカリー", "料理", "食堂",
 ]
 
+# ── 宮城県・仙台市 地域キーワード（地域フィルタリング用） ──
+# タイトルまたは概要にこれらのいずれかが含まれるニュースのみを表示する
+MIYAGI_KEYWORDS: list[str] = [
+    # 県・市の総称
+    "宮城", "仙台",
+    # 仙台市5区
+    "青葉区", "宮城野区", "若林区", "太白区", "泉区",
+    # 宮城県内の主要市
+    "石巻", "塩竈", "塩釜", "気仙沼", "白石", "名取",
+    "角田", "多賀城", "岩沼", "登米", "栗原", "東松島",
+    "大崎", "富谷",
+    # 宮城県内の主要町村
+    "松島", "七ヶ浜", "利府", "大和", "大郷", "大衡",
+    "川崎", "丸森", "亘理", "山元", "涌谷", "美里",
+    "女川", "南三陸", "加美", "色麻",
+    # 宮城固有の地名・施設・チーム名
+    "楽天", "イーグルス", "ベガルタ", "89ERS", "仙台89",
+    "東北楽天", "東北大学", "東北大", "東北放送", "TBC",
+    "仙台空港", "仙台港", "仙台駅", "あおば", "定禅寺",
+    "秋保", "作並", "塩釜港", "松島湾",
+    # 河北新報の記事に頻出する東北固有のキーワード
+    "東北", "みやぎ",
+]
+
 # ───────────────────────────────────────────────
 #  ユーティリティ関数
 # ───────────────────────────────────────────────
@@ -499,9 +523,31 @@ def fetch_all_feeds() -> tuple[list[dict], dict]:
             seen.add(item["link"])
             unique.append(item)
 
+    # ── 地域フィルタリング ──
+    # 仙台つーしんは全記事が地域情報なので免除。
+    # それ以外は title + summary に宮城/仙台関連キーワードが
+    # 1つでも含まれるもののみ残す。
+    before_count = len(unique)
+    filtered: list[dict] = []
+    for item in unique:
+        if item["source_key"] == "tushin":
+            # 仙台つーしんは全件通過
+            filtered.append(item)
+        else:
+            target = (item["title"] + " " + item["summary"]).upper()
+            # 大文字比較なので半角英数は統一されるが、日本語は変わらない
+            # → そのまま日本語キーワードで検索
+            if any(kw in item["title"] + item["summary"] for kw in MIYAGI_KEYWORDS):
+                filtered.append(item)
+    after_count = len(filtered)
+    debug_info["地域フィルタ"] = (
+        f"✅ {before_count}件 → {after_count}件"
+        f"（除外: {before_count - after_count}件）"
+    )
+
     # 日付降順ソート
-    unique.sort(key=lambda x: x["date"], reverse=True)
-    return unique, debug_info
+    filtered.sort(key=lambda x: x["date"], reverse=True)
+    return filtered, debug_info
 
 
 def classify(item: dict) -> str:
