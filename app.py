@@ -749,10 +749,10 @@ def main():
             st.rerun()
         return
 
-    # デバッグパネル（折りたたみ・通常時は非表示）
-    with st.expander("🔍 フィード取得状況", expanded=False):
-        for src, msg in debug_info.items():
-            st.text(f"{src}: {msg}")
+    # 更新ボタン（ジャンルタブのすぐ上）
+    if st.button("🔄 ニュースを更新する", use_container_width=True):
+        st.cache_data.clear()
+        st.rerun()
 
     # タブ生成のための件数カウント
     count_crime = sum(1 for it in all_items if classify(it) == "crime")
@@ -799,11 +799,11 @@ def main():
     with tab_traffic:
         render_tab(all_items, tab_genre="traffic")
 
-    # 更新ボタン（画面下部）
-    st.markdown("<br>", unsafe_allow_html=True)
-    if st.button("🔄 ニュースを更新する", use_container_width=True):
-        st.cache_data.clear()
-        st.rerun()
+    # デバッグパネル（画面下部に移動）
+    st.markdown("<br><br>", unsafe_allow_html=True)
+    with st.expander("🔍 フィード取得状況", expanded=False):
+        for src, msg in debug_info.items():
+            st.text(f"{src}: {msg}")
 
 
 if __name__ == "__main__":
