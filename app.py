@@ -324,6 +324,16 @@ GOURMET_KEYWORDS = [
     "パン", "ケーキ", "コーヒー", "ベーカリー", "料理", "食堂",
 ]
 
+REALESTATE_KEYWORDS = [
+    "不動産", "マンション", "アパート", "住宅", "地価", "分譲",
+    "再開発", "ビル", "新築", "賃貸", "物件", "商業施設", "タワマン",
+    "開発", "建設", "着工", "竣工", "跡地"
+]
+
+BEAR_KEYWORDS = [
+    "熊", "クマ", "ツキノワグマ", "ヒグマ", "出没", "目撃"
+]
+
 # ── 宮城県・仙台市 地域キーワード（厳格化版・定義済み） ──
 # この7語のいずれかがタイトルまたは概要に含まれる記事のみ表示する
 MIYAGI_KEYWORDS: list[str] = [
@@ -564,15 +574,23 @@ def fetch_all_feeds() -> tuple[list[dict], dict]:
 def classify(item: dict) -> str:
     """タイトルからジャンルを判定する。"""
     title = item["title"]
-    # 仙台つーしんは基本的にグルメ・開店
-    if item["source_key"] == "tushin":
-        return "gourmet"
+    # 仙台つーしんは基本的にグルメ・開店が多いが、熊や不動産も混ざるので順序に注意
+    for kw in BEAR_KEYWORDS:
+        if kw in title:
+            return "bear"
     for kw in INCIDENT_KEYWORDS:
         if kw in title:
             return "incident"
+    for kw in REALESTATE_KEYWORDS:
+        if kw in title:
+            return "realestate"
     for kw in GOURMET_KEYWORDS:
         if kw in title:
             return "gourmet"
+            
+    if item["source_key"] == "tushin":
+        return "gourmet"
+        
     return "general"
 
 
@@ -657,11 +675,14 @@ def scrape_article(url: str) -> str | None:
 
 def get_genre_icon(genre: str, source_key: str) -> str:
     icons = {
-        "incident": "🚨",
-        "gourmet":  "🍽️",
-        "general":  "📰",
+        "incident":   "🚨",
+        "gourmet":    "🍽️",
+        "realestate": "🏢",
+        "bear":       "🐻",
+        "general":    "📰",
     }
-    if source_key == "tushin":
+    # 仙台つーしんで一般記事に分類された場合は買い物アイコンを優先
+    if source_key == "tushin" and genre == "general":
         return "🛍️"
     return icons.get(genre, "📰")
 
@@ -737,6 +758,10 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "incident"]
     elif tab_genre == "gourmet":
         filtered = [it for it in items if classify(it) == "gourmet"]
+    elif tab_genre == "realestate":
+        filtered = [it for it in items if classify(it) == "realestate"]
+    elif tab_genre == "bear":
+        filtered = [it for it in items if classify(it) == "bear"]
     else:
         filtered = items  # 全件
 
@@ -791,10 +816,12 @@ def main():
             st.text(f"{src}: {msg}")
 
     # タブ
-    tab_all, tab_incident, tab_gourmet = st.tabs([
+    tab_all, tab_incident, tab_gourmet, tab_realestate, tab_bear = st.tabs([
         f"📋 すべて ({len(all_items)})",
         f"🚨 事件・事故",
-        f"🍽️ グルメ・開店",
+        f"🍽️ グルメ",
+        f"🏢 不動産・開発",
+        f"🐻 熊・出没",
     ])
 
     with tab_all:
@@ -805,6 +832,12 @@ def main():
 
     with tab_gourmet:
         render_tab(all_items, tab_genre="gourmet")
+
+    with tab_realestate:
+        render_tab(all_items, tab_genre="realestate")
+
+    with tab_bear:
+        render_tab(all_items, tab_genre="bear")
 
     # 更新ボタン（画面下部）
     st.markdown("<br>", unsafe_allow_html=True)
