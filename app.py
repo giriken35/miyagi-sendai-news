@@ -84,9 +84,10 @@ html, body, [data-testid="stAppViewContainer"] {
     background: #EDE8DC;
     border-radius: 12px;
     padding: 4px;
-    gap: 2px;
+    gap: 4px;
     border-bottom: none !important;
     box-shadow: inset 0 1px 3px rgba(0,0,0,0.08);
+    flex-wrap: wrap !important;
 }
 [data-testid="stTabs"] [role="tab"] {
     font-family: 'Noto Sans JP', sans-serif !important;
@@ -98,6 +99,8 @@ html, body, [data-testid="stAppViewContainer"] {
     border: none !important;
     background: transparent !important;
     transition: all 0.2s ease;
+    flex-grow: 1 !important;
+    justify-content: center !important;
 }
 [data-testid="stTabs"] [role="tab"][aria-selected="true"] {
     background: #1A1A2E !important;
