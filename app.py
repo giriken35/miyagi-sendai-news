@@ -334,6 +334,16 @@ BEAR_KEYWORDS = [
     "熊", "クマ", "ツキノワグマ", "ヒグマ", "出没", "目撃"
 ]
 
+EVENT_KEYWORDS = [
+    "イベント", "フェス", "祭り", "まつり", "花火", "ライブ", "コンサート",
+    "開催", "大会", "マルシェ", "フェスティバル", "展示", "展覧会", "イルミネーション"
+]
+
+TRAFFIC_KEYWORDS = [
+    "交通", "渋滞", "通行止め", "電車", "遅延", "運休", "新幹線",
+    "バス", "フライト", "航空", "地下鉄", "JR", "運転見合わせ", "ダイヤ乱れ"
+]
+
 # ── 宮城県・仙台市 地域キーワード（厳格化版・定義済み） ──
 # この7語のいずれかがタイトルまたは概要に含まれる記事のみ表示する
 MIYAGI_KEYWORDS: list[str] = [
@@ -578,6 +588,12 @@ def classify(item: dict) -> str:
     for kw in BEAR_KEYWORDS:
         if kw in title:
             return "bear"
+    for kw in EVENT_KEYWORDS:
+        if kw in title:
+            return "event"
+    for kw in TRAFFIC_KEYWORDS:
+        if kw in title:
+            return "traffic"
     for kw in INCIDENT_KEYWORDS:
         if kw in title:
             return "incident"
@@ -679,6 +695,8 @@ def get_genre_icon(genre: str, source_key: str) -> str:
         "gourmet":    "🍽️",
         "realestate": "🏢",
         "bear":       "🐻",
+        "event":      "🎪",
+        "traffic":    "🚃",
         "general":    "📰",
     }
     # 仙台つーしんで一般記事に分類された場合は買い物アイコンを優先
@@ -762,6 +780,10 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "realestate"]
     elif tab_genre == "bear":
         filtered = [it for it in items if classify(it) == "bear"]
+    elif tab_genre == "event":
+        filtered = [it for it in items if classify(it) == "event"]
+    elif tab_genre == "traffic":
+        filtered = [it for it in items if classify(it) == "traffic"]
     else:
         filtered = items  # 全件
 
@@ -816,12 +838,14 @@ def main():
             st.text(f"{src}: {msg}")
 
     # タブ
-    tab_all, tab_incident, tab_gourmet, tab_realestate, tab_bear = st.tabs([
+    tab_all, tab_incident, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic = st.tabs([
         f"📋 すべて ({len(all_items)})",
         f"🚨 事件・事故",
         f"🍽️ グルメ",
-        f"🏢 不動産・開発",
-        f"🐻 熊・出没",
+        f"🏢 不動産",
+        f"🐻 熊",
+        f"🎪 イベント",
+        f"🚃 交通",
     ])
 
     with tab_all:
@@ -838,6 +862,12 @@ def main():
 
     with tab_bear:
         render_tab(all_items, tab_genre="bear")
+
+    with tab_event:
+        render_tab(all_items, tab_genre="event")
+
+    with tab_traffic:
+        render_tab(all_items, tab_genre="traffic")
 
     # 更新ボタン（画面下部）
     st.markdown("<br>", unsafe_allow_html=True)
