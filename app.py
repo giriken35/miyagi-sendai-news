@@ -470,7 +470,7 @@ def _parse_entries(entries, feed_info: dict) -> list[dict]:
         if summary:
             try:
                 soup = BeautifulSoup(summary, "html.parser")
-                summary = soup.get_text(" ", strip=True)[:120]
+                summary = soup.get_text(" ", strip=True)[:300]
             except Exception:
                 summary = ""
 
@@ -621,85 +621,6 @@ def classify(item: dict) -> str:
     return "general"
 
 
-def scrape_article(url: str) -> str | None:
-    """指定 URL から本文テキストを抽出する（広告・画像除去）。"""
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) "
-            "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 "
-            "Mobile/15E148 Safari/604.1"
-        ),
-        "Accept-Language": "ja,en;q=0.9",
-    }
-    try:
-        resp = requests.get(url, headers=headers, timeout=10)
-        resp.encoding = resp.apparent_encoding or "utf-8"
-        html = resp.text
-    except Exception as e:
-        return None
-
-    soup = BeautifulSoup(html, "html.parser")
-
-    # 不要要素を除去
-    for tag in soup(["script", "style", "nav", "header", "footer",
-                     "aside", "figure", "figcaption", "iframe",
-                     "noscript", "form", "button", "input",
-                     "advertisement", "ads"]):
-        tag.decompose()
-    for tag in soup.find_all(True, {"class": re.compile(
-        r"(ad|ads|advertisement|banner|sidebar|social|share|comment|"
-        r"recommend|related|popup|overlay|cookie|breadcrumb|pagination|"
-        r"nav|menu|footer|header|widget)", re.I
-    )}):
-        tag.decompose()
-
-    # 本文候補を探す（article > main > div[class*=content] 順）
-    body = None
-    for selector in [
-        "article",
-        '[role="main"]',
-        "main",
-        '[class*="article-body"]',
-        '[class*="article-content"]',
-        '[class*="entry-content"]',
-        '[class*="post-body"]',
-        '[class*="content-body"]',
-        '[class*="story-body"]',
-        '[class*="article__body"]',
-        '[class*="articleBody"]',
-        ".content",
-        "#content",
-    ]:
-        body = soup.select_one(selector)
-        if body:
-            break
-
-    if body is None:
-        body = soup.body or soup
-
-    # テキスト抽出
-    paragraphs = []
-    for p in body.find_all(["p", "h2", "h3", "h4", "li"]):
-        text = p.get_text(" ", strip=True)
-        # 短すぎる・広告っぽい文は除外
-        if len(text) < 15:
-            continue
-        if any(ng in text for ng in [
-            "Cookie", "JavaScript", "ログイン", "会員登録",
-            "無断転載", "Copyright", "All Rights Reserved",
-            "プライバシー", "利用規約",
-        ]):
-            continue
-        paragraphs.append(text)
-
-    if not paragraphs:
-        # フォールバック: 全テキスト
-        raw = body.get_text(" ", strip=True)
-        return raw[:1500] if raw else None
-
-    return "\n\n".join(paragraphs[:40])
-
-
 def get_genre_icon(genre: str, source_key: str) -> str:
     icons = {
         "crime":      "🚨",
@@ -752,32 +673,22 @@ def render_news_card(item: dict, idx: int):
         unsafe_allow_html=True,
     )
 
-    # 本文アコーディオン
-    exp_key = f"exp_{idx}_{item['link'][:30]}"
-    with st.expander("📖 本文を読む", expanded=False):
-        col1, col2 = st.columns([5, 1])
-        with col1:
-            with st.spinner("本文を取得中..."):
-                text = scrape_article(item["link"])
-
-        if text and len(text) > 50:
-            # 段落ごとに分割して表示
-            paras = [p for p in text.split("\n\n") if p.strip()]
-            body_html = "".join(f"<p>{p}</p>" for p in paras)
+    summary = item.get("summary", "").strip()
+    if summary and len(summary) > 10:
+        with st.expander("📖 概要を読む", expanded=False):
             st.markdown(
-                f'<div class="article-body">{body_html}</div>',
+                f'<div class="article-body">{summary}...</div>',
                 unsafe_allow_html=True,
             )
-        else:
             st.markdown(
-                f'<div class="article-body">本文の取得に失敗しました。元サイトでご確認ください。</div>',
+                f'<a href="{item["link"]}" target="_blank" class="open-link-btn">'
+                f'🔗 元サイトで続きを読む</a>',
                 unsafe_allow_html=True,
             )
-
-        # 元サイトへのリンク
+    else:
         st.markdown(
-            f'<a href="{item["link"]}" target="_blank" class="open-link-btn">'
-            f'🔗 元サイトで読む</a>',
+            f'<div style="margin-bottom: 1.2rem;"><a href="{item["link"]}" target="_blank" class="open-link-btn">'
+            f'🔗 元サイトで読む</a></div>',
             unsafe_allow_html=True,
         )
 
