@@ -331,29 +331,17 @@ GOURMET_KEYWORDS = [
     "パン", "ケーキ", "コーヒー", "ベーカリー", "料理", "食堂",
 ]
 
-# ── 宮城県・仙台市 地域キーワード（地域フィルタリング用） ──
-# タイトルまたは概要にこれらのいずれかが含まれるニュースのみを表示する
+# ── 宮城県・仙台市 地域キーワード（厳格化版・定義済み） ──
+# この7語のいずれかがタイトルまたは概要に含まれる記事のみ表示する
 MIYAGI_KEYWORDS: list[str] = [
-    # 県・市の総称
-    "宮城", "仙台",
-    # 仙台市5区
+    "仙台", "宮城",
     "青葉区", "宮城野区", "若林区", "太白区", "泉区",
-    # 宮城県内の主要市
-    "石巻", "塩竈", "塩釜", "気仙沼", "白石", "名取",
-    "角田", "多賀城", "岩沼", "登米", "栗原", "東松島",
-    "大崎", "富谷",
-    # 宮城県内の主要町村
-    "松島", "七ヶ浜", "利府", "大和", "大郷", "大衡",
-    "川崎", "丸森", "亘理", "山元", "涌谷", "美里",
-    "女川", "南三陸", "加美", "色麻",
-    # 宮城固有の地名・施設・チーム名
-    "楽天", "イーグルス", "ベガルタ", "89ERS", "仙台89",
-    "東北楽天", "東北大学", "東北大", "東北放送", "TBC",
-    "仙台空港", "仙台港", "仙台駅", "あおば", "定禅寺",
-    "秋保", "作並", "塩釜港", "松島湾",
-    # 河北新報の記事に頻出する東北固有のキーワード
-    "東北", "みやぎ",
 ]
+
+# 取得上限：各媒体ごとの最新件数
+PER_SOURCE_LIMIT: int = 15
+# 期間制限：現在から何日前までの記事を許可するか
+DAYS_LIMIT: int = 30
 
 # ───────────────────────────────────────────────
 #  ユーティリティ関数
@@ -437,23 +425,24 @@ def fetch_rss(feed_info: dict) -> tuple[list[dict], str]:
 def _parse_entries(entries, feed_info: dict) -> list[dict]:
     """feedparser エントリを統一形式に変換する。"""
     items = []
-    for entry in entries[:30]:
+    for entry in entries[:50]:  # 上限を増やしてからどうせフィルタにかける
         title = entry.get("title", "").strip()
         link  = entry.get("link", "").strip()
         if not title or not link:
             continue
 
-        # 日時パース
+        # 日時パース ─ 表示用文字列と Unixタイムスタンプの両方を保持
         pub = entry.get("published_parsed") or entry.get("updated_parsed")
+        pub_ts: float = 0.0  # 0 = 不明（期間フィルタで通過扱い）
+        date_str: str = ""
         if pub:
             try:
-                dt = datetime.datetime(*pub[:6], tzinfo=datetime.timezone.utc)
-                dt_local = dt.astimezone(datetime.timezone(datetime.timedelta(hours=9)))
-                date_str = dt_local.strftime("%m/%d %H:%M")
+                dt_utc = datetime.datetime(*pub[:6], tzinfo=datetime.timezone.utc)
+                dt_jst = dt_utc.astimezone(datetime.timezone(datetime.timedelta(hours=9)))
+                pub_ts  = dt_utc.timestamp()
+                date_str = dt_jst.strftime("%m/%d %H:%M")
             except Exception:
-                date_str = ""
-        else:
-            date_str = ""
+                pass
 
         # 概要（HTMLタグ除去）
         summary = entry.get("summary", "")
@@ -468,6 +457,7 @@ def _parse_entries(entries, feed_info: dict) -> list[dict]:
             "title":      title,
             "link":       link,
             "date":       date_str,
+            "pub_ts":     pub_ts,    # 期間フィルタ・ソート用 Unixタイムスタンプ
             "summary":    summary,
             "source":     feed_info["name"],
             "source_key": feed_info["key"],
@@ -523,31 +513,59 @@ def fetch_all_feeds() -> tuple[list[dict], dict]:
             seen.add(item["link"])
             unique.append(item)
 
-    # ── 地域フィルタリング ──
-    # 仙台つーしんは全記事が地域情報なので免除。
-    # それ以外は title + summary に宮城/仙台関連キーワードが
-    # 1つでも含まれるもののみ残す。
-    before_count = len(unique)
-    filtered: list[dict] = []
-    for item in unique:
-        if item["source_key"] == "tushin":
-            # 仙台つーしんは全件通過
-            filtered.append(item)
-        else:
-            target = (item["title"] + " " + item["summary"]).upper()
-            # 大文字比較なので半角英数は統一されるが、日本語は変わらない
-            # → そのまま日本語キーワードで検索
-            if any(kw in item["title"] + item["summary"] for kw in MIYAGI_KEYWORDS):
-                filtered.append(item)
-    after_count = len(filtered)
-    debug_info["地域フィルタ"] = (
-        f"✅ {before_count}件 → {after_count}件"
-        f"（除外: {before_count - after_count}件）"
+    # ───────────────────────────────────────────────
+    #  3段階フィルタリング
+    # ───────────────────────────────────────────────
+
+    now_ts = datetime.datetime.now(datetime.timezone.utc).timestamp()
+    cutoff_ts = now_ts - DAYS_LIMIT * 86400  # 30日 × 86400秒
+
+    # ステップ1: 期間フィルタ（30日以内、pub_ts=0 は不明として通過）
+    after_time: list[dict] = [
+        it for it in unique
+        if it["pub_ts"] == 0.0 or it["pub_ts"] >= cutoff_ts
+    ]
+    debug_info["期間フィルタ"] = (
+        f"✅ {len(unique)}件 → {len(after_time)}件"
+        f"（{DAYS_LIMIT}日以上を除外: {len(unique)-len(after_time)}件）"
     )
 
-    # 日付降順ソート
-    filtered.sort(key=lambda x: x["date"], reverse=True)
-    return filtered, debug_info
+    # ステップ2: 地域フィルタ（宮城/仙台関連キーワード）
+    # 仙台つーしん（tushin）は全記事が地域情報なので常に通過
+    after_region: list[dict] = []
+    for it in after_time:
+        if it["source_key"] == "tushin":
+            after_region.append(it)
+        elif any(kw in it["title"] + it["summary"] for kw in MIYAGI_KEYWORDS):
+            after_region.append(it)
+    debug_info["地域フィルタ"] = (
+        f"✅ {len(after_time)}件 → {len(after_region)}件"
+        f"（除外: {len(after_time)-len(after_region)}件 / "
+        f"キーワード: {', '.join(MIYAGI_KEYWORDS)}）"
+    )
+
+    # ステップ3: 媒体ごとに最新{PER_SOURCE_LIMIT}件に限定
+    # pub_ts 降順（新しい順）で並び替えて上位{PER_SOURCE_LIMIT}件だけ残す
+    from collections import defaultdict
+    source_buckets: dict[str, list[dict]] = defaultdict(list)
+    for it in after_region:
+        source_buckets[it["source_key"]].append(it)
+
+    after_cap: list[dict] = []
+    for src_key, src_items in source_buckets.items():
+        # pub_ts 降順ソート→上位PER_SOURCE_LIMIT件
+        sorted_src = sorted(src_items, key=lambda x: x["pub_ts"], reverse=True)
+        after_cap.extend(sorted_src[:PER_SOURCE_LIMIT])
+        src_name = sorted_src[0]["source"] if sorted_src else src_key
+        debug_info[f"上限({src_name})"] = (
+            f"✅ {len(src_items)}件 → {min(len(src_items), PER_SOURCE_LIMIT)}件"
+        )
+
+    # 全媒体を合流して日付降順ソート
+    after_cap.sort(key=lambda x: (x["pub_ts"], x["date"]), reverse=True)
+    debug_info["合計"] = f"✅ 全{len(after_cap)}件を表示"
+
+    return after_cap, debug_info
 
 
 def classify(item: dict) -> str:
