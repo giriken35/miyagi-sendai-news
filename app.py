@@ -137,6 +137,39 @@ html, body, [data-testid="stAppViewContainer"] {
     transform: translateY(-1px);
 }
 
+/* ── カードのレイアウトと日付ボックス ── */
+.news-card-inner {
+    display: flex;
+    gap: 0.8rem;
+    align-items: center;
+}
+.news-date-box {
+    flex-shrink: 0;
+    text-align: center;
+    background: #F5F0E6;
+    padding: 0.4rem 0.5rem;
+    border-radius: 8px;
+    color: #5A4A3A;
+    min-width: 3.5rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    border: 1px solid #EAE3D5;
+}
+.news-date-day {
+    font-size: 0.85rem;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+}
+.news-date-time {
+    font-size: 0.65rem;
+    font-weight: 500;
+    margin-top: 0.2rem;
+    color: #8A8070;
+}
+.news-content-area {
+    flex-grow: 1;
+}
+
 /* ── カード内タイトル ── */
 .news-title {
     font-family: 'Noto Serif JP', serif;
@@ -669,16 +702,33 @@ def render_news_card(item: dict, idx: int):
     src_key  = item["source_key"]
     badge_cls = f"source-badge {src_key}"
 
+    date_parts = item.get('date', '').split(" ")
+    if len(date_parts) >= 2:
+        day_str = date_parts[0]
+        if day_str.startswith("0"): 
+            day_str = day_str[1:] # 06/10 -> 6/10
+        time_str = date_parts[1]
+    else:
+        day_str = "--/--"
+        time_str = "--:--"
+
     # カードの外枠
     st.markdown(
         f"""<div class="news-card">
-            <div class="news-title">{icon} {item['title']}</div>
-            <div class="news-meta" style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
-                <div style="display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap;">
-                    <span class="{badge_cls}">{item['source']}</span>
-                    <span>🕐 {item['date']}</span>
+            <div class="news-card-inner">
+                <div class="news-date-box">
+                    <div class="news-date-day">{day_str}</div>
+                    <div class="news-date-time">{time_str}</div>
                 </div>
-                <a href="{item['link']}" target="_blank" class="open-link-btn" style="margin-top: 0; padding: 0.25rem 0.6rem; font-size: 0.65rem; white-space: nowrap;">🔗 続きを読む</a>
+                <div class="news-content-area">
+                    <div class="news-title">{icon} {item['title']}</div>
+                    <div class="news-meta" style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem;">
+                        <div style="display: flex; gap: 0.6rem; align-items: center; flex-wrap: wrap;">
+                            <span class="{badge_cls}">{item['source']}</span>
+                        </div>
+                        <a href="{item['link']}" target="_blank" class="open-link-btn" style="margin-top: 0; padding: 0.25rem 0.6rem; font-size: 0.65rem; white-space: nowrap;">🔗 続きを読む</a>
+                    </div>
+                </div>
             </div>
         </div>""",
         unsafe_allow_html=True,
