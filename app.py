@@ -427,7 +427,7 @@ MIYAGI_KEYWORDS: list[str] = [
 # 取得上限：各媒体ごとの最新件数
 PER_SOURCE_LIMIT: int = 50
 # 期間制限：現在から何日前までの記事を許可するか
-DAYS_LIMIT: int = 30
+DAYS_LIMIT: int = 60
 
 # ───────────────────────────────────────────────
 #  ユーティリティ関数
@@ -599,12 +599,14 @@ def fetch_all_feeds() -> tuple[list[dict], dict]:
     except Exception as e:
         debug_info["system"] = f"並列取得エラー: {e}"
 
-    # 重複 URL 除去
-    seen: set = set()
+    # 重複 URL・タイトル除去
+    seen_links: set = set()
+    seen_titles: set = set()
     unique: list[dict] = []
     for item in all_items:
-        if item["link"] not in seen:
-            seen.add(item["link"])
+        if item["link"] not in seen_links and item["title"] not in seen_titles:
+            seen_links.add(item["link"])
+            seen_titles.add(item["title"])
             unique.append(item)
 
     # ───────────────────────────────────────────────
