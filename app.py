@@ -363,8 +363,9 @@ EARTHQUAKE_KEYWORDS = [
 ]
 
 SPORTS_KEYWORDS = [
-    "スポーツ", "野球", "サッカー", "バスケ", "楽天", "イーグルス",
-    "ベガルタ", "89ERS", "ナイナーズ", "試合", "大会", "優勝", "選手", "監督", "五輪", "オリンピック"
+    "スポーツ", "野球", "プロ野球", "高校野球", "サッカー", "バスケ", "楽天", "イーグルス",
+    "ベガルタ", "89ERS", "ナイナーズ", "試合", "大会", "優勝", "選手", "監督", "五輪", "オリンピック",
+    "巨人", "マウンド", "降板", "ホームラン", "ドラフト"
 ]
 
 GOURMET_KEYWORDS = [
@@ -395,6 +396,17 @@ TRAFFIC_KEYWORDS = [
 ]
 
 # ── 宮城県・仙台市 地域キーワード（厳格化版・定義済み） ──
+POLITICS_KEYWORDS = [
+    "政治", "選挙", "市長", "県知事", "知事", "議会", "市議会", "県議会", "議員", "立候補", "投票", "公約", "市政", "県政", "自民", "立憲", "公明", "共産", "維新"
+]
+
+MEDICAL_KEYWORDS = [
+    "医療", "病院", "医師", "看護師", "患者", "感染", "コロナ", "インフルエンザ", "ワクチン", "治療", "手術", "病気", "保健所", "健康", "クリニック", "診療"
+]
+
+LIFE_KEYWORDS = [
+    "生活", "暮らし", "子育て", "教育", "学校", "保育園", "幼稚園", "児童", "生徒", "給食", "スーパー", "買い物", "値上げ", "補助金", "支援金", "ゴミ", "天気", "気象", "気温", "猛暑", "寒波", "水道"
+]
 # この7語のいずれかがタイトルまたは概要に含まれる記事のみ表示する
 MIYAGI_KEYWORDS: list[str] = [
     "仙台", "宮城",
@@ -646,6 +658,9 @@ def classify(item: dict) -> str:
     for kw in BEAR_KEYWORDS:
         if kw in title:
             return "bear"
+    for kw in SPORTS_KEYWORDS:
+        if kw in title:
+            return "sports"
     for kw in EVENT_KEYWORDS:
         if kw in title:
             return "event"
@@ -658,12 +673,18 @@ def classify(item: dict) -> str:
     for kw in ACCIDENT_KEYWORDS:
         if kw in title:
             return "accident"
-    for kw in SPORTS_KEYWORDS:
-        if kw in title:
-            return "sports"
     for kw in CRIME_KEYWORDS:
         if kw in title:
             return "crime"
+    for kw in POLITICS_KEYWORDS:
+        if kw in title:
+            return "politics"
+    for kw in MEDICAL_KEYWORDS:
+        if kw in title:
+            return "medical"
+    for kw in LIFE_KEYWORDS:
+        if kw in title:
+            return "life"
     for kw in REALESTATE_KEYWORDS:
         if kw in title:
             return "realestate"
@@ -688,6 +709,9 @@ def get_genre_icon(genre: str, source_key: str) -> str:
         "event":      "🎪",
         "traffic":    "🚃",
         "sports":     "⚽",
+        "politics":   "🏛️",
+        "medical":    "🏥",
+        "life":       "🏠",
         "general":    "📰",
     }
     # 仙台つーしんで一般記事に分類された場合は買い物アイコンを優先
@@ -772,6 +796,12 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "traffic"]
     elif tab_genre == "sports":
         filtered = [it for it in items if classify(it) == "sports"]
+    elif tab_genre == "politics":
+        filtered = [it for it in items if classify(it) == "politics"]
+    elif tab_genre == "medical":
+        filtered = [it for it in items if classify(it) == "medical"]
+    elif tab_genre == "life":
+        filtered = [it for it in items if classify(it) == "life"]
     elif tab_genre == "general":
         filtered = [it for it in items if classify(it) == "general"]
     else:
@@ -837,10 +867,13 @@ def main():
     count_event = sum(1 for it in all_items if classify(it) == "event")
     count_traffic = sum(1 for it in all_items if classify(it) == "traffic")
     count_sports = sum(1 for it in all_items if classify(it) == "sports")
+    count_politics = sum(1 for it in all_items if classify(it) == "politics")
+    count_medical = sum(1 for it in all_items if classify(it) == "medical")
+    count_life = sum(1 for it in all_items if classify(it) == "life")
     count_general = sum(1 for it in all_items if classify(it) == "general")
 
     # タブ
-    tab_all, tab_crime, tab_accident, tab_earthquake, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic, tab_sports, tab_general = st.tabs([
+    tab_all, tab_crime, tab_accident, tab_earthquake, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic, tab_sports, tab_politics, tab_medical, tab_life, tab_general = st.tabs([
         f"📋 すべて ({len(all_items)})",
         f"🚨 事件 ({count_crime})",
         f"💥 事故 ({count_accident})",
@@ -851,6 +884,9 @@ def main():
         f"🎪 イベント ({count_event})",
         f"🚃 交通 ({count_traffic})",
         f"⚽ スポーツ ({count_sports})",
+        f"🏛️ 政治 ({count_politics})",
+        f"🏥 医療 ({count_medical})",
+        f"🏠 生活 ({count_life})",
         f"📰 その他 ({count_general})",
     ])
 
@@ -883,6 +919,15 @@ def main():
 
     with tab_sports:
         render_tab(all_items, tab_genre="sports")
+
+    with tab_politics:
+        render_tab(all_items, tab_genre="politics")
+
+    with tab_medical:
+        render_tab(all_items, tab_genre="medical")
+
+    with tab_life:
+        render_tab(all_items, tab_genre="life")
 
     with tab_general:
         render_tab(all_items, tab_genre="general")
