@@ -355,7 +355,16 @@ CRIME_KEYWORDS = [
 
 ACCIDENT_KEYWORDS = [
     "事故", "火災", "死亡", "負傷", "救助", "行方不明", "衝突", "転落", "炎上",
-    "震度", "地震", "津波", "災害", "台風", "洪水", "警報"
+    "災害", "台風", "洪水", "警報"
+]
+
+EARTHQUAKE_KEYWORDS = [
+    "震度", "地震", "津波", "余震", "マグニチュード", "揺れ"
+]
+
+SPORTS_KEYWORDS = [
+    "スポーツ", "野球", "サッカー", "バスケ", "楽天", "イーグルス",
+    "ベガルタ", "89ERS", "ナイナーズ", "試合", "大会", "優勝", "選手", "監督", "五輪", "オリンピック"
 ]
 
 GOURMET_KEYWORDS = [
@@ -643,9 +652,15 @@ def classify(item: dict) -> str:
     for kw in TRAFFIC_KEYWORDS:
         if kw in title:
             return "traffic"
+    for kw in EARTHQUAKE_KEYWORDS:
+        if kw in title:
+            return "earthquake"
     for kw in ACCIDENT_KEYWORDS:
         if kw in title:
             return "accident"
+    for kw in SPORTS_KEYWORDS:
+        if kw in title:
+            return "sports"
     for kw in CRIME_KEYWORDS:
         if kw in title:
             return "crime"
@@ -666,11 +681,13 @@ def get_genre_icon(genre: str, source_key: str) -> str:
     icons = {
         "crime":      "🚨",
         "accident":   "💥",
+        "earthquake": "⚠️",
         "gourmet":    "🍽️",
         "realestate": "🏢",
         "bear":       "🐻",
         "event":      "🎪",
         "traffic":    "🚃",
+        "sports":     "⚽",
         "general":    "📰",
     }
     # 仙台つーしんで一般記事に分類された場合は買い物アイコンを優先
@@ -741,6 +758,8 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "crime"]
     elif tab_genre == "accident":
         filtered = [it for it in items if classify(it) == "accident"]
+    elif tab_genre == "earthquake":
+        filtered = [it for it in items if classify(it) == "earthquake"]
     elif tab_genre == "gourmet":
         filtered = [it for it in items if classify(it) == "gourmet"]
     elif tab_genre == "realestate":
@@ -751,6 +770,8 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "event"]
     elif tab_genre == "traffic":
         filtered = [it for it in items if classify(it) == "traffic"]
+    elif tab_genre == "sports":
+        filtered = [it for it in items if classify(it) == "sports"]
     else:
         filtered = items  # 全件
 
@@ -807,22 +828,26 @@ def main():
     # タブ生成のための件数カウント
     count_crime = sum(1 for it in all_items if classify(it) == "crime")
     count_accident = sum(1 for it in all_items if classify(it) == "accident")
+    count_earthquake = sum(1 for it in all_items if classify(it) == "earthquake")
     count_gourmet = sum(1 for it in all_items if classify(it) == "gourmet")
     count_realestate = sum(1 for it in all_items if classify(it) == "realestate")
     count_bear = sum(1 for it in all_items if classify(it) == "bear")
     count_event = sum(1 for it in all_items if classify(it) == "event")
     count_traffic = sum(1 for it in all_items if classify(it) == "traffic")
+    count_sports = sum(1 for it in all_items if classify(it) == "sports")
 
     # タブ
-    tab_all, tab_crime, tab_accident, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic = st.tabs([
+    tab_all, tab_crime, tab_accident, tab_earthquake, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic, tab_sports = st.tabs([
         f"📋 すべて ({len(all_items)})",
         f"🚨 事件 ({count_crime})",
         f"💥 事故 ({count_accident})",
+        f"⚠️ 地震 ({count_earthquake})",
         f"🍽️ グルメ ({count_gourmet})",
         f"🏢 不動産 ({count_realestate})",
         f"🐻 熊 ({count_bear})",
         f"🎪 イベント ({count_event})",
         f"🚃 交通 ({count_traffic})",
+        f"⚽ スポーツ ({count_sports})",
     ])
 
     with tab_all:
@@ -833,6 +858,9 @@ def main():
 
     with tab_accident:
         render_tab(all_items, tab_genre="accident")
+
+    with tab_earthquake:
+        render_tab(all_items, tab_genre="earthquake")
 
     with tab_gourmet:
         render_tab(all_items, tab_genre="gourmet")
@@ -848,6 +876,9 @@ def main():
 
     with tab_traffic:
         render_tab(all_items, tab_genre="traffic")
+
+    with tab_sports:
+        render_tab(all_items, tab_genre="sports")
 
     # デバッグパネル（画面下部に移動）
     st.markdown("<br><br>", unsafe_allow_html=True)
