@@ -351,6 +351,30 @@ FEEDS = [
             "https://news.yahoo.co.jp/rss/topics/domestic.xml",
         ],
     },
+    {
+        "name": "TBC東北放送",
+        "key": "tbc",
+        "emoji": "📺",
+        "urls": ["https://news.yahoo.co.jp/rss/media/tbcv/all.xml"],
+    },
+    {
+        "name": "仙台放送",
+        "key": "ox",
+        "emoji": "📺",
+        "urls": ["https://news.yahoo.co.jp/rss/media/oxv/all.xml"],
+    },
+    {
+        "name": "ミヤギテレビ",
+        "key": "mmt",
+        "emoji": "📺",
+        "urls": ["https://news.yahoo.co.jp/rss/media/mmt/all.xml"],
+    },
+    {
+        "name": "khb東日本放送",
+        "key": "khb",
+        "emoji": "📺",
+        "urls": ["https://news.yahoo.co.jp/rss/media/khbv/all.xml"],
+    },
 ]
 
 # ───────────────────────────────────────────────
@@ -425,7 +449,7 @@ MIYAGI_KEYWORDS: list[str] = [
 ]
 
 # 取得上限：各媒体ごとの最新件数
-PER_SOURCE_LIMIT: int = 50
+PER_SOURCE_LIMIT: int = 100
 # 期間制限：現在から何日前までの記事を許可するか
 DAYS_LIMIT: int = 60
 
