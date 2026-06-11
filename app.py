@@ -425,7 +425,7 @@ MIYAGI_KEYWORDS: list[str] = [
 ]
 
 # 取得上限：各媒体ごとの最新件数
-PER_SOURCE_LIMIT: int = 20
+PER_SOURCE_LIMIT: int = 50
 # 期間制限：現在から何日前までの記事を許可するか
 DAYS_LIMIT: int = 30
 
@@ -825,7 +825,7 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         )
         return
 
-    for i, item in enumerate(filtered[:50]):
+    for i, item in enumerate(filtered[:100]):
         render_news_card(item, i)
 
 
