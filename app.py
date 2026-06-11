@@ -382,7 +382,8 @@ FEEDS = [
 # ───────────────────────────────────────────────
 CRIME_KEYWORDS = [
     "逮捕", "警察", "容疑", "被害", "事件", "犯罪", "捜査", "検挙", "刑事",
-    "窃盗", "詐欺", "暴行", "強盗", "殺人", "送検", "書類送検"
+    "窃盗", "詐欺", "暴行", "強盗", "殺人", "送検", "書類送検",
+    "殺害", "罪", "被告", "判決", "実刑", "控訴", "棄却", "侵入", "裁判", "地裁", "高裁", "泥棒", "起訴"
 ]
 
 ACCIDENT_KEYWORDS = [
@@ -435,7 +436,7 @@ POLITICS_KEYWORDS = [
 
 MEDICAL_KEYWORDS = [
     "医療", "病院", "医師", "看護師", "患者", "感染", "コロナ", "インフルエンザ", "ワクチン", "治療", "手術", "病気", "保健所", "健康", "クリニック", "診療",
-    "検診", "がん", "ガン", "救急", "救命", "薬", "処方", "小児科", "内科", "外科", "歯科", "産婦人科", "リハビリ", "介護", "福祉", "症状", "診断", "人間ドック", "保健", "ウィルス", "ウイルス", "熱中症"
+    "検診", "がん", "ガン", "救急", "救命", "薬", "処方", "小児科", "内科", "外科", "歯科", "産婦人科", "リハビリ", "介護", "福祉施設", "社会福祉", "症状", "診断", "人間ドック", "保健", "ウィルス", "ウイルス", "熱中症"
 ]
 
 LIFE_KEYWORDS = [
@@ -628,9 +629,13 @@ def fetch_all_feeds() -> tuple[list[dict], dict]:
     seen_titles: set = set()
     unique: list[dict] = []
     for item in all_items:
-        if item["link"] not in seen_links and item["title"] not in seen_titles:
+        # メディア名や空白を削って実質的なタイトルで重複チェック
+        norm_title = re.sub(r'（.*?）|\(.*?\)| - Yahoo!ニュース', '', item["title"])
+        norm_title = re.sub(r'\s+', '', norm_title)
+        
+        if item["link"] not in seen_links and norm_title not in seen_titles:
             seen_links.add(item["link"])
-            seen_titles.add(item["title"])
+            seen_titles.add(norm_title)
             unique.append(item)
 
     # ───────────────────────────────────────────────
