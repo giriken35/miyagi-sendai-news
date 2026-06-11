@@ -103,6 +103,14 @@ html, body, [data-testid="stAppViewContainer"] {
     flex-grow: 0 !important;
     justify-content: center !important;
 }
+/* PCのみ（画面幅768px以上）：1段あたり最大6ジャンルになるよう幅を制限 */
+@media (min-width: 768px) {
+    [data-testid="stTabs"] [role="tab"] {
+        flex: 1 1 calc((100% - 20px) / 6) !important;
+        max-width: calc((100% - 20px) / 6) !important;
+        padding: 0.45rem 0.2rem !important;
+    }
+}
 [data-testid="stTabs"] [role="tab"][aria-selected="true"] {
     background: #1A1A2E !important;
     color: #E8D5B0 !important;
@@ -359,7 +367,8 @@ ACCIDENT_KEYWORDS = [
 ]
 
 EARTHQUAKE_KEYWORDS = [
-    "震度", "地震", "津波", "余震", "マグニチュード", "揺れ"
+    "震度", "地震", "津波", "余震", "マグニチュード", "揺れ",
+    "震災", "被災", "復興", "避難", "防災", "遺構", "慰霊", "伝承", "大川小学校", "防災無線", "仮設", "液状化", "断層", "活断層", "備蓄"
 ]
 
 SPORTS_KEYWORDS = [
@@ -401,7 +410,8 @@ POLITICS_KEYWORDS = [
 ]
 
 MEDICAL_KEYWORDS = [
-    "医療", "病院", "医師", "看護師", "患者", "感染", "コロナ", "インフルエンザ", "ワクチン", "治療", "手術", "病気", "保健所", "健康", "クリニック", "診療"
+    "医療", "病院", "医師", "看護師", "患者", "感染", "コロナ", "インフルエンザ", "ワクチン", "治療", "手術", "病気", "保健所", "健康", "クリニック", "診療",
+    "検診", "がん", "ガン", "救急", "救命", "薬", "処方", "小児科", "内科", "外科", "歯科", "産婦人科", "リハビリ", "介護", "福祉", "症状", "診断", "人間ドック", "保健", "ウィルス", "ウイルス", "熱中症"
 ]
 
 LIFE_KEYWORDS = [
