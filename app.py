@@ -772,6 +772,8 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "traffic"]
     elif tab_genre == "sports":
         filtered = [it for it in items if classify(it) == "sports"]
+    elif tab_genre == "general":
+        filtered = [it for it in items if classify(it) == "general"]
     else:
         filtered = items  # 全件
 
@@ -835,9 +837,10 @@ def main():
     count_event = sum(1 for it in all_items if classify(it) == "event")
     count_traffic = sum(1 for it in all_items if classify(it) == "traffic")
     count_sports = sum(1 for it in all_items if classify(it) == "sports")
+    count_general = sum(1 for it in all_items if classify(it) == "general")
 
     # タブ
-    tab_all, tab_crime, tab_accident, tab_earthquake, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic, tab_sports = st.tabs([
+    tab_all, tab_crime, tab_accident, tab_earthquake, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic, tab_sports, tab_general = st.tabs([
         f"📋 すべて ({len(all_items)})",
         f"🚨 事件 ({count_crime})",
         f"💥 事故 ({count_accident})",
@@ -848,6 +851,7 @@ def main():
         f"🎪 イベント ({count_event})",
         f"🚃 交通 ({count_traffic})",
         f"⚽ スポーツ ({count_sports})",
+        f"📰 その他 ({count_general})",
     ])
 
     with tab_all:
@@ -879,6 +883,9 @@ def main():
 
     with tab_sports:
         render_tab(all_items, tab_genre="sports")
+
+    with tab_general:
+        render_tab(all_items, tab_genre="general")
 
     # デバッグパネル（画面下部に移動）
     st.markdown("<br><br>", unsafe_allow_html=True)
