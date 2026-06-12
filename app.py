@@ -410,6 +410,7 @@ GOURMET_KEYWORDS = [
     "ラーメン", "寿司", "居酒屋", "ランチ", "ディナー", "フード",
     "閉店", "新店", "牛タン", "ずんだ", "萩の月", "海鮮",
     "パン", "ケーキ", "コーヒー", "ベーカリー", "料理", "食堂",
+    "移転", "店舗", "飲食店", "弁当", "焼肉", "そば", "うどん"
 ]
 
 REALESTATE_KEYWORDS = [
@@ -755,9 +756,11 @@ def classify(item: dict) -> str:
         if kw in title:
             return "politics"
             
-    for kw in BUSINESS_KEYWORDS:
-        if kw in title:
-            return "business"
+    exclude_business = any(kw in title for kw in ["ラーメン", "カフェ", "スイーツ", "レストラン", "居酒屋", "寿司", "食堂", "パン", "ケーキ", "グルメ", "飲食店", "牛タン", "ずんだ", "ベーカリー", "弁当", "焼肉", "そば", "うどん"])
+    if not exclude_business:
+        for kw in BUSINESS_KEYWORDS:
+            if kw in title:
+                return "business"
             
     exclude_medical = any(kw in title for kw in ["生活保護"])
     if not exclude_medical:
