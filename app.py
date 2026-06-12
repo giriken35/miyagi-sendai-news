@@ -11,6 +11,7 @@ import datetime
 import concurrent.futures
 import re
 import time
+import difflib
 
 # ───────────────────────────────────────────────
 #  ページ設定（最初に呼ぶ必要がある）
@@ -626,16 +627,27 @@ def fetch_all_feeds() -> tuple[list[dict], dict]:
 
     # 重複 URL・タイトル除去
     seen_links: set = set()
-    seen_titles: set = set()
+    seen_titles: list[str] = []
     unique: list[dict] = []
     for item in all_items:
         # メディア名や空白を削って実質的なタイトルで重複チェック
         norm_title = re.sub(r'（.*?）|\(.*?\)| - Yahoo!ニュース', '', item["title"])
         norm_title = re.sub(r'\s+', '', norm_title)
         
-        if item["link"] not in seen_links and norm_title not in seen_titles:
+        # URL完全一致、またはタイトルの類似度が85%以上なら重複とみなす
+        is_duplicate = False
+        if item["link"] in seen_links:
+            is_duplicate = True
+        else:
+            for st_title in seen_titles:
+                # SequenceMatcherで「が」「を」などの助詞抜けによる表記揺れを吸収
+                if difflib.SequenceMatcher(None, norm_title, st_title).ratio() > 0.85:
+                    is_duplicate = True
+                    break
+        
+        if not is_duplicate:
             seen_links.add(item["link"])
-            seen_titles.add(norm_title)
+            seen_titles.append(norm_title)
             unique.append(item)
 
     # ───────────────────────────────────────────────
