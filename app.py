@@ -12,6 +12,7 @@ import concurrent.futures
 import re
 import time
 import difflib
+import unicodedata
 
 # ───────────────────────────────────────────────
 #  ページ設定（最初に呼ぶ必要がある）
@@ -885,13 +886,17 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
 
     if search_query:
         # 検索時はジャンルを無視して全記事から探す（全体検索の維持）
-        # 全角スペースを半角に変換し、最大3単語まで分割してAND検索
-        keywords = search_query.replace("　", " ").split()[:3]
-        keywords = [k.lower() for k in keywords]
+        # NFKC正規化で全角・半角（89と８９など）を統一し、最大3単語まで分割してAND検索
+        normalized_query = unicodedata.normalize("NFKC", search_query).lower()
+        keywords = normalized_query.split()[:3]
         
         filtered = items
         for kw in keywords:
-            filtered = [it for it in filtered if kw in it.get("title", "").lower() or kw in it.get("summary", "").lower()]
+            filtered = [
+                it for it in filtered 
+                if kw in unicodedata.normalize("NFKC", it.get("title", "")).lower() 
+                or kw in unicodedata.normalize("NFKC", it.get("summary", "")).lower()
+            ]
         
         # 戻るボタン（コールバックで状態をクリア）
         st.button("⬅️ 前の画面に戻る", key=f"back_{key_suffix}", on_click=clear_search_query, args=(f"search_{key_suffix}",))
