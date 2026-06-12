@@ -697,9 +697,9 @@ def classify(item: dict) -> str:
     """タイトルからジャンルを判定する。"""
     title = item["title"]
     
-    # --- 文脈の除外ルール ---
-    # 訓練やキャンペーンなどの場合は、実際の事故・災害・事件ではないためフラグを立てる
-    is_training = any(kw in title for kw in ["訓練", "想定", "演習", "啓発", "キャンペーン", "パトロール", "交通安全"])
+    # --- ジャンルごとの個別除外ルール ---
+    exclude_accident = any(kw in title for kw in ["訓練", "想定", "演習"])
+    exclude_crime = any(kw in title for kw in ["啓発", "キャンペーン", "パトロール", "防止", "交通安全"])
 
     # 仙台つーしんは基本的にグルメ・開店が多いが、熊や不動産も混ざるので順序に注意
     for kw in BEAR_KEYWORDS:
@@ -719,11 +719,12 @@ def classify(item: dict) -> str:
         if kw in title:
             return "earthquake"
             
-    # 訓練等でなければ、深刻なニュースを優先判定
-    if not is_training:
+    if not exclude_accident:
         for kw in ACCIDENT_KEYWORDS:
             if kw in title:
                 return "accident"
+                
+    if not exclude_crime:
         for kw in CRIME_KEYWORDS:
             if kw in title:
                 return "crime"
