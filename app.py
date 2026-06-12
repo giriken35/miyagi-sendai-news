@@ -870,8 +870,31 @@ def render_news_card(item: dict, idx: int):
 
 def render_tab(items: list[dict], tab_genre: str | None = None):
     """タブ内のニュース一覧を描画する。"""
-    if tab_genre == "crime":
-        filtered = [it for it in items if classify(it) == "crime"]
+    key_suffix = tab_genre if tab_genre else "all"
+    
+    # 検索窓（ジャンルタブの下）
+    search_query = st.text_input(
+        "🔍 全記事からキーワードで検索",
+        value="",
+        key=f"search_{key_suffix}",
+        placeholder="例: 泉区、お祭り、火事..."
+    )
+
+    if search_query:
+        # 検索時はジャンルを無視して全記事から探す（全体検索の維持）
+        sq = search_query.lower()
+        filtered = [it for it in items if sq in it.get("title", "").lower() or sq in it.get("summary", "").lower()]
+        
+        # 戻るボタン
+        if st.button("⬅️ 検索をクリアして前の画面に戻る", key=f"back_{key_suffix}"):
+            st.session_state[f"search_{key_suffix}"] = ""
+            st.rerun()
+            
+        st.markdown(f"**「{search_query}」の検索結果: {len(filtered)}件**")
+    else:
+        # 通常時はタブのジャンルのみ表示
+        if tab_genre == "crime":
+            filtered = [it for it in items if classify(it) == "crime"]
     elif tab_genre == "accident":
         filtered = [it for it in items if classify(it) == "accident"]
     elif tab_genre == "earthquake":
@@ -953,11 +976,6 @@ def main():
         st.cache_data.clear()
         st.rerun()
 
-    # 全体検索（タブ分けの前に行う）
-    global_search = st.text_input("🔍 全記事からキーワードで検索", value="", placeholder="例: 泉区、お祭り、火事...")
-    if global_search:
-        sq = global_search.lower()
-        all_items = [it for it in all_items if sq in it.get("title", "").lower() or sq in it.get("summary", "").lower()]
 
     # タブ生成のための件数カウント
     count_crime = sum(1 for it in all_items if classify(it) == "crime")
