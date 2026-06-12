@@ -868,6 +868,9 @@ def render_news_card(item: dict, idx: int):
     )
 
 
+def clear_search_query(key: str):
+    st.session_state[key] = ""
+
 def render_tab(items: list[dict], tab_genre: str | None = None):
     """タブ内のニュース一覧を描画する。"""
     key_suffix = tab_genre if tab_genre else "all"
@@ -885,10 +888,8 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         sq = search_query.lower()
         filtered = [it for it in items if sq in it.get("title", "").lower() or sq in it.get("summary", "").lower()]
         
-        # 戻るボタン
-        if st.button("⬅️ 検索をクリアして前の画面に戻る", key=f"back_{key_suffix}"):
-            st.session_state[f"search_{key_suffix}"] = ""
-            st.rerun()
+        # 戻るボタン（コールバックで状態をクリア）
+        st.button("⬅️ 前の画面に戻る", key=f"back_{key_suffix}", on_click=clear_search_query, args=(f"search_{key_suffix}",))
             
         st.markdown(f"**「{search_query}」の検索結果: {len(filtered)}件**")
     else:
