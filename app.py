@@ -895,36 +895,36 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         # 通常時はタブのジャンルのみ表示
         if tab_genre == "crime":
             filtered = [it for it in items if classify(it) == "crime"]
-    elif tab_genre == "accident":
-        filtered = [it for it in items if classify(it) == "accident"]
-    elif tab_genre == "earthquake":
-        filtered = [it for it in items if classify(it) == "earthquake"]
-    elif tab_genre == "gourmet":
-        filtered = [it for it in items if classify(it) == "gourmet"]
-    elif tab_genre == "realestate":
-        filtered = [it for it in items if classify(it) == "realestate"]
-    elif tab_genre == "bear":
-        filtered = [it for it in items if classify(it) == "bear"]
-    elif tab_genre == "event":
-        filtered = [it for it in items if classify(it) == "event"]
-    elif tab_genre == "traffic":
-        filtered = [it for it in items if classify(it) == "traffic"]
-    elif tab_genre == "sports":
-        filtered = [it for it in items if classify(it) == "sports"]
-    elif tab_genre == "politics":
-        filtered = [it for it in items if classify(it) == "politics"]
-    elif tab_genre == "business":
-        filtered = [it for it in items if classify(it) == "business"]
-    elif tab_genre == "medical":
-        filtered = [it for it in items if classify(it) == "medical"]
-    elif tab_genre == "weather":
-        filtered = [it for it in items if classify(it) == "weather"]
-    elif tab_genre == "life":
-        filtered = [it for it in items if classify(it) == "life"]
-    elif tab_genre == "general":
-        filtered = [it for it in items if classify(it) == "general"]
-    else:
-        filtered = items  # 全件
+        elif tab_genre == "accident":
+            filtered = [it for it in items if classify(it) == "accident"]
+        elif tab_genre == "earthquake":
+            filtered = [it for it in items if classify(it) == "earthquake"]
+        elif tab_genre == "gourmet":
+            filtered = [it for it in items if classify(it) == "gourmet"]
+        elif tab_genre == "realestate":
+            filtered = [it for it in items if classify(it) == "realestate"]
+        elif tab_genre == "bear":
+            filtered = [it for it in items if classify(it) == "bear"]
+        elif tab_genre == "event":
+            filtered = [it for it in items if classify(it) == "event"]
+        elif tab_genre == "traffic":
+            filtered = [it for it in items if classify(it) == "traffic"]
+        elif tab_genre == "sports":
+            filtered = [it for it in items if classify(it) == "sports"]
+        elif tab_genre == "politics":
+            filtered = [it for it in items if classify(it) == "politics"]
+        elif tab_genre == "business":
+            filtered = [it for it in items if classify(it) == "business"]
+        elif tab_genre == "medical":
+            filtered = [it for it in items if classify(it) == "medical"]
+        elif tab_genre == "weather":
+            filtered = [it for it in items if classify(it) == "weather"]
+        elif tab_genre == "life":
+            filtered = [it for it in items if classify(it) == "life"]
+        elif tab_genre == "general":
+            filtered = [it for it in items if classify(it) == "general"]
+        else:
+            filtered = items  # 全件
 
     if not filtered:
         st.markdown(
