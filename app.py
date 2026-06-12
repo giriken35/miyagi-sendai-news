@@ -437,6 +437,10 @@ POLITICS_KEYWORDS = [
     "政治", "選挙", "市長", "県知事", "知事", "議会", "市議会", "県議会", "議員", "立候補", "投票", "公約", "市政", "県政", "自民", "立憲", "公明", "共産", "維新"
 ]
 
+BUSINESS_KEYWORDS = [
+    "ビジネス", "経済", "企業", "会社", "社長", "経営", "倒産", "破産", "業績", "決算", "株式", "株価", "上場", "投資", "出資", "買収", "提携", "合併", "売上", "利益", "赤字", "黒字", "事業", "創業", "ベンチャー", "工場", "営業", "雇用", "就職", "採用", "労働", "賃上げ", "給与", "経済効果"
+]
+
 MEDICAL_KEYWORDS = [
     "医療", "病院", "医師", "看護師", "患者", "感染", "コロナ", "インフルエンザ", "ワクチン", "治療", "手術", "病気", "保健所", "健康", "クリニック", "診療",
     "検診", "がん", "ガン", "救急", "救命", "薬", "処方", "小児科", "内科", "外科", "歯科", "産婦人科", "リハビリ", "介護", "福祉施設", "社会福祉", "症状", "診断", "人間ドック", "保健", "ウィルス", "ウイルス", "熱中症"
@@ -751,6 +755,10 @@ def classify(item: dict) -> str:
         if kw in title:
             return "politics"
             
+    for kw in BUSINESS_KEYWORDS:
+        if kw in title:
+            return "business"
+            
     exclude_medical = any(kw in title for kw in ["生活保護"])
     if not exclude_medical:
         for kw in MEDICAL_KEYWORDS:
@@ -876,6 +884,8 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "sports"]
     elif tab_genre == "politics":
         filtered = [it for it in items if classify(it) == "politics"]
+    elif tab_genre == "business":
+        filtered = [it for it in items if classify(it) == "business"]
     elif tab_genre == "medical":
         filtered = [it for it in items if classify(it) == "medical"]
     elif tab_genre == "weather":
@@ -948,13 +958,14 @@ def main():
     count_traffic = sum(1 for it in all_items if classify(it) == "traffic")
     count_sports = sum(1 for it in all_items if classify(it) == "sports")
     count_politics = sum(1 for it in all_items if classify(it) == "politics")
+    count_business = sum(1 for it in all_items if classify(it) == "business")
     count_medical = sum(1 for it in all_items if classify(it) == "medical")
     count_weather = sum(1 for it in all_items if classify(it) == "weather")
     count_life = sum(1 for it in all_items if classify(it) == "life")
     count_general = sum(1 for it in all_items if classify(it) == "general")
 
     # タブ
-    tab_all, tab_crime, tab_accident, tab_earthquake, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic, tab_sports, tab_politics, tab_medical, tab_weather, tab_life, tab_general = st.tabs([
+    tab_all, tab_crime, tab_accident, tab_earthquake, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic, tab_sports, tab_politics, tab_business, tab_medical, tab_weather, tab_life, tab_general = st.tabs([
         f"📋 すべて ({len(all_items)})",
         f"🚨 事件 ({count_crime})",
         f"💥 事故 ({count_accident})",
@@ -966,6 +977,7 @@ def main():
         f"🚃 交通 ({count_traffic})",
         f"⚽ スポーツ ({count_sports})",
         f"🏛️ 政治 ({count_politics})",
+        f"💼 ビジネス ({count_business})",
         f"🏥 医療 ({count_medical})",
         f"⛅ 天気 ({count_weather})",
         f"🏠 生活 ({count_life})",
@@ -1004,6 +1016,9 @@ def main():
 
     with tab_politics:
         render_tab(all_items, tab_genre="politics")
+
+    with tab_business:
+        render_tab(all_items, tab_genre="business")
 
     with tab_medical:
         render_tab(all_items, tab_genre="medical")
