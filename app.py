@@ -913,7 +913,7 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
 
     if search_query:
         sq = search_query.lower()
-        filtered = [it for it in filtered if sq in it["title"].lower() or sq in it["description"].lower()]
+        filtered = [it for it in filtered if sq in it.get("title", "").lower() or sq in it.get("summary", "").lower()]
 
     if not filtered:
         st.markdown(
