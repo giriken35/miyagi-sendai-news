@@ -389,7 +389,7 @@ CRIME_KEYWORDS = [
 
 ACCIDENT_KEYWORDS = [
     "事故", "火災", "死亡", "負傷", "救助", "行方不明", "衝突", "転落", "炎上",
-    "災害", "台風", "洪水", "警報"
+    "災害", "洪水"
 ]
 
 EARTHQUAKE_KEYWORDS = [
@@ -441,8 +441,12 @@ MEDICAL_KEYWORDS = [
 ]
 
 LIFE_KEYWORDS = [
-    "生活", "暮らし", "子育て", "教育", "学校", "保育園", "幼稚園", "児童", "生徒", "給食", "スーパー", "買い物", "値上げ", "補助金", "支援金", "ゴミ", "天気", "気象", "気温", "猛暑", "寒波", "水道",
-    "ごみ", "資源", "リサイクル", "育児", "家計", "節約", "年金", "税金", "給付金", "マイナンバー", "コンビニ", "物価", "電気代", "ガス", "公共料金", "市役所", "区役所", "公園", "天気予報", "雨", "雪", "注意報", "停電", "断水", "通勤", "通学"
+    "生活", "暮らし", "子育て", "教育", "学校", "保育園", "幼稚園", "児童", "生徒", "給食", "スーパー", "買い物", "値上げ", "補助金", "支援金", "ゴミ", "水道",
+    "ごみ", "資源", "リサイクル", "育児", "家計", "節約", "年金", "税金", "給付金", "マイナンバー", "コンビニ", "物価", "電気代", "ガス", "公共料金", "市役所", "区役所", "公園", "停電", "断水", "通勤", "通学"
+]
+
+WEATHER_KEYWORDS = [
+    "天気", "気象", "気温", "猛暑", "寒波", "雨", "雪", "注意報", "警報", "台風", "梅雨", "雷", "ひょう", "降水", "晴れ", "曇り", "夏日", "真夏日", "猛暑日", "冬日", "真冬日", "積雪", "暴風", "強風", "大雨", "大雪", "気圧", "前線", "降雨", "豪雨", "天気予報", "乾燥"
 ]
 # この7語のいずれかがタイトルまたは概要に含まれる記事のみ表示する
 MIYAGI_KEYWORDS: list[str] = [
@@ -747,6 +751,9 @@ def classify(item: dict) -> str:
     for kw in MEDICAL_KEYWORDS:
         if kw in title:
             return "medical"
+    for kw in WEATHER_KEYWORDS:
+        if kw in title:
+            return "weather"
     for kw in LIFE_KEYWORDS:
         if kw in title:
             return "life"
@@ -865,6 +872,8 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "politics"]
     elif tab_genre == "medical":
         filtered = [it for it in items if classify(it) == "medical"]
+    elif tab_genre == "weather":
+        filtered = [it for it in items if classify(it) == "weather"]
     elif tab_genre == "life":
         filtered = [it for it in items if classify(it) == "life"]
     elif tab_genre == "general":
@@ -934,11 +943,12 @@ def main():
     count_sports = sum(1 for it in all_items if classify(it) == "sports")
     count_politics = sum(1 for it in all_items if classify(it) == "politics")
     count_medical = sum(1 for it in all_items if classify(it) == "medical")
+    count_weather = sum(1 for it in all_items if classify(it) == "weather")
     count_life = sum(1 for it in all_items if classify(it) == "life")
     count_general = sum(1 for it in all_items if classify(it) == "general")
 
     # タブ
-    tab_all, tab_crime, tab_accident, tab_earthquake, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic, tab_sports, tab_politics, tab_medical, tab_life, tab_general = st.tabs([
+    tab_all, tab_crime, tab_accident, tab_earthquake, tab_gourmet, tab_realestate, tab_bear, tab_event, tab_traffic, tab_sports, tab_politics, tab_medical, tab_weather, tab_life, tab_general = st.tabs([
         f"📋 すべて ({len(all_items)})",
         f"🚨 事件 ({count_crime})",
         f"💥 事故 ({count_accident})",
@@ -951,6 +961,7 @@ def main():
         f"⚽ スポーツ ({count_sports})",
         f"🏛️ 政治 ({count_politics})",
         f"🏥 医療 ({count_medical})",
+        f"⛅ 天気 ({count_weather})",
         f"🏠 生活 ({count_life})",
         f"📰 その他 ({count_general})",
     ])
@@ -990,6 +1001,9 @@ def main():
 
     with tab_medical:
         render_tab(all_items, tab_genre="medical")
+
+    with tab_weather:
+        render_tab(all_items, tab_genre="weather")
 
     with tab_life:
         render_tab(all_items, tab_genre="life")
