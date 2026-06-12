@@ -385,7 +385,8 @@ CRIME_KEYWORDS = [
     "逮捕", "警察", "容疑", "被害", "事件", "犯罪", "捜査", "検挙", "刑事",
     "窃盗", "詐欺", "暴行", "強盗", "殺人", "送検", "書類送検",
     "殺害", "罪", "被告", "判決", "実刑", "控訴", "棄却", "侵入", "裁判", "地裁", "高裁", "泥棒", "起訴",
-    "いじめ", "イジメ", "体罰", "不登校", "暴言", "虐待", "ハラスメント", "セクハラ", "パワハラ", "不祥事", "隠蔽", "恐喝", "脅迫"
+    "いじめ", "イジメ", "体罰", "不登校", "暴言", "虐待", "ハラスメント", "セクハラ", "パワハラ", "不祥事", "隠蔽", "恐喝", "脅迫",
+    "不審者", "声かけ", "つきまとい"
 ]
 
 ACCIDENT_KEYWORDS = [
@@ -749,9 +750,13 @@ def classify(item: dict) -> str:
     for kw in POLITICS_KEYWORDS:
         if kw in title:
             return "politics"
-    for kw in MEDICAL_KEYWORDS:
-        if kw in title:
-            return "medical"
+            
+    exclude_medical = any(kw in title for kw in ["生活保護"])
+    if not exclude_medical:
+        for kw in MEDICAL_KEYWORDS:
+            if kw in title:
+                return "medical"
+                
     for kw in WEATHER_KEYWORDS:
         if kw in title:
             return "weather"
