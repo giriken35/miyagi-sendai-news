@@ -397,9 +397,9 @@ EARTHQUAKE_KEYWORDS = [
 ]
 
 SPORTS_KEYWORDS = [
-    "スポーツ", "野球", "プロ野球", "高校野球", "サッカー", "バスケ", "楽天", "イーグルス",
+    "スポーツ", "野球", "プロ野球", "高校野球", "サッカー", "バスケ", "バスケット", "Bリーグ", "楽天", "イーグルス",
     "ベガルタ", "89ERS", "ナイナーズ", "試合", "大会", "優勝", "選手", "監督", "五輪", "オリンピック",
-    "巨人", "マウンド", "降板", "ホームラン", "ドラフト"
+    "巨人", "マウンド", "降板", "ホームラン", "ドラフト", "移籍", "退団", "入団", "獲得"
 ]
 
 GOURMET_KEYWORDS = [
@@ -715,11 +715,12 @@ def classify(item: dict) -> str:
         if kw in title:
             return "traffic"
             
+    for kw in EARTHQUAKE_KEYWORDS:
+        if kw in title:
+            return "earthquake"
+            
     # 訓練等でなければ、深刻なニュースを優先判定
     if not is_training:
-        for kw in EARTHQUAKE_KEYWORDS:
-            if kw in title:
-                return "earthquake"
         for kw in ACCIDENT_KEYWORDS:
             if kw in title:
                 return "accident"
