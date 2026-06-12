@@ -885,8 +885,13 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
 
     if search_query:
         # 検索時はジャンルを無視して全記事から探す（全体検索の維持）
-        sq = search_query.lower()
-        filtered = [it for it in items if sq in it.get("title", "").lower() or sq in it.get("summary", "").lower()]
+        # 全角スペースを半角に変換し、最大3単語まで分割してAND検索
+        keywords = search_query.replace("　", " ").split()[:3]
+        keywords = [k.lower() for k in keywords]
+        
+        filtered = items
+        for kw in keywords:
+            filtered = [it for it in filtered if kw in it.get("title", "").lower() or kw in it.get("summary", "").lower()]
         
         # 戻るボタン（コールバックで状態をクリア）
         st.button("⬅️ 前の画面に戻る", key=f"back_{key_suffix}", on_click=clear_search_query, args=(f"search_{key_suffix}",))
