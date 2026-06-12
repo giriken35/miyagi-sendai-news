@@ -870,6 +870,14 @@ def render_news_card(item: dict, idx: int):
 
 def render_tab(items: list[dict], tab_genre: str | None = None):
     """タブ内のニュース一覧を描画する。"""
+    key_suffix = tab_genre if tab_genre else "all"
+    search_query = st.text_input(
+        "🔍 このタブ内をキーワードで検索",
+        value="",
+        key=f"search_{key_suffix}",
+        placeholder="例: 泉区、イベント、事故..."
+    )
+
     if tab_genre == "crime":
         filtered = [it for it in items if classify(it) == "crime"]
     elif tab_genre == "accident":
@@ -902,6 +910,10 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "general"]
     else:
         filtered = items  # 全件
+
+    if search_query:
+        sq = search_query.lower()
+        filtered = [it for it in filtered if sq in it["title"].lower() or sq in it["description"].lower()]
 
     if not filtered:
         st.markdown(
