@@ -870,14 +870,6 @@ def render_news_card(item: dict, idx: int):
 
 def render_tab(items: list[dict], tab_genre: str | None = None):
     """タブ内のニュース一覧を描画する。"""
-    key_suffix = tab_genre if tab_genre else "all"
-    search_query = st.text_input(
-        "🔍 このタブ内をキーワードで検索",
-        value="",
-        key=f"search_{key_suffix}",
-        placeholder="例: 泉区、イベント、事故..."
-    )
-
     if tab_genre == "crime":
         filtered = [it for it in items if classify(it) == "crime"]
     elif tab_genre == "accident":
@@ -910,10 +902,6 @@ def render_tab(items: list[dict], tab_genre: str | None = None):
         filtered = [it for it in items if classify(it) == "general"]
     else:
         filtered = items  # 全件
-
-    if search_query:
-        sq = search_query.lower()
-        filtered = [it for it in filtered if sq in it.get("title", "").lower() or sq in it.get("summary", "").lower()]
 
     if not filtered:
         st.markdown(
@@ -964,6 +952,12 @@ def main():
     if st.button("🔄 ニュースを更新する", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
+
+    # 全体検索（タブ分けの前に行う）
+    global_search = st.text_input("🔍 全記事からキーワードで検索", value="", placeholder="例: 泉区、お祭り、火事...")
+    if global_search:
+        sq = global_search.lower()
+        all_items = [it for it in all_items if sq in it.get("title", "").lower() or sq in it.get("summary", "").lower()]
 
     # タブ生成のための件数カウント
     count_crime = sum(1 for it in all_items if classify(it) == "crime")
