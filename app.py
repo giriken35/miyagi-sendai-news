@@ -756,7 +756,7 @@ def classify(item: dict) -> str:
         if kw in title:
             return "politics"
             
-    exclude_business = any(kw in title for kw in ["ラーメン", "カフェ", "スイーツ", "レストラン", "居酒屋", "寿司", "食堂", "パン", "ケーキ", "グルメ", "飲食店", "牛タン", "ずんだ", "ベーカリー", "弁当", "焼肉", "そば", "うどん"])
+    exclude_business = any(kw in title for kw in ["仙台つーしん", "ラーメン", "らーめん", "らぁ", "麺", "カフェ", "スイーツ", "レストラン", "居酒屋", "寿司", "食堂", "パン", "ケーキ", "グルメ", "飲食店", "牛タン", "ずんだ", "ベーカリー", "弁当", "焼肉", "そば", "うどん", "メニュー", "テイクアウト", "ヤクルト"])
     if not exclude_business:
         for kw in BUSINESS_KEYWORDS:
             if kw in title:
