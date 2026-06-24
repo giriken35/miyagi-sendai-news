@@ -305,6 +305,32 @@ hr { border: none; border-top: 1px solid #E0D8C8; margin: 0.5rem 0; }
 /* ── スクロールバー ── */
 ::-webkit-scrollbar { width: 4px; }
 ::-webkit-scrollbar-thumb { background: #C0B090; border-radius: 2px; }
+
+/* ── トップへ戻るボタン ── */
+.scroll-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    background: #0F3460;
+    color: #E8D5B0 !important;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+    text-decoration: none !important;
+    box-shadow: 0 4px 12px rgba(15,52,96,0.4);
+    z-index: 99999;
+    transition: all 0.3s ease;
+    opacity: 0.85;
+}
+.scroll-to-top:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(15,52,96,0.6);
+    opacity: 1;
+}
 </style>
 """
 
@@ -634,7 +660,7 @@ def main():
     # ヘッダー
     now_jst = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9)))
     st.markdown(
-        f"""<div class="app-header">
+        f"""<div class="app-header" id="top">
             <h1>📰 仙台ニュース</h1>
             <div class="subtitle">SENDAI NEWS — 河北新報 / 仙台つーしん / Yahoo!宮城</div>
             <div class="update-time">🕐 {now_jst.strftime('%Y年%m月%d日 %H:%M')} JST</div>
@@ -744,6 +770,12 @@ def main():
     with st.expander("🔍 フィード取得状況", expanded=False):
         for src, msg in debug_info.items():
             st.text(f"{src}: {msg}")
+
+    # トップへ戻るボタン
+    st.markdown(
+        '<a href="#top" class="scroll-to-top" title="一番上へ戻る">🔼</a>',
+        unsafe_allow_html=True
+    )
 
 
 if __name__ == "__main__":
