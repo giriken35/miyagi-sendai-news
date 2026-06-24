@@ -309,7 +309,7 @@ hr { border: none; border-top: 1px solid #E0D8C8; margin: 0.5rem 0; }
 /* ── トップへ戻るボタン ── */
 .scroll-to-top {
     position: fixed;
-    bottom: 25px;
+    bottom: 40px;
     right: 25px;
     background: #0F3460;
     color: #E8D5B0 !important;
