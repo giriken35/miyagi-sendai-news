@@ -1,6 +1,36 @@
 {
-  "fetched_at": "2026-07-17 12:43:25",
+  "fetched_at": "2026-07-17 15:29:10",
   "items": [
+    {
+      "title": "塩釜港周辺の水質検査”半数の地点で重油成分確認されず”海保が重油流出事故受けて実施(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/02e22a2cab33f5213a2564fb24e1deb00de7a508?source=rss",
+      "date": "07/17 14:27",
+      "pub_ts": 1784266020.0,
+      "summary": "第二管区海上保安本部は今年３月、宮城海上保安部所属の巡視船「ざおう」が、塩釜港で係留中に燃料の重油を流出させ事故を受けて、漁業や夏季マリンレジャーへの影響を考え、塩釜港周辺74地点で水質検査を実施して",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
+    },
+    {
+      "title": "「ポケモンGO」ワイルドエリア 仙台で11月に開催へ（河北新報） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ybl94cVpRTzZBOFpSRzRGMWUzaGxuU3RIUEZsXzBWaF80VVlrSzdkdFB1aEVfMFVoc2ppYThLa0JieGNQcGU3NEhWNUVEYzBNVDN5UktvQ0Jzb1hGSUQ2cVdrTlpxLURiVjJQT3dPdEJOVU1JNTBwSUIzZ09lUVk?oc=5",
+      "date": "07/17 14:15",
+      "pub_ts": 1784265320.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
+    {
+      "title": "「ヨークベニマル南吉成店」宮城の65店で売り上げトップ そのワケを店長が語る＜まるっと仙台・吉成＞（河北新報） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjU3BJLXJDNmw0WU5UU1BFNHlpbzZybGlYT1FoTHQ1TVRWRUJIQkRlemhXX3p4Zk5zWklFQUxza2Z5Z1dBTWVmdUZFRzN5SXdSLTdtYlAyXzBhbU5ISi1CcGtucFlZTk5uWGlGQ0dvNGt5Q2VXcHZzTkVMUi1zeTQ?oc=5",
+      "date": "07/17 12:59",
+      "pub_ts": 1784260777.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
     {
       "title": "「中学生くらいの人が溺れている」14歳の男子中学生が死亡　海水浴場で水難事故　仙台・若林区(tbc東北放送)",
       "link": "https://news.yahoo.co.jp/articles/8605b596c5f0b670012178823066f57eb6d9bda7?source=rss",
@@ -12,21 +42,21 @@
       "emoji": "📺"
     },
     {
-      "title": "チームで協力しＡＲスポーツに挑戦 アクアイグニス仙台に４Ｋ映像の没入空間など備えた新施設がオープン（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Tci05RkNDNUFqTEtidU1XVWdkdHZWVFdZbWhmN04wV2E1cGlNbmRFNGsyREswUXMyMlB0UTg0SGJlMm1LbldHaWNBRFhLcm9uOXVtUWhDLURSLUItTFVTZVUyNEdBb1Y1d1JRS2VfWUxXWl8tU3FYc2RCSzU2bm8?oc=5",
-      "date": "07/17 12:17",
-      "pub_ts": 1784258222.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
       "title": "海開き前の深沼海水浴場で１４歳の男子中学生が溺れ死亡　１人で訪れたか 当時の状況を警察が捜査〈仙台〉(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/a7e497765aba2aca754bbf02e3945c5d9f951967?source=rss",
       "date": "07/17 12:17",
       "pub_ts": 1784258222.0,
       "summary": "７月１６日、仙台市若林区の深沼海水浴場で男子中学生が溺れているのが見つかり、死亡が確認されました。\n\n警察によりますと、１６日午後６時過ぎ、若林区荒浜の深沼海水浴場で、「波打ち際で人が溺れている」と目",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
+      "title": "チームで協力しＡＲスポーツに挑戦　アクアイグニス仙台に４Ｋ映像の没入空間など備えた新施設がオープン(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/9704a7ddb92afa92c19dc61c1ebb7fc483873a92?source=rss",
+      "date": "07/17 12:17",
+      "pub_ts": 1784258222.0,
+      "summary": "仙台市若林区で、デジタル技術を活用した体験型施設がオープンしました。\n\n若林区のアクアイグニス仙台にオープンしたのは、ＡＲ＝「拡張現実」技術と、４Ｋ映像を融合した体験型施設「デジタルファンパーク」です",
       "source": "仙台放送",
       "source_key": "ox",
       "emoji": "📺"
@@ -40,6 +70,16 @@
       "source": "ミヤギテレビ",
       "source_key": "mmt",
       "emoji": "📺"
+    },
+    {
+      "title": "仙台のまんなかに、入場無料の音楽フェスがやってくるみたい - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xdEFDNXoxOElrczViV3R2cWJWQUY3YTBxNDUxT1ppTWdaTkl1Vm1FZHdfSHl5RlRFYkNpal9pcHA2NGxMeVZnRmF6Tko2RGtBYnZHSlRUS3RyVEFW?oc=5",
+      "date": "07/17 12:07",
+      "pub_ts": 1784257676.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
     },
     {
       "title": "インゴット74本と金貨43枚 合計し時価1億884万円相当をだまし取った疑い　受け子の男逮捕　トクリュウが関係しているとみて警察が捜査(tbc東北放送)",
@@ -92,6 +132,16 @@
       "emoji": "📺"
     },
     {
+      "title": "「いつかは崩れるという話も」築30年超アパートのコンクリート製外廊下が崩落 70代男性が両足骨折の重傷 仙台市 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GekM0Ym1XQmtLbmVJVHpfZGdjQUJaR0N1Y09fdTZSOWZ3THdSV3dSYm50V1JvM1JHOUIxUkRtRVlxRWRjMXNfWnNKelVNLUxyX0syX3dHc0ZObDcteFFLMVNUMEhjSXEwX09SaFVkRklfSXBPQVRGb0pwQUJxQ0k?oc=5",
+      "date": "07/17 10:10",
+      "pub_ts": 1784250600.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
+    {
       "title": "宮城県の男性から金の延べ棒など１億１０００万円相当をだまし取った疑い　長野市の男を逮捕(khb東日本放送)",
       "link": "https://news.yahoo.co.jp/articles/532e4b6ab4cd133b27eb25290fc9d276e787e6be?source=rss",
       "date": "07/17 10:05",
@@ -100,16 +150,6 @@
       "source": "khb東日本放送",
       "source_key": "khb",
       "emoji": "📺"
-    },
-    {
-      "title": "【速報】宮城県の70代男性からインゴットなど時価約1億円相当をだまし取った疑い 長野県の男逮捕（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LMll1dHNyU0Q2X0R6MzV4YTZKUklBb0d0T3JTdFdoSG4zenlQX3VPYVFRa0p0dFJRb2EzMEdRSVRPQm1MbUh3b2V5N1AwV0VaMFBEVzlKTXlpVWludENJZVd6SGlmZi16UWgzVGhCa0ZhQmZXaGlzbU5mTjNldUE?oc=5",
-      "date": "07/17 10:05",
-      "pub_ts": 1784250312.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
     },
     {
       "title": "思いを込めた試合球、宮城へ 本年度で廃部の兵庫・三木北高野球部員4人「自分たちの分も頑張って」（神戸新聞NEXT） - Yahoo!ニュース",
@@ -162,6 +202,16 @@
       "emoji": "🍜"
     },
     {
+      "title": "【泉区】さつまいもスイーツ専門店『emonomono』が、7月17-21日に催事出店！ - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kb2FGeG5rR1pWMEpfZWhMbWo2Mlh6dHctem1kcmU0cXZTbEhvNHFnQUNHMm1vWGg0SkZRcXp0X1l1Snh0YlZGa3F2MHY4Zm9KeFgyeG00ZmdoQ2Zt?oc=5",
+      "date": "07/17 06:53",
+      "pub_ts": 1784238809.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
+    },
+    {
       "title": "全東信破産…「こんなことあり得ると思わなかった」衣料品店にも影響＜宮城＞(ミヤギテレビ)",
       "link": "https://news.yahoo.co.jp/articles/1d5b5bf53633486526dbd0d1245179e47fda0897?source=rss",
       "date": "07/17 06:30",
@@ -172,24 +222,24 @@
       "emoji": "📺"
     },
     {
-      "title": "海開き前の海水浴場 14歳男子中学生が溺れ死亡＜仙台＞（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PSUVaeXZVM0F5NGh3UmhBTmVwclJ0eHhwVld6a21SaVNUcnFNMW5yWWtWMG1KZHJzRTI2NEhBSFhud1cwckNKTUo5OWtGU0JmSmx1VW9qRzUteTBSekFTR01rY2hHdGJITmpIQ1FlZEJtNVdCZGZYM094VkZ0YTg?oc=5",
+      "title": "「全東信」破産　金融機関に特別相談窓口＜宮城＞(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/967add30ddd17320d31cf49260e24bcc7e84dea6?source=rss",
       "date": "07/17 05:55",
       "pub_ts": 1784235300.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "クレジットカード決済代行「全東信」の破産手続き開始決定を受けて、宮城県内の金融機関でも特別に窓口を設置して相談を受け付けています。\n\n竹中弘 記者\n「物価高にあえぐ飲食店にとってはWパンチになるかもし",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
-      "title": "「全東信」破産 金融機関に特別相談窓口＜宮城＞（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFa2VkZjlNS2s2QXROeWY1RXhUR2t2djRpUzBOR2NhMkdyQWREUWh2LXhaUno1SG8wX0ZmVkdQM3BKZ1J5TlJqdE92UnpnRElEWXVMa2ozZTVpenFray1RNk9GeUY1OGN0UHZQTzZ5blBIWVhYRFo4Q2U5OURUcjg?oc=5",
+      "title": "海開き前の海水浴場 14歳男子中学生が溺れ死亡＜仙台＞(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/4c92b577fd16b52910c563af8ccfcb4cf77f2f1e?source=rss",
       "date": "07/17 05:55",
       "pub_ts": 1784235300.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "7月16日、仙台市若林区の深沼海水浴場で14歳の男子中学生が海で溺れる事故があり、搬送先の病院で死亡が確認されました。",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
       "title": "【仙台市青葉区】7/17 最高28℃、夜は雨の可能性、くもりが続く予想【朝版】 - Yahoo!ニュース",
@@ -332,44 +382,14 @@
       "emoji": "📺"
     },
     {
-      "title": "夏の高校野球宮城大会【7月16日・2回戦6試合の結果】（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMEJXY1JuT0g5MEFHU05QM3dDdWVud0VUVFItNF9aMV9XcmsyX0loN3lKeUUwRWdVMzhENGdBTTFJZXdsR1ZkS3JUeUJjRWtwZ3JPTk5BYzBjaGdFQnNPYlExTVJmOVA0VjNVOEkzbU5CUndpX19yODNRcmNmSTA?oc=5",
+      "title": "夏の高校野球宮城大会【7月16日・2回戦6試合の結果】(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/5d6e3b67ee4764fa9ab7965f4837afe8866734f8?source=rss",
       "date": "07/16 19:51",
       "pub_ts": 1784199077.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "リアルな恐竜が２０体以上 東北初開催「大恐竜パーク」 みちのく公園で１８日開幕 子供たち大興奮 宮城（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qSW91cy1xa3JNWGR6SDQ0NmFPUzhkNDVmQ1N2RzZNZ2pYUjF2YUh6dXhSYW5WblBaeGVIbG40UWdkbmE1QTZVVkhsY0Zvemk5S0JJTURhRkZQOTJWRi12R2lNbDRWeGxnS25ubHpIN0NYWkNXaF81NWJIQS1iS3c?oc=5",
-      "date": "07/16 19:32",
-      "pub_ts": 1784197922.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "ポケモンＧＯ「ワイルドエリア」１１月に仙台で開催決定 おととしは７４億円の経済効果（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQzFLVkhKb2V3a0xESlJILUJrcG5YTktFei1SSGpqQ3QzTk1GcEJvWHlxRFFxMDRYTG5sRVlKUElBdUNvOUNvSnZIa1lsaUpNU24zNi1nR0ZQOEN2aHQyQ051S1hwdlVpbnVnUkxnTTJkRWY1c295cmpzaURNaWc?oc=5",
-      "date": "07/16 19:32",
-      "pub_ts": 1784197922.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "仙台・バンコク間の定期便「来年の再開に向け準備」 タイ・エアアジアＸのＣＥＯが郡市長に意欲を示す（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TOGtVVm8yR2JTRGFaR1ZlNVR4QWU0Zkt6cXd0Ry1MQTRpQ0V6Y09wdjlvX2w2MjlfVDNzdVk0dkpUeGRwRWRFMnR4NGJxS2JVbUswRW1KZ1VsQ09YcUJYcXpfcHJsbnBSUEZxcG9RT09tcUhzWlBYeEVyV3FmNTg?oc=5",
-      "date": "07/16 19:32",
-      "pub_ts": 1784197922.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "熱戦が続く高校野球・宮城大会、7月16日の結果です。\n7月16日は2つの球場で、2回戦6試合が行われました。\n\n利府町中央公園野球場の第3試合は、仙台商業が2024年の甲子園出場校聖和学園を破りベスト",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "事故で肩から下が動かなくなる障がいを抱えた男性　支えてきた仲間たちとワンマンライブ開催〈仙台市〉(仙台放送)",
@@ -392,11 +412,41 @@
       "emoji": "📺"
     },
     {
+      "title": "仙台・バンコク間の定期便「来年の再開に向け準備」 タイ・エアアジアＸのＣＥＯが郡市長に意欲を示す(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/38a717b7163ea0a581fd8f5f44847b62d9b55ee1?source=rss",
+      "date": "07/16 19:32",
+      "pub_ts": 1784197922.0,
+      "summary": "今年１０月から運航を再開する予定でしたが、見送りが決まっていた、仙台空港とタイ・バンコクを結ぶ定期便について、７月１６日、タイの航空会社が「中東情勢の影響が回復すれば、来年の再開に向けて準備を進めたい",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
+      "title": "ポケモンＧＯ「ワイルドエリア」１１月に仙台で開催決定　おととしは７４億円の経済効果(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/e4ec3486dd1e754fefc4d78f1ccf3e2087daaeea?source=rss",
+      "date": "07/16 19:32",
+      "pub_ts": 1784197922.0,
+      "summary": "世界中で大人気のスマートフォン向けゲームアプリ、ポケモンＧＯのリアルイベントが、再び、仙台市内で開催されることになりました。開催は１１月の３日間で、仙台市はインバウンドによる経済効果が見込めると期待し",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
       "title": "３０年前から安全対策要望も放置か…向山のマンション下で高さ２０メートルの崖崩れが発生〈仙台市〉(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/7bbb6f4722c6b94b25eaa10482e4840835b69366?source=rss",
       "date": "07/16 19:32",
       "pub_ts": 1784197922.0,
       "summary": "仙台市太白区向山のマンションの下で起きた崖崩れについてです。仙台放送が取材した現場近くの住人によりますと、近くで過去に複数回、崖崩れが起きていて、住人たちが少なくとも３０年ほど前から、県などに対策を求",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
+      "title": "リアルな恐竜が２０体以上　東北初開催「大恐竜パーク」　みちのく公園で１８日開幕　子供たち大興奮　宮城(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/fce3799ceb47604d102e4722441630957b114a8d?source=rss",
+      "date": "07/16 19:32",
+      "pub_ts": 1784197922.0,
+      "summary": "宮城県川崎町で恐竜の生態や特徴を楽しく学ぶことができるイベントが始まります。\n\nみちのく杜の湖畔公園で７月１８日に始まるのは、その名も「ダイナソーアドベンチャーツアー大恐竜パークみちのく公園」。\n\n恐",
       "source": "仙台放送",
       "source_key": "ox",
       "emoji": "📺"
@@ -442,14 +492,14 @@
       "emoji": "📺"
     },
     {
-      "title": "沿岸部の複合施設「アクアイグニス仙台」に次世代体験型施設が7月17日オープン!リニューアル完了で16日に内覧会が開かれる - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JNWdRSXVvekdzR3VYTEhjV216dEtFWWFMRjdQWVpfYm9tTmNyQlVMd01MblVNNVJ4M1NBZ3NjaHZNNDdMUVlZeURnR2Vaa1h5elJMNlg0VHNpb2IzVFVxWDZDUFgzTE5VVGJiRDY5cllUbTFhUmFIU2RBcHYyZTQ?oc=5",
+      "title": "沿岸部の複合施設「アクアイグニス仙台」に次世代体験型施設が7月17日オープン!リニューアル完了で16日に内覧会が開かれる(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/d0028fb086def1fd393ed11a7a6aea2aab9b1da8?source=rss",
       "date": "07/16 19:22",
       "pub_ts": 1784197334.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "まったく新しい感覚のスポーツ体験ということです。\n仙台市沿岸部の複合施設、アクアイグニス仙台に次世代技術を駆使したゲームなどを楽しめる体験型施設が完成し、7月17日のオープンを前に内覧会が開かれました",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "ニチレイのシステム障害 仙台市内４校が一部メニューを変更（河北新報） - Yahoo!ニュース",
@@ -472,24 +522,24 @@
       "emoji": "📺"
     },
     {
-      "title": "夏の高校野球宮城大会2回戦 利府と古川工業が熱戦〈宮城〉（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPRlJwcnZUYjNWRUFrSTZfZjRWWmg1TnFPTHlTanRnM081Z1BMN1VYRVNJQUZiUm1oczNncEtsV3F2OHF4NTMzWV9FS3NwcHQ5TXdJczJSYS0xUUVIeTZLVi1FQ2lhZktPTnNnUGhTYmtYeUtidHZncy04OWpUS28?oc=5",
+      "title": "夏の高校野球宮城大会2回戦　利府と古川工業が熱戦〈宮城〉(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/b5e2b2d152196d7ec343843f3f90bf6b25920fec?source=rss",
       "date": "07/16 19:11",
       "pub_ts": 1784196660.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "夏の高校野球宮城大会、16日は2回戦6試合が行われました。\n\n利府町中央公園野球場では利府と古川工業、夏の甲子園に出場経験がある高校同士の一戦となりました。",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
-      "title": "いよいよ夏休み！今からでも間に合う宮城県内の注目観光スポット4選を紹介（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tZnRWTTRzOTRZUXN2Z0ZOTzB0ZXViMUNGMDhWQmt6Y244dUd1b2VmSzVpamtPc0NiRjh3NUxITFNDWmlUd19aaklJYUJiYVI4YzJvQWt2MnpZTXZoVUZjVUc2bnUxUWNLRERwaTQ2cjZBTnpqZnY0QXZrbGlEWVE?oc=5",
+      "title": "いよいよ夏休み！今からでも間に合う宮城県内の注目観光スポット4選を紹介(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/1713ab60a8e13621d6b319f5f23a56b886607837?source=rss",
       "date": "07/16 19:08",
       "pub_ts": 1784196480.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "今週末からは子どもたちの夏休みが始まります。\nみなさんはお出かけの予定決まっていますか？\n街の声とアンケート調査、今からでも間に合う近場の観光スポットを紹介します。\n\n亀井安紗記者\n「太陽の光が痛く感",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
       "title": "ＡＲ＝拡張現実で新スポーツ　アクアイグニス仙台に新施設オープンへ(khb東日本放送)",
@@ -502,14 +552,14 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城県が全域に発令していた「クマ出没警報」を「注意報」に7月18日から引き下げることを決定（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TckYxUnBKMEoxdTA2aDBONk1tWlZWa2tCejZ4U2lvWW55MnVQYjJzcHZzTlNaZV9EOGhnNFFTSHpzbHg1R3dqN3I2dGs5SGpRTFduSWhaU2ZjNEpqMHNTV1RHNE5TQ2k4VHFQQU9IeUdBRThRRDVZSlFkT09RNUE?oc=5",
+      "title": "宮城県が全域に発令していた「クマ出没警報」を「注意報」に7月18日から引き下げることを決定(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/1ccfc2693f4fea3af40ed832bd4bebbd109b21d1?source=rss",
       "date": "07/16 19:04",
       "pub_ts": 1784196252.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "宮城県内のクマの目撃件数が一時期に比べて落ち着いてきたことなどから、県は全域に発令していたクマ出没警報を、注意報に引き下げることを決めました。\n宮城県庁で開かれた野生鳥獣被害対策本部会議には、本部長の",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "夫婦が乗船の小型漁船が漁港で転覆し夫が死亡　妻は救助　宮城・石巻市(khb東日本放送)",
@@ -542,14 +592,14 @@
       "emoji": "📺"
     },
     {
-      "title": "【速報】「人が溺れている」仙台市の深沼海水浴場近くにいた人から通報 警察と消防が現地確認中（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fOWE5amZMU2RlRHA1akZFd21xOE5rU05XUjZ2YU9abmlQN293ZTk0cmZVamcza3ZmRzFTNTY4RV9kRjdqYzhGSUw0SmQ4ZDRaTVRqZ0JNdXdhOE03M0hBUU4xUU1BTHNsZFZQWGpzdnQ5YTIzWXY4cF9rLVRMRFU?oc=5",
+      "title": "【速報】「人が溺れている」仙台市の深沼海水浴場近くにいた人から通報　警察と消防が現地確認中(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/c59c42a829ee6be0ec63ae7cd656a20858608116?source=rss",
       "date": "07/16 18:51",
       "pub_ts": 1784195461.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "警察によりますと、７月１６日午後６時過ぎ、仙台市若林区荒浜にある深沼海水浴場近くにいた人から、「人が溺れている」と１１０番通報がありました。\n\n消防には、溺れているのは「中学生くらいの人」との情報も寄",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "「塩酸こぼしガス発生」ガスが目に入ったとみられる症状で\"電子部品\"製造工場の従業員2人が病院に運ばれる　仙台(tbc東北放送)",
@@ -582,14 +632,14 @@
       "emoji": "📺"
     },
     {
-      "title": "ニチレイのシステム障害で仙台市の学校給食にも影響 急遽メニュー変更でプリンがアイスに…（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSlFXTXJ4aVFkRWxHODdtWi1rcXhXQlByaE5MYXEzSGZHRjlESlBJMEVvXzRUVURBUDRrX0VCRV95bGJYYTFZcWg5dzhvbm9YU294SjdfNHBOTVJlSkFJbGdfU251MnBSUnp5VTU1NFpsbGU5RzNJZVVoYllVVDA?oc=5",
+      "title": "ニチレイのシステム障害で仙台市の学校給食にも影響　急遽メニュー変更でプリンがアイスに…(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/6fa0a6175718628418c8a8cc82626fe2ef3d2241?source=rss",
       "date": "07/16 18:41",
       "pub_ts": 1784194860.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "今月13日から発生しているニチレイのシステム障害により仙台市内の小学校でも影響が出ています。\n\nニチレイによりますと13日午前6時50分ごろ、不正アクセスによるシステム障害が発生し、冷凍食品の出荷業務",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
       "title": "感染者が合増える手足口病　注意点や予防策を医師に聞く(khb東日本放送)",
@@ -742,16 +792,6 @@
       "emoji": "📺"
     },
     {
-      "title": "「いつかは崩れるという話も」築30年超アパートのコンクリート製外廊下が崩落 70代男性が両足骨折の重傷 仙台市 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GekM0Ym1XQmtLbmVJVHpfZGdjQUJaR0N1Y09fdTZSOWZ3THdSV3dSYm50V1JvM1JHOUIxUkRtRVlxRWRjMXNfWnNKelVNLUxyX0syX3dHc0ZObDcteFFLMVNUMEhjSXEwX09SaFVkRklfSXBPQVRGb0pwQUJxQ0k?oc=5",
-      "date": "07/16 16:00",
-      "pub_ts": 1784185242.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
       "title": "東北初「ダイナソーアドベンチャーツアー大恐竜パーク」が7月18日から宮城・川崎町の\"国営みちのく杜の湖畔公園\"で開催　16日は地元のこども園の園児が招待される(tbc東北放送)",
       "link": "https://news.yahoo.co.jp/articles/77890591c87bcdeaad09cc6096129f69426d5ea2?source=rss",
       "date": "07/16 15:52",
@@ -812,24 +852,14 @@
       "emoji": "📺"
     },
     {
-      "title": "入館者500万人達成！「仙台アンパンマンこどもミュージアム＆モール」〈宮城・仙台市〉（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53aVVIdzFDUy1xTFJ3NU1nT1R4RmRSaVc2SlZ6WFVZUWhncl9pZ2x5TVotcVVoWUNudWJ2dG9fV3F1X3QwTlVaenU1OElRaHdTc0pKT2VYenprY3RpeU5jN0lZYVgzSVdHT2V1cDNwZjN4QXVUMTVkaVdIU1AxQXc?oc=5",
+      "title": "入館者500万人達成！「仙台アンパンマンこどもミュージアム＆モール」〈宮城・仙台市〉(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/95d207635c51d0914275be7a3976618ce21baaa7?source=rss",
       "date": "07/16 12:43",
       "pub_ts": 1784173380.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "仙台で今年初の「熱帯夜」を記録 宮城県内は非常に蒸し暑く、熱中症で３人が搬送 午後も警戒を（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5raFhYdEJTWmtmQXBsZ0lFZHF3WUIxSE1DQWFYZ0lubHBYMHFNbWtTOHZYcWpramtvZEpPd0c5LURYZ0UyYmJCbmhDZzRPeDBCWldpLUZKZ0x3QTRjMmV4bk1IOW9CUUdqN3AyMlkxNXBaMkVDd2ZmRUM3NktpUHM?oc=5",
-      "date": "07/16 12:18",
-      "pub_ts": 1784171881.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "500万人目の入館者になったのは、大和町から訪れた親子です。アンパンマンとメロンパンナちゃんの出迎えを受け、年間パスポートなど記念品を受け取りました。\n\n500万人目の入館者となった親子\n「びっくりで",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
       "title": "南三陸産のギンザケでパエリア作り　気仙沼の高校生が地元の旬を味わい、地域資源の魅力を楽しく学ぶ　宮城(仙台放送)",
@@ -837,6 +867,16 @@
       "date": "07/16 12:18",
       "pub_ts": 1784171881.0,
       "summary": "地域資源への理解を深めようと、宮城県気仙沼市では高校生たちが県内で水揚げされた旬のギンザケを使い、調理実習を行いました。  \n\n調理実習に取り組んだのは、気仙沼向洋高校でフードデザインを選択する２年生",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
+      "title": "仙台で今年初の「熱帯夜」を記録　宮城県内は非常に蒸し暑く、熱中症で３人が搬送　午後も警戒を(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/8d438a762fbca8fefefac7b515d4a8fce04085f2?source=rss",
+      "date": "07/16 12:18",
+      "pub_ts": 1784171881.0,
+      "summary": "７月１６日も宮城県内は気温が上がっています。真夏日となるところが多く、湿度も高くなっているため、熱中症に警戒が必要です。\n\n前線や湿った空気の影響で、１６日の宮城県内は、曇り空のところが多くなっていま",
       "source": "仙台放送",
       "source_key": "ox",
       "emoji": "📺"
@@ -902,14 +942,14 @@
       "emoji": "📺"
     },
     {
-      "title": "「塩酸をこぼした」と通報 仙台市内の工場で塩酸をこぼし職員2人がけが＜宮城・仙台市＞（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95UG9LdkNYcWgzUmd1ekttakstNUZuZW5GUF9xREpqMWdXVEpOV3dTMTMxNDhxLTFBZG1OMW03WTJIaE12ZU1zajZNaUw1d0s2ZWNsekI0bzVXR2kzeC1nRVB1VFpyR1dpN2pTdDNZWGRlS185blNCTlQxRkxSbWc?oc=5",
+      "title": "「塩酸をこぼした」と通報　仙台市内の工場で塩酸をこぼし職員2人がけが＜宮城・仙台市＞(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/6b1edfe603779b0289e22f96626ce0abc8330187?source=rss",
       "date": "07/16 11:25",
       "pub_ts": 1784168700.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "16日午前10時頃、泉区明通の「共栄電資」の工場で「塩酸をタンクに移す時にこぼしてガスが発生した」と、工場の職員から消防に通報がありました。消防によりますと、30代と60代の男性職員にこぼした塩酸がか",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
       "title": "【破産開始決定】3.11震災被害とコロナ禍、燃料費高騰が打撃となり　食品などの運送会社が破産開始　負債総額1億円(tbc東北放送)",
@@ -922,34 +962,24 @@
       "emoji": "📺"
     },
     {
-      "title": "【速報】仙台市内の工場で体に塩酸がかかり作業員の男性２人がけが 「塩酸ガスが発生した」と１１９番通報（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRUVtZ211Mnp1ZGt2UktXVmhzSWU3STBEQlVWY0hVWXJmWHpnNHZLb09KM2tNOHpKb19UVm13RmwyNVdiTnE3YU9hNUN6ZGEwaHJiSl9IX0RGMTBfTERvRTAwTkRTZTV3aEtsdndXUDhEdEdXcHF3Q3YxTDl3clU?oc=5",
+      "title": "【速報】仙台市内の工場で体に塩酸がかかり作業員の男性２人がけが　「塩酸ガスが発生した」と１１９番通報(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/0e3855ed4903e95baa9bc542ffade678f909077c?source=rss",
       "date": "07/16 10:55",
       "pub_ts": 1784166901.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "７月１６日午前、仙台市の工場で、作業員の男性２人が体に塩酸がかかりけがをする事故がありました。\n\n事故があったのは、仙台市泉区明通２丁目にある「共栄電資株式会社」です。\n\n消防によりますと、１６日午前",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
-      "title": "仙台・泉の工場で塩酸流出、2人けが - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzRUZsb1lPWlEwZXVLSnRuSWJSeF9BWDRqTXF5eUVCdVFIcUtMb3AxRF9MOC1LRW5ic1VYZDVJNUhkU1dCZjd2Y2tUQkZ6RHZ4YllyVm9jZ0FqNUJtZ3l0Rw?oc=5",
-      "date": "07/16 10:51",
-      "pub_ts": 1784166678.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
-    },
-    {
-      "title": "こぼした塩酸が従業員2人の体にかかりけが 仙台市・泉区の電子部品をつくる会社の工場で塩酸をこぼしガス発生か - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdjU5Q1kzZnFXbHQwR0dwQTlWTnljeERwSjdHbkJmNk5CLUlEUVJDQ2FJSkpjWVZjNWMyUWxRb3JCd2w4bXZ2RnBsYWhvYmgwbEFsVUF3NlV5MEhIczV0S1hoMWVSWXdQYXprTENlbkl2MmlGcnBBNXV1RUF6Mk0?oc=5",
+      "title": "こぼした塩酸が従業員2人の体にかかりけが　仙台市・泉区の電子部品をつくる会社の工場で塩酸をこぼしガス発生か(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/f43e8421ba2a5415be6d9b5d39cfac7f0967b5d8?source=rss",
       "date": "07/16 10:43",
       "pub_ts": 1784166193.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "7月16日午前10時頃、仙台市泉区明通3丁目にある「共栄電資」の工場で「塩酸をタンクに移しているときにこぼしてガスが発生している」と工場の従業員から消防に通報がありました。\n\n消防によりますと、こぼし",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "「前から殺したいと思っていた」　知人女性を脅迫した疑いで８０代の男を逮捕〈宮城・登米市〉　(仙台放送)",
@@ -966,26 +996,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YdFhQYVZyRE15ejB1T0hZUHRkMzJ6MTZtX0tpLTBfTU0zejlDaTNiM1YySnlIYU9lTUY5TTNRVjZWS05xdVZNcWZrQy1WTWpuMDJIRkxkc0tPZXBqQVJOVVZkSjBuYkJqLWtBZ3ppRWdnMGFYYm43QWJaSU5kX1E?oc=5",
       "date": "07/16 10:31",
       "pub_ts": 1784165479.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "ラーメン店7軒がしのぎ、仙台北環状線に仙台屈指の「麺ロード」＜まるっと仙台・吉成＞ (河北新報) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHc3amttNlZmaGo4VHlaTHkyYmtxVk55T21GallqSS0wazdfOFFvVkRUMjQ2dkpqZVNmQVZuc0pOaFgxd2FhV2JvYWoxTFhJd2lXVWRQRlJfc0lnNWlnUnhqM0htLWZ3N25kZmt5RUIzS2J5QU9UQkRvOWdEcWF5ektZY2ppdU5UcWRzNFRR?oc=5",
-      "date": "07/16 10:26",
-      "pub_ts": 1784165196.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "仙台育英コールドで初戦突破、東北は延長制す 高校野球宮城大会（朝日新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11eTNQM0hfOVJTLUdURFV5bWtvM1k4WW1FU081U2prRVBLSGhfZm5PM2UyNGFLaEJ4UktncmRZTVJxNFpRaEdaYXNGM0l0NTNUUFdncmRBUHo3R09VT2M0aWtuLU1NeWxsNDNCbTRuQmcyUEhCZHR1dlNBMWF3Wm8?oc=5",
-      "date": "07/16 10:00",
-      "pub_ts": 1784163601.0,
       "summary": "",
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
@@ -1032,16 +1042,6 @@
       "emoji": "📺"
     },
     {
-      "title": "28日で3800回超の売春場所提供か、ソープ「マリン千姫」役員ら3人起訴＜仙台＞（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1idENQaGw5elVsN3pEWnNBeGxlNTVQLVJTa3RQcjlrclFOZFJUVlNSZEpjNDg2akpfZjlVdEszakRrVWtDNDhHQTI2dWhoanVBeF9tQWx6MGd1b0t2TTAxOHdvOGR1YXJOM1h3U2tCMFctSFczR2IyMkhCZjR6Rnc?oc=5",
-      "date": "07/15 21:43",
-      "pub_ts": 1784119380.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
       "title": "【宮城野区】出花に『JOステーキ』が、近日オープン。 - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iMzFhMmI4VldfaHJoRzAyNXprUTRmUGh1WkJWTVhHcy1lanFhb0dpbmdvcnY5R0xsM0ZYdno0RXU0bTk1SmtOODFvRGJNVV90UzJUTmZnYTMzcmdJ?oc=5",
       "date": "07/15 21:43",
@@ -1050,6 +1050,16 @@
       "source": "仙台つーしん",
       "source_key": "tushin",
       "emoji": "🍜"
+    },
+    {
+      "title": "28日で3800回超の売春場所提供か、ソープ「マリン千姫」役員ら3人起訴＜仙台＞(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/fa2b17270732f7b6e2e62c18a4c623de3eb4e376?source=rss",
+      "date": "07/15 21:43",
+      "pub_ts": 1784119380.0,
+      "summary": "今年1月、仙台市青葉区で営業していたソープランドで売春をする場所を提供したとして、仙台地検は7月15日、運営会社の役員ら3人を起訴しました。\n\n売春防止法違反の罪で起訴されたのは、青葉区一番町にあった",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
       "title": "【若林区】『連坊高架下でビアガーデン』、7月25日に。 - 仙台つーしん",
@@ -1082,14 +1092,14 @@
       "emoji": "📺"
     },
     {
-      "title": "路上で面識のない１０代女性にわいせつ行為 インド国籍の男逮捕〈仙台〉（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1UWZ0TmdpaVppcmhfc0tYN002aTBtbzNtdDZxc2VUNFdmUmY0MDJJclhUSkFrYXB5bVI0bmxweTdpMnBReXNaMS1fc29JY1Qya1NvMnlvYS13OWFZZG1nRDl2MWpqaGtGQ18zemx5T2NKS1NVdG9uQUp1THFWSkU?oc=5",
+      "title": "路上で面識のない１０代女性にわいせつ行為　インド国籍の男逮捕〈仙台〉(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/683f71d5a286215af0df339722a8ae35444817ab?source=rss",
       "date": "07/15 19:36",
       "pub_ts": 1784111761.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "６月２３日朝、宮城県仙台市の路上で面識のない１０代の女性にわいせつな行為をしたとしてインド国籍の男が逮捕されました。\n\n不同意わいせつの疑いで逮捕されたのはインド国籍、飲食店従業員の男（４９）です。",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "ニチレイシステム障害　宮城県内でもスーパーや学校給食で影響(仙台放送)",
@@ -1382,16 +1392,6 @@
       "emoji": "📺"
     },
     {
-      "title": "ずんだシェイクが宮城県内のセブンイレブンで販売されるみたい。 - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5McmNfWGpZM2hPbTVVQlZ6Z2gwbGNieUZMMDJVMXp4YU9odG5LUXpld0M0VDlTLTB0QmU3T2JHTXpGLTVZU2JJRGhSQUx3c2NBQTcyTm9FX19TWjVs?oc=5",
-      "date": "07/15 17:58",
-      "pub_ts": 1784105893.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
       "title": "【地震】宮城県内で震度1 宮城県沖を震源とする最大震度1の地震が発生 津波の心配なし(khb東日本放送)",
       "link": "https://news.yahoo.co.jp/articles/4a8017566cc58b0aee9a67a58a9e96a47c7c0750?source=rss",
       "date": "07/15 17:42",
@@ -1632,30 +1632,10 @@
       "emoji": "🍜"
     },
     {
-      "title": "【青葉区】国分町にヴィーガンレストランチェーンのFC店『アインソフ 仙台店』が、2026年の秋口を目処に出店か。 - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfMjBFaTVyZmxIV2xtNXhON01fb3pZSExaNTR6cEJGRkx4SjJiVmlFYWJpYWdPRDVmZ0xSUnJ5OWtCM2ZmaTBwUFp3WGI5UjRuUVU1ZmRXdnBHVmxL?oc=5",
-      "date": "07/15 06:49",
-      "pub_ts": 1784065787.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
       "title": "【太白区】『学都「仙台・宮城」サイエンスデイ in 三井ショッピングパーク ララガーデン長町』を、7月18-20日に開催！ - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0LTBQdHdsdm8waHhtd3BwUXVjUVBscWRpc2lITGp1c3ZCNDBZTXl4bkxSS2NWR1l4Tm85a1Y0TDJhSlVjZFFWWGVYcGFCNV9RejZPUDQ2bXpQUmhW?oc=5",
       "date": "07/15 06:48",
       "pub_ts": 1784065709.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
-      "title": "【宮城野区】『みやぎコロッケ総選挙』を、7月18-20日に開催！ - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ucXdDUTBwLVdKZE5uYktOQXQwRXRfekJYVmtBcjEzQUdDd0R3SzFZNU8xajBxRXk3cS1wc3Z1WE1TNU00WThpTTlMdTFKVVk5UkZ1NGw0MVdNRnM4?oc=5",
-      "date": "07/15 06:45",
-      "pub_ts": 1784065505.0,
       "summary": "",
       "source": "仙台つーしん",
       "source_key": "tushin",
@@ -1672,14 +1652,14 @@
       "emoji": "📺"
     },
     {
-      "title": "「突然、ものすごい音」アパートの共用廊下が崩落 住人の男性が巻き込まれ両足を骨折 築30年以上経過か【現場画像19枚】仙台・青葉区（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11MF9fOUVxNS13SE5VZC1KdV90dFNpdmhpUTU5RFhUVUI0SC1vVUM4RkRVNE0tRjl6RWJMRkItYUZpU0I2bmVWTktjRFRkcG1TbXZEZHRZcHdXTFowcWUyNHdxU0wwY2dLV1l3S3BDUmpBdmxyMXhwT09ndVlPdDA?oc=5",
+      "title": "「突然、ものすごい音」アパートの共用廊下が崩落　住人の男性が巻き込まれ両足を骨折　築30年以上経過か【現場画像19枚】仙台・青葉区(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/b91f412d59d37798a782fc053034fb519dfc53ce?source=rss",
       "date": "07/14 22:56",
       "pub_ts": 1784037373.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "14日午後7時頃、仙台市青葉区中山4丁目のアパートの住人から「2階の共用廊下が崩落した」と消防に通報がありました。\n\n■アパート2階に住む男性が巻き込まれ大けが\n\n警察などによりますと、アパートの2階",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "アパート２階の外廊下が崩落　住人の７０代男性が巻き込まれ両足を骨折　築３０年以上で修繕の予定も　仙台(仙台放送)",
@@ -2062,6 +2042,16 @@
       "emoji": "📺"
     },
     {
+      "title": "ラーメン店7軒がしのぎ、仙台北環状線に仙台屈指の「麺ロード」＜まるっと仙台・吉成＞ - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNZ2xyelUwVXhUUnBUOUNjSWZwcmxYTU1jdmtYRTVTc0NDRjg1U2lEdm1yVzF6dl91c1Q4NmVzYmhDVGtKWXZ6T3VKS1pmSlJ4WkxZVXhSdzRfMXl3NHpSdWFjV0VRcVpBRW1PZGlFTWdQWHVLVXpEOVMzcw?oc=5",
+      "date": "07/14 16:00",
+      "pub_ts": 1784012400.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
+    },
+    {
       "title": "湿気多 さらに蒸し暑く！ 14日(火 )宮城の天気(ミヤギテレビ)",
       "link": "https://news.yahoo.co.jp/articles/95c2c0f04a05d4507eb76fa437f914368cf9e34a?source=rss",
       "date": "07/14 12:25",
@@ -2147,16 +2137,6 @@
       "date": "07/14 11:06",
       "pub_ts": 1783994760.0,
       "summary": "仙台市青葉区に住む医療従事者の男性(40代)が、SNSを利用した投資詐欺の被害に遭い、暗号資産 約2060万円をだまし取られました。\n\n警察によりますと、投資に興味を持っていた男性は2026年1月下旬",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
-    },
-    {
-      "title": "【一覧】クマの目撃情報 7月13日夕方～7月14日朝 宮城(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/26b8c4ba185101c8308373d237164650df9fc3c1?source=rss",
-      "date": "07/14 08:28",
-      "pub_ts": 1783985280.0,
-      "summary": "7月13日夕方～14日朝までに宮城県警から発表のあったクマの目撃情報は5件。いずれもけが人などの被害は確認されていない。\n\n■東松島市\n・13日午後4時ごろ、上下堤の山林でクマ1頭が目撃された。クマは",
       "source": "ミヤギテレビ",
       "source_key": "mmt",
       "emoji": "📺"
@@ -2322,6 +2302,16 @@
       "emoji": "🍜"
     },
     {
+      "title": "全国高校野球宮城大会 １１日の結果 - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oVmhPTmotV1VaMXVrTmdOTnRKZEJxT1FVZHJpaFdmNVpHd001aVRfcXNXWVEzQjB5SjRsV3NIYmRXQ09qS2Q4TVo2RHpSOTd6aGE4S25vQjY?oc=5",
+      "date": "07/11 18:22",
+      "pub_ts": 1783761720.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
+    },
+    {
       "title": "アイドル事務所の新たな挑戦！この夏限定のレモネードカフェが楽しそう！ - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fZ2VGeGoyY2QxOEU4OFV2b3J3OEU3Q3FyN2JGSkVnRHI4Y0NWZm1rLUpoX3NFLXJ4Nk5uT05HdTdMMnJpa1U1Y1BoX0U5RGsxbENfTmNJVDV0LWF1?oc=5",
       "date": "07/10 20:19",
@@ -2422,16 +2412,6 @@
       "emoji": "📰"
     },
     {
-      "title": "全国知事会PT、「特別市」への反対で一致 オンラインで会合 宮城知事「みな同じ方向」 - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81RFRMcjdFb3U1RG9LYlR6b1FTd1NwSEd2N25HQUpXNFJJNFdob3h6VlJOLVZibWF6OE5BRzI3VzUtd2lta2xBTU1RbnJSRGpFVnFKVTV3MUxMT0syeW50bw?oc=5",
-      "date": "06/30 16:00",
-      "pub_ts": 1782802800.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
-    },
-    {
       "title": "食事のたびにお得になる手帳が、エスパル仙台地下にあるみたい！ - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FeC1LdGR3UEI0NlhYTXJPQVdjNk5nc0pmUUotQTFGVWZJVXhyaGxTX1hGLXlOdG10TWZOZ1pjSWd2c25DRmM4SnBxanpBYWxoaGFYbGQ0SXZZUGdo?oc=5",
       "date": "06/30 16:00",
@@ -2442,10 +2422,30 @@
       "emoji": "🍜"
     },
     {
+      "title": "全国知事会PT、「特別市」への反対で一致 オンラインで会合 宮城知事「みな同じ方向」 - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81RFRMcjdFb3U1RG9LYlR6b1FTd1NwSEd2N25HQUpXNFJJNFdob3h6VlJOLVZibWF6OE5BRzI3VzUtd2lta2xBTU1RbnJSRGpFVnFKVTV3MUxMT0syeW50bw?oc=5",
+      "date": "06/30 16:00",
+      "pub_ts": 1782802800.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
+    },
+    {
       "title": "【参加特典あり】税理士とFPが相続対策を徹底解説！無料で学べるセミナーが参加者募集中みたい！ - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqS2QxelpfNVByb2JZVDlnT0ljcUNTQWVFd2ZzNkdvQjNZOEJGMk9IZUZhekxjdmFnRE40cEQwd3AteVlac3R4RGZVZ1dpTTBtMUlFUFVJNzl3enJr?oc=5",
       "date": "06/29 18:30",
       "pub_ts": 1782725454.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
+    },
+    {
+      "title": "仙台駅東口の気になる自販機を調査してきたみたい！ - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LSXlsYVpGd1hpUTRyUHZ3UjhMTXBBNUpZTVlVbFBpZDdYNkJXTU0teGF4a0dBNGFEanZITTgwVmRiOWt5WGotZFhDanNRbFNFNFI5LVoyTUpZcFRp?oc=5",
+      "date": "06/29 16:00",
+      "pub_ts": 1782716400.0,
       "summary": "",
       "source": "仙台つーしん",
       "source_key": "tushin",
@@ -2460,16 +2460,6 @@
       "source": "河北新報",
       "source_key": "kahoku",
       "emoji": "📰"
-    },
-    {
-      "title": "仙台駅東口の気になる自販機を調査してきたみたい！ - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LSXlsYVpGd1hpUTRyUHZ3UjhMTXBBNUpZTVlVbFBpZDdYNkJXTU0teGF4a0dBNGFEanZITTgwVmRiOWt5WGotZFhDanNRbFNFNFI5LVoyTUpZcFRp?oc=5",
-      "date": "06/29 16:00",
-      "pub_ts": 1782716400.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
     },
     {
       "title": "【新店・青葉区】八幡に『台湾 食・文化ラボbefore8』が、6月27日グランドオープン！ - 仙台つーしん",
@@ -2563,13 +2553,13 @@
     }
   ],
   "debug_info": {
-    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
-    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
-    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
-    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
+    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
     "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
-    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)"
+    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
+    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
+    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
+    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)"
   }
 }
