@@ -1,6 +1,26 @@
 {
-  "fetched_at": "2026-07-24 23:15:04",
+  "fetched_at": "2026-07-25 00:48:59",
   "items": [
+    {
+      "title": "クマ 異常出没 宮城県ニュースまとめ（2026年7月） - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01RTY3ZkVoMUI0Q3F5QnhvMTZ6X1BpUzBXdDRzdTM0RDIwX0s0ZEwySF8zTW1qS0hQaExta1o0V1h5ZjdWa1pMSnlDMnlUcVpkV05oREo5Z3lmTzdNSENtdXQtbXo?oc=5",
+      "date": "07/25 00:00",
+      "pub_ts": 1784905245.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
+    },
+    {
+      "title": "北方領土上空を領空侵犯 ロシア軍航空機が宮城県沖まで南下 航空自衛隊がスクランブル - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HUWpxV2I5Qk5PSnFsYUVpMjlxaWpSc2llTmJPdF96WTA0cWIwUDBNdUhILUNnU3J4cnhLdF9qTTJ3SzU5ekpoMkpBZkN2OUF4UXR3SHBkQ0gyNnZHM0tXVXY0Mkc1YVpkemVZTl9kYkI2S0pRUFdqaTQwbE1HbFU?oc=5",
+      "date": "07/24 23:25",
+      "pub_ts": 1784903104.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
     {
       "title": "【夏休み】「めざすは動物園の飼育員」小学生が飼育員の仕事を体験　　仙台・八木山動物公園(ミヤギテレビ)",
       "link": "https://news.yahoo.co.jp/articles/203e28ccf87c54cc6574fc18f199fa81e38c4e44?source=rss",
@@ -10,6 +30,26 @@
       "source": "ミヤギテレビ",
       "source_key": "mmt",
       "emoji": "📺"
+    },
+    {
+      "title": "【仙台駅西口】『ケンタッキーフライドチキン 仙台駅前店』が、2026年7月25日に営業再開！ - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tdVFKX3FUeEFkdnFDZEpKZW9KRkVnZXJfTldJanRDTURfdmJmTlVyUnM5OE1aTk94eDkxYjRtTXY3YjBOYTMyMWItbDAwRFVGZFR0alBmckNmRjNt?oc=5",
+      "date": "07/24 21:10",
+      "pub_ts": 1784895011.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
+    },
+    {
+      "title": "【名取市】大手町の『ファミリーマート 名取大手町五丁目店』が、2026年7月31日で閉店に。 - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pMXpjQzRSX2VBOF9sX3BtbmJtM0lZWUhvMlUtVVMzX2lpaU41STFOZDljQjFlLVBsNHUxeUN6dkhMZk8wRGZGcXJZYzlmdXU3UTdPRlU2cU9nODg4?oc=5",
+      "date": "07/24 21:06",
+      "pub_ts": 1784894793.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
     },
     {
       "title": "「私が知事をやっている21年間で3回しか使ったことがない部屋がある」貴重な部屋も特別にご案内 県庁参観デー(tbc東北放送)",
@@ -22,30 +62,50 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城県、福島県で最大震度1の地震 宮城県・亘理町、福島県・田村市、小野町、相馬市、福島広野町、楢葉町 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrVE1hNGktOTVBRno4SC1rZUlsUUhjb2w0ejhzNmtoRGlLbDZFR05QOVc4SXpyam9GLUJsWWhNcmJtTWdHOUJLZkNfdnhZeWNJWjl2VDFtS2FaSy0zQ1BQNS1Rck9LZ2VLdm41MExjU2xUV0VLZFlvZHV3MVVrcGs?oc=5",
-      "date": "07/24 20:58",
-      "pub_ts": 1784894294.0,
+      "title": "【地震】宮城県内で震度1 福島県沖を震源とする最大震度1の地震が発生 津波の心配なし（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80N2lvcWtmMnlVZHFvSTMxUzlmbTdjamlTSWdZQTdnWVQxcmFWbDkwTXBVT1lOY05MaWs5ZnA0R0NSM3hCSE1JVS1Hb0t0TXRzSGVVMUdXWHRQNUFjMTF5SG1xcWMzSzR4ZkhteWJYSkZfQ3o2cTgyYllhLU5RbXM?oc=5",
+      "date": "07/24 20:56",
+      "pub_ts": 1784894218.0,
       "summary": "",
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
     },
     {
-      "title": "【地震】宮城県内で震度1 福島県沖を震源とする最大震度1の地震が発生 津波の心配なし(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/c8fb34b49eb8c30e777b67c9f2c9bfa8f89bf931?source=rss",
+      "title": "宮城県で最大震度1の地震 宮城県・亘理町、福島県・田村市、小野町、相馬市、福島広野町、楢葉町、川内村、大熊町 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZFkyTEh1eUFzV3J0WFV2YnBhQm5PWXd4TW9faVlZOEc4Z0R6cHNvZFhXN19GLW1NRVF0M1pnU1psaVFXUF8tVE42T2J4d2RnaWpXSFhNY2NLbDFXOVRlcDRkLTdxWlJOTEdqTk02MVVZTjJqdnRHbFpYUXM5UGs?oc=5",
       "date": "07/24 20:56",
-      "pub_ts": 1784894218.0,
-      "summary": "2026年07月24日午後8時53分ごろ",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "pub_ts": 1784894178.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "ベガルタ仙台が練習 DFマテウスモラエスが前線へのパス追求 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90NlJZeHNrY3U4TlhYbHRReDd4cVB2bnpvVXZVY09id2Z4MHpHa1lJVFNldF9fVGY3aWp3T0FGSVo2TVNmblllNVRBZ2ZMT09HcHFOSHJKNWhhWjA4QnZLQQ?oc=5",
       "date": "07/24 20:12",
       "pub_ts": 1784891520.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
+    },
+    {
+      "title": "さくら野、エデン跡地に停滞感＜どうなる仙台再開発＞ - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pS0lmLUlxbHFfVFNmNHU5bFZ2anJhQ19jdUp0Z3FBRjVMWWNyRktWbklGak9jMGFLeTJJSzlYY0tOS25mVnJVOGluaXBRU05kdnpEYnRKd2preUJkRjlsdA?oc=5",
+      "date": "07/24 20:00",
+      "pub_ts": 1784890800.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
+    },
+    {
+      "title": "黒ビル、電力ビルは着々 フォーラスは？＜どうなる仙台再開発＞ - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oTUZPVXloUEF5QllyOFZ3c2wxRTRJcjlLSmZCeFlUcy1SZjFreW1NR1RoR0JNajZNM3hWV1JSdVlGeVpPZFljbld6UmZtR1JfWF9YSFIyR3I1aWZ3V2kxUQ?oc=5",
+      "date": "07/24 20:00",
+      "pub_ts": 1784890800.0,
       "summary": "",
       "source": "河北新報",
       "source_key": "kahoku",
@@ -162,24 +222,24 @@
       "emoji": "📺"
     },
     {
-      "title": "Ｊ２リーグ開幕を前にベガルタ仙台の森山監督らが村井宮城県知事を表敬訪問(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/d08414f02a6ffe0ef186fd00be64cbdd5fef701b?source=rss",
+      "title": "Ｊ２リーグ開幕を前にベガルタ仙台の森山監督らが村井宮城県知事を表敬訪問（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UGNuRm80dEQ0ZVZEdlNIUlphV3VCUy1hTGRMYWVuVEhOSGUyLTF1dERuLWppSEMxcWNSS0R5YjhnZXFoWnVuYlZTUUd5bUpzVjhjSW1xR05PMnFubFpYU1BHVzB5ejdLUlJHV3huOXpnSjhvREs1Z1pDM2R4WDg?oc=5",
       "date": "07/24 18:47",
       "pub_ts": 1784886463.0,
-      "summary": "８月のＪ２リーグ開幕を前に、ベガルタ仙台の森山監督らが村井知事を表敬訪問しました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
-      "title": "夏の高校野球宮城大会　雨のため準決勝２試合が２６日に延期(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/5362e447bfd57eeaefa9664058b811bd6359e31a?source=rss",
+      "title": "夏の高校野球宮城大会 雨のため準決勝２試合が２６日に延期（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rRk9idks0Z0FyY3NONnNFS25BcVF0amNzVkZiYWdSalptR1VjR2ktOV84RzF4Umk4UDlNS00yaG5EMVJiZ0Z4cHMzY0dWbExEQzVVVmlaSjVSMzhnVldPTV81NzRfN0I4NzhJdFJGTW9RRXVzbTFKX3hsY1Rrc00?oc=5",
       "date": "07/24 18:45",
       "pub_ts": 1784886348.0,
-      "summary": "２４日に行われる予定だった夏の高校野球宮城大会の準決勝２試合が、雨のため２６日に延期となりました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "「明るめに話すと良い」小学生がラジオ番組の制作現場を見学〈宮城・気仙沼市〉(ミヤギテレビ)",
@@ -242,14 +302,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "クマの出没が宮城県では７月になり減少　専門家に聞く(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/31041c5a99ade26501e0bf013ce95304861f9987?source=rss",
+      "title": "クマの出没が宮城県では７月になり減少 専門家に聞く（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42RXpCTEhoMjhQWHNVa1dhTmRjcWVpNjRHLWhXZ1JxMVB4b2N0RElRb2ktOVVyRjRFVWZXMFlEY0EyUDZxQmpRclVsSVdXZ3gzZWk4VzExaUV0bjM2THUwNnVhSnF4WWFZaUFoVEhpbF9GZHcwUjcwdFdxdUExdjA?oc=5",
       "date": "07/24 18:30",
       "pub_ts": 1784885400.0,
-      "summary": "クマの出没ペースは宮城県全体でみると、７月に入ってやや落ち着いています。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "仙台市内で制限速度を60キロ超過して摘発された30代の県職員の女性が減給4か月の懲戒処分 山形県（YBC山形放送） - Yahoo!ニュース",
@@ -272,14 +332,14 @@
       "emoji": "📺"
     },
     {
-      "title": "建設コスト削減を　仙台市の複合施設　施工業者選定に向け委員会(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/a3a690476e50bc4fc2850095d3b9323f7e788b82?source=rss",
+      "title": "建設コスト削減を 仙台市の複合施設 施工業者選定に向け委員会（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IYXBEN3BwcEdtbUlxcWRjTEpPY2pVRDRjZHJlREhtX2pseVhRUEhfdXF4ZldyZXNzQmtqSGpUV2VINTZReDJ2Y2hERnVuU0JJNGVnTl9MM2JpLXl1cTd0T3hJWkdGY09NZ296d0lkWWNwVHFENlBlNDBzZDFmNnc?oc=5",
       "date": "07/24 18:27",
       "pub_ts": 1784885235.0,
-      "summary": "総事業費が６４６億円と見込まれている仙台市の複合施設について、仙台市は工事を担う業者を早い段階から設計に参加させ、建設コストの削減を目指します。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "「2億ション」買える？ 仙台・広瀬川を望むエリアに出現へ - 河北新報オンライン",
@@ -292,14 +352,14 @@
       "emoji": "📰"
     },
     {
-      "title": "仙台七夕まつり　飾りに使う竹の価格が高騰　運搬費などが上がる(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/090b8850be9ce575704a37283711a8cab9640971?source=rss",
+      "title": "仙台七夕まつり 飾りに使う竹の価格が高騰 運搬費などが上がる（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0SmtJTGNVWkMwbmhtNzhuaVJvSmhvTkxTSldCcDN3c29mR0hRc1JoamJWdXV3Tk1DU0tlQy1ZQ1VtQnV5eHNUZUUteVhSNThGVU8wM0hRYWlDRXBRSVhMVWstQ1VBMllXWjg3RmRWYjU2SE1IbWN5a3pvd3lIX3M?oc=5",
       "date": "07/24 18:20",
       "pub_ts": 1784884834.0,
-      "summary": "８月６日から始まる仙台七夕まつりの飾りに使う、竹の価格が値上がりを続けています。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "榴岡天満宮そばに明日オープンするお店があるみたい。 - 仙台つーしん",
@@ -312,14 +372,14 @@
       "emoji": "🍜"
     },
     {
-      "title": "宮城・松島町にオーシャンビューホテル　８月１０日オープン(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/05007b40fbf4b74105a9fab1dc30caa45c6ead1d?source=rss",
+      "title": "宮城・松島町にオーシャンビューホテル ８月１０日オープン（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VOG4xcDNxWmhCOE0tQk5NbVE4VEw3VW1hcGk0WXZYZzNOdjBTdUxIODc0TXpGYURSczBNVzNycnk0OG9CMDliNlJWSjgtUWFUeVhuYllIMWhodU5MMXc1RVAzX3pzalV1TWpmMDMyVjVOTUhBVXZUNHQwMVRwMUE?oc=5",
       "date": "07/24 17:39",
       "pub_ts": 1784882342.0,
-      "summary": "宮城県松島町に、全室温泉付きのオーシャンビューホテルが８月１０日に新たにオープンします。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "保育園児がトウモロコシの収穫に挑戦　宮城・大河原町(khb東日本放送)",
@@ -332,24 +392,24 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城県の高齢化率　初の３０％超え(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/e698cbb2df88cc5d3680f3d38d3255cd2f705b6b?source=rss",
+      "title": "宮城県の高齢化率 初の３０％超え（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDRSS19YNEtQb2FyV2pib19aYkwtTjFkM2lhUF9IdU5tRmFsV0xnZ1FZeTdkN3I4REx1Ym9VWVVialZaZm5wM1FoSlF5WkZ1ZzZENTcwLVVpc3pzQzhjdURXTkR3V21ERnY0RHN1cnNPZGpLcFBIMVFTRHNpX3NQQVNWRUZOS05YY1plc3hR?oc=5",
       "date": "07/24 17:13",
       "pub_ts": 1784880816.0,
-      "summary": "宮城県の６５歳以上の人の割合が増え続けています。３月時点の高齢化率は３０．１％と、初めて３０％を超えました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
-      "title": "フンボルトペンギン４羽が相次いで死ぬ　仙台・八木山動物公園(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/1f9c642221be49d06097cb48127040bdc6358494?source=rss",
+      "title": "フンボルトペンギン４羽が相次いで死ぬ 仙台・八木山動物公園（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiM0IxaVY0WGIwRGpKUEIxYkJia2tCMThFcTVsYXJHS0R6X0pUUjlCQ0RVZFN0T0V2Z191OUFONjhHdFRrMHdxQWZUb3JURUZXNlJsa195RVdVV1hQTi1TaXBuSVpOWURNeEtmWlk3cE1EZm1XXzl5dWVTaWZlYk0?oc=5",
       "date": "07/24 17:11",
       "pub_ts": 1784880684.0,
-      "summary": "仙台市太白区の八木山動物公園で、ペンギン４羽が相次いで死んでいたことが分かりました。暑さが原因ではないということです。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "猛暑で熱中症搬送者が増加　一転２４日は雨模様で気温下がる　宮城県(khb東日本放送)",
@@ -362,14 +422,14 @@
       "emoji": "📺"
     },
     {
-      "title": "無人カメラにクマ　出没が相次ぐ仙台・宮城野区の梅田川河川敷(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/72565c543264052ce1be99e2af9988db315f7308?source=rss",
+      "title": "無人カメラにクマ 出没が相次ぐ仙台・宮城野区の梅田川河川敷（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QY2o1T09zcmpoR3MwZXd1Z0J5ZERDenhXVmtfZWlIUTFjb0FuR0RYWXB4YVFHXzI4bjNKY0E5RV8wdkdwQjhjcGs5RGpveWh6SG1wYUFkcjE3Wkd1ZWZ6RTFHSVZ0UnVVMVpnSi1CdjY0OW5SbDZWcnFwWk5IWkU?oc=5",
       "date": "07/24 17:06",
       "pub_ts": 1784880409.0,
-      "summary": "クマの目撃が相次ぐ仙台市宮城野区の梅田川河川敷で２３日夜、仙台市が設置した無人カメラがクマを撮影しました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【JR在来線 7月26日(日)の運転見通し】石巻線・気仙沼線・陸羽東線の一部区間で遅れや運休の可能性(ミヤギテレビ)",
@@ -512,8 +572,8 @@
       "emoji": "📺"
     },
     {
-      "title": "【東北 しゃべり亭】総集編 | NHK仙台 - nhk.or.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOG1oVFNjSHdMb2ZKRnpkazc0REEwOVZ4ZG1VRWV0OVRTSC1fZG5mMVJUSmFod191TDBEUXNoQUJxZS1ZREpya3RCRmhneEZ6RXlIdmptMmhWRVhRTXIzR055bkw?oc=5",
+      "title": "【東北 しゃべり亭】王林さんが出演！8/29(土)NHK仙台放送局で公開収録！ - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfaXFBWVFZZFNadkt3RDg5RkVPYzNCX0RLd3ZrcWFDYVhOT3B5VS1Dd0NrcEs2dVJVRHFfNWRtVUYtUUhmUjNoaDhpWWl0SS00MXV0aHV2NzJNQ0xtU3ZkbkhjSnU?oc=5",
       "date": "07/24 12:01",
       "pub_ts": 1784862102.0,
       "summary": "",
@@ -522,8 +582,8 @@
       "emoji": "📡"
     },
     {
-      "title": "【東北 しゃべり亭】王林さんが出演！8/29(土)NHK仙台放送局で公開収録！ - nhk.or.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfaXFBWVFZZFNadkt3RDg5RkVPYzNCX0RLd3ZrcWFDYVhOT3B5VS1Dd0NrcEs2dVJVRHFfNWRtVUYtUUhmUjNoaDhpWWl0SS00MXV0aHV2NzJNQ0xtU3ZkbkhjSnU?oc=5",
+      "title": "【東北 しゃべり亭】総集編 | NHK仙台 - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOG1oVFNjSHdMb2ZKRnpkazc0REEwOVZ4ZG1VRWV0OVRTSC1fZG5mMVJUSmFod191TDBEUXNoQUJxZS1ZREpya3RCRmhneEZ6RXlIdmptMmhWRVhRTXIzR055bkw?oc=5",
       "date": "07/24 12:01",
       "pub_ts": 1784862102.0,
       "summary": "",
@@ -562,14 +622,14 @@
       "emoji": "📺"
     },
     {
-      "title": "猛暑から一転　宮城県各地で雨模様　過ごしやすい気温に(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/aee4ba1472ea7ee6a4f0d4feb42f95c977f3da66?source=rss",
+      "title": "猛暑から一転 宮城県各地で雨模様 過ごしやすい気温に（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqekttR3puSEVNSHJrS001V1BVNV8yS0NrLUNqSjJSYVFqdVU1R0lNa1lRU211Ym5ZMnBXaHRKT2IxSUtQMWQxMVNueW5HZkE2OU9ud2ZoTzJVdDFFQXF3ZzAwOGkyTFdPMlRYRG9HZXZsRXVURHhMMkVpekxsUVk?oc=5",
       "date": "07/24 11:48",
       "pub_ts": 1784861330.0,
-      "summary": "宮城県は２３日までの厳しい暑さから一転、２４日は午前中から広い範囲で雨が降り、過ごしやすい気温になっています。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "フンボルトペンギン4羽が立て続けに死ぬ 展示は中止に 八木山動物公園〈宮城・仙台市〉(ミヤギテレビ)",
@@ -1072,14 +1132,14 @@
       "emoji": "📺"
     },
     {
-      "title": "東北の麻薬王　宮城県警が関係先の暴力団事務所を家宅捜索　宮城・石巻市(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/8a549cc767ed24a54596f488fb2a95eb0204f3ef?source=rss",
+      "title": "東北の麻薬王 宮城県警が関係先の暴力団事務所を家宅捜索 宮城・石巻市（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBidVpqb3pUX1VsQVJUQ29RcmlaLW1SVkdXcFlDQS1tdEVybWttWDBKZjY5V1VBX0JxMmI3Ulk1Y3pVLVU4d3dLN3l5eWdKQjh1VmlKTm5tdTctd2oyU0VBZjJ0bTVCTVJHbV9xdjk5Y0ZmRjcwVElHNUUyU0xfclk?oc=5",
       "date": "07/23 18:23",
       "pub_ts": 1784798622.0,
-      "summary": "東北の麻薬王と呼ばれた薬物売買グループのリーダー格の男が逮捕起訴された事件で、宮城県警は関係先の暴力団事務所を家宅捜索しました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "ラリーカーが空中に？　ユニークな展示でラリー大会をＰＲ　宮城・利府町(khb東日本放送)",
@@ -1090,16 +1150,6 @@
       "source": "khb東日本放送",
       "source_key": "khb",
       "emoji": "📺"
-    },
-    {
-      "title": "【てれまさ】▽宮城球場の歴史を映像で振り返る▽栗原市 くりこま山車まつり▽手足口病の患者が増加 対策は？ ほか - nhk.or.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhOEZGS0ttaHZPVGx4aHFiQ3ZjSVRYZko2dHFMTk16ck44MkY5SzNoVUFnb0c0cWZIWEtpU01tb1BzRDVMcHVKUGFLN3NYZHZHTFlLU1gxOTVhaFdFMlltWC04elo?oc=5",
-      "date": "07/23 17:34",
-      "pub_ts": 1784795659.0,
-      "summary": "",
-      "source": "NHK東北",
-      "source_key": "nhk",
-      "emoji": "📡"
     },
     {
       "title": "電車内で未成年の女性にわいせつな行為か　風俗店従業員の男（３８）を逮捕　同様の被害相談も〈仙台市〉(仙台放送)",
@@ -1150,6 +1200,16 @@
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
+    },
+    {
+      "title": "【てれまさ】▽宮城球場の歴史を映像で振り返る▽栗原市 くりこま山車まつり▽手足口病の患者が増加 対策は？ ほか - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhOEZGS0ttaHZPVGx4aHFiQ3ZjSVRYZko2dHFMTk16ck44MkY5SzNoVUFnb0c0cWZIWEtpU01tb1BzRDVMcHVKUGFLN3NYZHZHTFlLU1gxOTVhaFdFMlltWC04elo?oc=5",
+      "date": "07/23 16:00",
+      "pub_ts": 1784790000.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
     },
     {
       "title": "宮城県内で手足口病の感染者数が警報レベルを超える　定点医療機関1か所あたり6.35人　県はタオル共用を避けることなどを呼びかける(tbc東北放送)",
@@ -1902,16 +1962,6 @@
       "emoji": "📺"
     },
     {
-      "title": "【泉区】『ベガルタ仙台 キックオフイベント』を、8月11日に開催！ - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCR0c2Z3plZ0kzTDQxQmpwSVdyOUQwdS13dFNtOThaeXBfNUNBX2R2SllwTnU3bW1ZNWFDajhqTjMycVdsR1oyYlZPcXg4VmFabWUyME4za0xTYUxH?oc=5",
-      "date": "07/22 07:46",
-      "pub_ts": 1784673966.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
       "title": "夏休みの海水浴で注意したい\"離岸流\"とは…体力に自信ありアナ恐怖体験「気づけば岸が…」どうすれば助かるのか?事故に遭わないためにはどうすれば…(tbc東北放送)",
       "link": "https://news.yahoo.co.jp/articles/8108ce52af0a4d749d8bbbfc0e97f881bd7b5d28?source=rss",
       "date": "07/22 04:00",
@@ -2252,6 +2302,16 @@
       "emoji": "🍜"
     },
     {
+      "title": "【利府町】『自衛隊お仕事フェスタ in イオンモール新利府』を、2026年7月21日、22日に。 - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PN25vS3l5TmU4MFdVMzBHLU8yTjhQdi10LS1EVU9mdTBxZ1c1SFNlczZhcjNzakxLMjVlMmhDZVJUY0tBTFduZmtLM3FWUV9hVDFydjhHSjZRTUEt?oc=5",
+      "date": "07/20 06:55",
+      "pub_ts": 1784498117.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
+    },
+    {
       "title": "【仙台駅西口】アーケード街に新たなマーラータン店『楊国福麻辣湯 仙台駅前店』が、8月オープンに。 - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02cm5EbjhqSENiWnQydlJoeGI3VV8ydnlzYWFwcDN5N1VXM25HSHhkMVVPeXlqMVoxd3dSOTBpbDk4M0VBX0VIYTh2dmdsMDZDbmNSendCSUJpZ1pz?oc=5",
       "date": "07/18 06:22",
@@ -2310,26 +2370,6 @@
       "source": "仙台つーしん",
       "source_key": "tushin",
       "emoji": "🍜"
-    },
-    {
-      "title": "クマ 異常出没 宮城県ニュースまとめ（2026年7月） - nhk.or.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01RTY3ZkVoMUI0Q3F5QnhvMTZ6X1BpUzBXdDRzdTM0RDIwX0s0ZEwySF8zTW1qS0hQaExta1o0V1h5ZjdWa1pMSnlDMnlUcVpkV05oREo5Z3lmTzdNSENtdXQtbXo?oc=5",
-      "date": "07/09 16:00",
-      "pub_ts": 1783580400.0,
-      "summary": "",
-      "source": "NHK東北",
-      "source_key": "nhk",
-      "emoji": "📡"
-    },
-    {
-      "title": "７月の主なスポーツ中継予定 ー夏の高校野球 宮城大会ー - nhk.or.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9obDNfNUVYblJnYm9iSWJwNm1SbWxkcHlqLTRFdVFjaVJxSFk1cnozcjBLSThoanZmQlJ0czVfNFVaNUZxSWJnWTY3OXkxcDBSd2RkenJxaEx0UXVtWHNoWWY5ZXo?oc=5",
-      "date": "07/01 16:00",
-      "pub_ts": 1782889200.0,
-      "summary": "",
-      "source": "NHK東北",
-      "source_key": "nhk",
-      "emoji": "📡"
     },
     {
       "title": "【青葉区】『Bang BAR SENDAI（バンバル センダイ）Vol.11』を、2026年7月3-7日に開催！ - 仙台つーしん",
@@ -2403,13 +2443,13 @@
     }
   ],
   "debug_info": {
-    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
-    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
     "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
     "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
     "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
-    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
-    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)"
+    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
+    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)"
   }
 }
