@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-26 02:17:51",
+  "fetched_at": "2026-07-26 04:36:33",
   "items": [
     {
       "title": "1億円超の金塊はどこへ…「総務省」「警察」をかたる二重の罠　特殊詐欺「受け子」の逮捕　宮城(tbc東北放送)",
@@ -82,34 +82,34 @@
       "emoji": "📺"
     },
     {
-      "title": "「それぞれのカラーが違っていて楽しい」仙台駅東口で夏まつりすずめ踊り ２日間で８万人の人出見込む（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5od0tfcXRxanNhQ29XWGR3R0NxM0duXzhkQUpIUGZsUUV1b1d2eDJnNW9QcnpDdTBLYU93OC1seDU5bmFVOFByMWlVZ3JLU0hrOXZCQ0FHckFZaDZtTk9La1VJa1lIRFdBbkpJRVFYUDN4RmdPSEtlOXdtWFlaRFU?oc=5",
+      "title": "「それぞれのカラーが違っていて楽しい」仙台駅東口で夏まつりすずめ踊り　２日間で８万人の人出見込む(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/e221bbb7c8909ecd8fa385a083b55cd915b34c16?source=rss",
       "date": "07/25 18:51",
       "pub_ts": 1784973061.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "仙台駅東口にある宮城野通では、毎年恒例となった「夏まつり仙台すずめ踊り」が２５日から始まりました。\n\n仙台駅東口の地域活性化を目的に、２００３年に始まった「夏まつり仙台すずめ踊り」。今年は県内外にある",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
-      "title": "復興支援への感謝の思い込め アクアイグニス仙台で台湾ランタン祭 ６００個のランタンが夏の夜空彩る（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFB6STE2dFExc2tnWklvTUtWeElCOTdGQVk2cnJqblVPRUxzWVBFM3g3WFVDU3VtTVBkUko0elhiWjg0V0twLWVULWtFMWxEUTB2eEtPbEpJUnFfbFZicFpENVhlb2Y0SXhCUHZGWDJ1VG9XT3BIZDQwenhrV293RGVYSmRVUUpxRVJOWnp3?oc=5",
+      "title": "復興支援への感謝の思い込め　アクアイグニス仙台で台湾ランタン祭　６００個のランタンが夏の夜空彩る(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/d0f7c3f445be77f9b1d10d34d1804d73d9f7234b?source=rss",
       "date": "07/25 18:49",
       "pub_ts": 1784972942.0,
+      "summary": "台湾からの復興支援に感謝を示す、「台湾ランタン祭」が、２４日から仙台市若林区のアクアイグニス仙台で、始まっています。\n\n「点灯です！」\n\n会場にずらりと並んだ台湾ランタンの数々。このイベントは、東日本",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
+      "title": "夏休みの子どもたちが七ヶ宿ダムの内部を見学＜宮城・七ヶ宿町＞（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RX0o4aXE0RUNZeldhdTl1R3Q2TFJMaW4yZHlEeFAxQkdsbUluWlY4QkNPYjAzWktMaER0dENxTElweERSU0hVbFRGS1FkSERvcUs2TTVXWkZvaldNMlVqbGl0SG9JaXdZWjV0S25QWXJaUXJhcDAzS21MaUQ3Y1U?oc=5",
+      "date": "07/25 18:10",
+      "pub_ts": 1784970601.0,
       "summary": "",
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
-    },
-    {
-      "title": "夏休みの子どもたちが七ヶ宿ダムの内部を見学＜宮城・七ヶ宿町＞(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/ffcba236342c43a77dd5f42b4fe5b4607280a8c0?source=rss",
-      "date": "07/25 18:10",
-      "pub_ts": 1784970601.0,
-      "summary": "宮城県七ヶ宿町で25日、普段入ることができない七ヶ宿ダムの内部を見学できるイベントが開かれました。\n　七ヶ宿ダムは、仙台市など県内17の市と町に水道水を供給する県内最大のダムです。\n　「夏休み七ヶ宿",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
     },
     {
       "title": "高校生や大学生が国内トップ選手からローイングの技術を学ぶ＜宮城・登米市＞(ミヤギテレビ)",
@@ -222,14 +222,14 @@
       "emoji": "📺"
     },
     {
-      "title": "【続報】「大きかった1メートル以上あった」仙台市宮城野区の梅田川でクマ1頭捕獲・緊急銃猟により駆除(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/3cb0f7f9db63b1bcec100881be8934d3b211432f?source=rss",
+      "title": "【続報】「大きかった1メートル以上あった」仙台市宮城野区の梅田川でクマ1頭捕獲・緊急銃猟により駆除（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zYXhCT2RGRHliSjRHNms0S3lXR0dCVnVtbTNCUTc5dF9aN2lIOF9DUmVlQmhjU1ZXclppWEVaS25kVjBSMldXSzhlUFc0V0I0T2ZacDh2YUdfY2Z5UmlZOEtOcnNFZXluTVRqdE10aWxuSjdwVXZJTGRtMG1tTkE?oc=5",
       "date": "07/25 12:12",
       "pub_ts": 1784949120.0,
-      "summary": "クマの目撃が相次いでいた仙台市宮城野区の梅田川で25日、クマ1頭が箱わなにかかり、緊急銃猟により駆除されました。\n　仙台市によりますと25日午前6時50分頃、仙台市宮城野区原町5丁目の梅田川の平田橋",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "2児の母・宮城舞、息子との密着2ショット公開「イケメンオーラが出てる」「ぴったり顔をくっつけてて微笑ましい」と反響 - Yahoo!ニュース",
@@ -292,14 +292,14 @@
       "emoji": "📰"
     },
     {
-      "title": "【続報】仙台市宮城野区の梅田川で緊急銃猟によりクマ1頭を駆除　7月に入り梅田川周辺で目撃相次ぐ(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/bc44657c4bb4c0efb5ed8513d70876223baee7df?source=rss",
+      "title": "【続報】仙台市宮城野区の梅田川で緊急銃猟によりクマ1頭を駆除 7月に入り梅田川周辺で目撃相次ぐ（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QaWpWWWRXUWFSc1R3QVZtNTlIQlRCVk50SVZwMTVnenZSMHJfT1RkZTUxS1JESnV1Y0s5RF92NS1iN0ZtTWg3Q1N4Q05BTWZlX1pGWHlYMzZVQWdfcnVfVTM0cDJ5N0tlbVp2X0tKQVVzbGM1aHF5UHJORzkxYXc?oc=5",
       "date": "07/25 10:20",
       "pub_ts": 1784942401.0,
-      "summary": "仙台市によりますと、25日午前6時50分ごろ、仙台市宮城野区原町5丁目の梅田川に設置していた箱わなに、クマ1頭がかかっているのが確認されました。\n\n仙台市と警察が周辺を交通規制し、クマは午前8時50分",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "藤崎の地下に、受賞歴多数のカレーパンや甘酒がずらり大集合しているみたい！ - 仙台つーしん",
@@ -322,24 +322,24 @@
       "emoji": "🗞️"
     },
     {
-      "title": "クマ1頭を駆除　仙台市内で緊急銃猟　今月に入り周辺で目撃相次ぐ　宮城野区原町(tbc東北放送)",
-      "link": "https://news.yahoo.co.jp/articles/c1de3b15f7648e9b07ab91eaca04dec2049fa97a?source=rss",
+      "title": "クマ1頭を駆除 仙台市内で緊急銃猟 今月に入り周辺で目撃相次ぐ 宮城野区原町（tbc東北放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55Tm0xeWtYemgtQlc1cE54QlZqSnJCNFVsTU1tNG5JYVlRTVFFbjRXS0xEaDZoMkgtX2JXX1czc0F1S3lTSUljMTM5Ql9rYzZXeG01VDBfQ183ZTMwcXY3RGFMMzIyaUZmMmhpOW5wemVIRWVXeVRTU3ZCUllYWGc?oc=5",
       "date": "07/25 09:56",
       "pub_ts": 1784940973.0,
-      "summary": "7月25日午前6時50分頃、仙台市宮城野区原町5丁目の梅田川の周辺で、市が設置した箱わなにクマ1頭がかかっているのを、緊急銃猟を行う市の非常勤職員が、見回り中に発見しました。\n\n市は周辺に交通規制をか",
-      "source": "TBC東北放送",
-      "source_key": "tbc",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
-      "title": "【速報】梅田川周辺でクマ1頭捕獲　クマ目撃相次ぎ仙台市が設置した箱わなに(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/d4253f6886d4d042e38857d75cf7d770a39b20be?source=rss",
+      "title": "【速報】梅田川周辺でクマ1頭捕獲 クマ目撃相次ぎ仙台市が設置した箱わなに（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSjZzM3dOSFpxNjdnejRIeVFhZEtqdnZSNzlrZXRSVHR6QXoyUDdDdXlkQ3BhQlVMNzlHZ2w3dF9rbVRsOVBlNjBOa1hnREVGQVV4c1VkX2ZENzlMMm5CSndKNjB0c0NGOFdsZm91SHQ5bmtab1E0ekt5d3lRaG8?oc=5",
       "date": "07/25 09:07",
       "pub_ts": 1784938020.0,
-      "summary": "仙台市によりますと、クマの目撃が相次いでいた宮城野区の梅田川周辺で25日、クマ1頭が箱わなにかかり、捕獲されました。\n\n市は周辺にカメラや箱わなを設置し、警戒を続けていました。",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "「東京のサラリーマンから若手漁師に転身」30代を区切りに男性が女川へ移住し目指す姿とは　宮城・女川町(tbc東北放送)",
@@ -562,36 +562,6 @@
       "emoji": "📺"
     },
     {
-      "title": "東日本大震災で傷ついた心を救った「クレープ」 宮城名物・ずんだを使ったクレープを世界に届ける女性（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbGd1ekxfS3dEUVVDaW5Td1BJWDZSUnNuVEU2dTdZWXYzZXB6WWFYRm03NUhoT21qbW9VQ0ZxTGZZVzJBVXJvZnFndGZfc0hRZ0dOUXlrT1c4TDFianM1azN2ZWxVSXhCZFpmSWN1SFZNbkp1NzdadzRtZ0Y3RVk?oc=5",
-      "date": "07/24 19:33",
-      "pub_ts": 1784889181.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "事業費６４６億円に膨らむ仙台市の音楽ホールと震災メモリアル複合施設 施工業者選定に向け初の審査会（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12bnlTQ0pQdWhIeWRjcWpUQlUwOENwOUtFdWRtTUhBTWtYNVhVNjJDRE92RGF1QVRBUFJPY1pCTWhmRXREM2VNN2VHaWMxNUpLVXhxLTlrYWJlSE1JajlsbVEwWjVpdTVGaC1KU1JHMlkzMVp3N2JUdHJOTHlsUTQ?oc=5",
-      "date": "07/24 19:33",
-      "pub_ts": 1784889181.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "カメラに体長１メートルの姿 仙台市内の住宅街でクマ目撃相次ぐ 小学校の夏祭り中止や箱わな増設で警戒（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VZU0xNHRqcFI3Q2kyaFltNmFZaHplOU92cjJPQThHR2FzUG9jbWUyR2VLWVIxVkVTNVZPR2dBZzZuS25wX1hkM01JaEZPYUVYZjkyMXg0QlJFa0ZfVGJ3amphaTBMRTZER1NKeHRVOF9SdEhibkxwNHItTFZxS28?oc=5",
-      "date": "07/24 19:33",
-      "pub_ts": 1784889181.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
       "title": "仙台市中心部の商店街が行う「一番町三社まつり」　商売繁盛を願う４０年以上の歴史　担い手たちの取り組み(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/1586b3d42da8ad3fe3fc6801188ea7a5e0099f97?source=rss",
       "date": "07/24 19:33",
@@ -607,6 +577,26 @@
       "date": "07/24 19:33",
       "pub_ts": 1784889181.0,
       "summary": "北朝鮮による拉致被害者、曽我ひとみさんの講演が、宮城県内で初めて開催されました。\n曽我さんはともに拉致され今も帰国がかなっていない母への思いなどを語り、一日も早い問題解決を訴えました。\n\n曽我ひとみさ",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
+      "title": "東日本大震災で傷ついた心を救った「クレープ」　宮城名物・ずんだを使ったクレープを世界に届ける女性(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/62d211ff3633cf45938077e533dd5298c2159afd?source=rss",
+      "date": "07/24 19:33",
+      "pub_ts": 1784889181.0,
+      "summary": "東日本大震災で傷ついた心を救ってくれたのは、幼い頃に食べた一枚のクレープでした。石巻市出身の女性が今、宮城の味を世界へ届けようと奮闘しています。\n今年、挑戦するのは、ほほえみの国・タイでの新店舗オープ",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
+      "title": "カメラに体長１メートルの姿　仙台市内の住宅街でクマ目撃相次ぐ　小学校の夏祭り中止や箱わな増設で警戒(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/cd57b120179b9a6f5e3fb0cf7c9f6ee9bdc4db6e?source=rss",
+      "date": "07/24 19:33",
+      "pub_ts": 1784889181.0,
+      "summary": "仙台市内では７月２３日夜から未明にかけて、クマの目撃が相次ぎました。このうち宮城野区の梅田川沿いでは、市が設置したカメラに、クマの姿が写り込んでいました。\n \n暗闇の中、悠然と木を上る１頭のクマ。",
       "source": "仙台放送",
       "source_key": "ox",
       "emoji": "📺"
@@ -632,6 +622,16 @@
       "emoji": "📺"
     },
     {
+      "title": "事業費６４６億円に膨らむ仙台市の音楽ホールと震災メモリアル複合施設　施工業者選定に向け初の審査会(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/9a06de6cb97e1ed4be402ddc6f0ac0aa0be75a95?source=rss",
+      "date": "07/24 19:33",
+      "pub_ts": 1784889181.0,
+      "summary": "仙台市が建設を予定している、音楽ホールと震災メモリアル拠点の複合施設について、施工業者の選定を行う審査委員会が初めて開かれました。\n\n施工業者を選定する１回目の審査委員会には、建築や施工技術の専門家な",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
       "title": "糖度１３度以上 実が大きく食味良好な福島県産モモ「あかつき」の試食会が仙台市中央卸売市場で開催(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/2f6a47a5bfb8480dedd84b18d0b76498095c6d0d?source=rss",
       "date": "07/24 19:33",
@@ -650,6 +650,16 @@
       "source": "ミヤギテレビ",
       "source_key": "mmt",
       "emoji": "📺"
+    },
+    {
+      "title": "【日産プリンス宮城】今話題の新型SUV！日産「新型KICKS」がデビューしたみたい！ - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWV2xYTWZrd3oxLXJOUDBmaUllWGt0Y2hlSXBMMU5zcXlXUWZTcFZ4elNTVGtNTHlkNkNPOU9lakFkRDdLbVhKYnlLMkFmb05sa1h3a2p5VnBHZVdS?oc=5",
+      "date": "07/24 19:00",
+      "pub_ts": 1784887235.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
     },
     {
       "title": "Ｊ２リーグ開幕を前にベガルタ仙台の森山監督らが村井宮城県知事を表敬訪問(khb東日本放送)",
@@ -682,14 +692,14 @@
       "emoji": "📺"
     },
     {
-      "title": "なぜ？フンボルトペンギン4羽相次いで死ぬ 死因特定へ 八木山動物公園〈宮城・仙台市〉(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/2fd237907ac192cd84e33d90550740f377e244ac?source=rss",
+      "title": "なぜ？フンボルトペンギン4羽相次いで死ぬ 死因特定へ 八木山動物公園〈宮城・仙台市〉（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9INjgwMTBWRVFUT3o0eEFnS2tlYUl4ZmZ6cFlLeWpBXzJMTTRnUmUwa09Sb3Z4VVZfMkZmV3VBZG9EdU1fSHdpcmFCbGJhQ1hoblJ4dUJUbmp6YkZlU2ZjRG5JcVBCcExGSVNLQi16T3d5NncxbHNMZ2tBUzMtLTg?oc=5",
       "date": "07/24 18:41",
       "pub_ts": 1784886060.0,
-      "summary": "竹中弘 記者\n「動物園の入口からすぐ、涼しげなペンギンの姿が見られるかと思いきや、その姿は残念ながらどこにもありません」\n\n八木山動物公園によりますと、10歳から27歳のオスとメスの4羽のフンボルトペ",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "共働き世帯の保護者の負担軽減に 児童クラブで夏休みの子どもたちに昼食を提供する試み〈宮城・多賀城市〉(ミヤギテレビ)",
@@ -702,14 +712,14 @@
       "emoji": "📺"
     },
     {
-      "title": "相次ぐクマの目撃　専門家はどう見る？〈宮城〉(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/dafa433b43f0ef55c2756b753c05bc5fdc551916?source=rss",
+      "title": "相次ぐクマの目撃 専門家はどう見る？〈宮城〉（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84TFl4RGY0TGlZaFlUcDJvQ0daU19aRTNRcG4wMXlCWnJJbERmQlFETXZDU196YUpVY1NQNlFkTVlrNmxDQkdqczNheWwwdVRYRWlMazZ3Ykw1b3I3cm5iZXlwZnZGRndYRGstRjd1SUhmUnB0M3diWVd3eHhQaDg?oc=5",
       "date": "07/24 18:38",
       "pub_ts": 1784885880.0,
-      "summary": "7月23日の夜、宮城野区の梅田川沿いに仙台市が設置したカメラがとらえた映像には、ゆっくりと木をのぼるクマと、明かりが灯る集合住宅が映っていました。\n\nこの映像について、動物生態学が専門の石巻専修大学の",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【映像あり】クマが木をのぼる姿　宮城野区原町でまたクマ目撃　夏祭りが中止に〈宮城・仙台市〉(ミヤギテレビ)",
@@ -722,14 +732,14 @@
       "emoji": "📺"
     },
     {
-      "title": "「J2優勝とJ1昇格目指す」ベガルタ仙台の森山佳郎監督がリーグ開幕を前に意気込み(tbc東北放送)",
-      "link": "https://news.yahoo.co.jp/articles/f06b4386d12ebebc36feaf2d8b2f0d33e438fe03?source=rss",
+      "title": "「J2優勝とJ1昇格目指す」ベガルタ仙台の森山佳郎監督がリーグ開幕を前に意気込み（tbc東北放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pQkhrU2FQTjJCS3JGNFJ2MjNUaWIwRzllSXJEYXJ0NF9hMmNncHBOZndzLVQ1Z2F2Nk9NLUViQjAyOUU0bm5PVWNFVGQ4TS1DczlCZXU0NjR6NGpyc2pMZi11cl9UbTQ3R1NNM1VOZDRsYWlwNHVTa0F3ajZCN1k?oc=5",
       "date": "07/24 18:30",
       "pub_ts": 1784885437.0,
-      "summary": "8月のJリーグ開幕を前にベガルタ仙台の森山佳郎監督が仙台市役所を訪れ「J2優勝とJ1昇格を目指す」と意気込みを語りました。\n\nベガルタ仙台の森山佳郎監督はクラブの阿部静雄社長らと仙台市役所を訪れました",
-      "source": "TBC東北放送",
-      "source_key": "tbc",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "クマの出没が宮城県では７月になり減少　専門家に聞く(khb東日本放送)",
@@ -740,6 +750,16 @@
       "source": "khb東日本放送",
       "source_key": "khb",
       "emoji": "📺"
+    },
+    {
+      "title": "仙台市内で制限速度を60キロ超過して摘発された30代の県職員の女性が減給4か月の懲戒処分 山形県（YBC山形放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxNWRlU1l0XzdyRkloRlB1LWZPQm9SVl9RM2pMN3hleFR4SkFpQ0MxaGJuVnkydGczbm4wQjhvSXlsbVp6bk5iN1dnVDVKNm13UF9YVXBmQmlEMkkyUVd6UkVFUXVfdkt5UTZFTjFQMkRKa193Qml4d2o3YmllR00?oc=5",
+      "date": "07/24 18:29",
+      "pub_ts": 1784885340.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "「透明性をもって進める」当初の3倍646億円音楽ホールなどの複合施設　公開型プロポーザルの審査委員会始まる　仙台(tbc東北放送)",
@@ -922,14 +942,14 @@
       "emoji": "🍜"
     },
     {
-      "title": "「夏祭りが中止に」川周辺でクマの目撃が相次ぐ“同一個体”の可能性　仙台(tbc東北放送)",
-      "link": "https://news.yahoo.co.jp/articles/1228b87935bfc4c323cfb0b47948f679988318e3?source=rss",
+      "title": "「夏祭りが中止に」川周辺でクマの目撃が相次ぐ“同一個体”の可能性 仙台（tbc東北放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rVHpCak1nVlhMcXJ2eXkyaDhyeWtLVWZvOUVlNFBDRGNkQVViM1lIZmJNV1RnTXpoSUtsc0ttemNPZDEwTmZudXc4bC1LUzNVUzI0NXZVMmxibnFIZk9xOUpEU19CdDdPLWNLSExvbXcxeHZqV2Jydk91ZXJhUU0?oc=5",
       "date": "07/24 12:30",
       "pub_ts": 1784863834.0,
-      "summary": "23日夜、仙台市内を流れる梅田川の河川敷にまたクマが出没しました。この周辺ではクマの目撃が相次いでいて、近くの小学校で25日に開催予定だった夏祭りが中止となりました。\n\n23日午後8時20分頃、仙台市",
-      "source": "TBC東北放送",
-      "source_key": "tbc",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "梅雨空続き 雨量増のところも　7月24日(金)宮城県の天気予報(ミヤギテレビ)",
@@ -952,24 +972,24 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城野区原町でまたクマ目撃　夏祭りが中止に〈宮城・仙台市〉(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/83d5d5eaf89f01657901907bc862752d0764b561?source=rss",
+      "title": "宮城野区原町でまたクマ目撃 夏祭りが中止に〈宮城・仙台市〉（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BVFFCT0lfaTRvNkFFb3hLOG9IOXN2T0QyZk5IRVdueHVOX0ZjUk1EZ0JHZlIzdnNvVmluTzBJdWdLeEtja0MwMHlIakxvbTlBbGxpNTBuVVdtYUlrOXdOc3lQSVJkNHBRNzI5cHZ6UDNEN1M4QWltQmlEZTVPM1k?oc=5",
       "date": "07/24 12:11",
       "pub_ts": 1784862660.0,
-      "summary": "警察や仙台市によりますと、23日午後8時10分頃、宮城野区原町5丁目でクマの目撃情報がありました。原町5丁目の梅田川の河川敷に設置したカメラには、体長約1メートルのクマが映っていたということです。",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
-    },
-    {
-      "title": "利府町の県道で乗用車２台が衝突し３人搬送 車載システムから自動通報 全員命に別条なし〈宮城〉（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CNDBhcWgxVlNKX0x6dDA5N19CdkRPU1M3SWVQWElOZEFjbzRPbXNhUll6NEpRWVJ5ZmZNeV9BcENYblhTN1ZtWFpDeWk5WmxGS2NWbmcxbkJjaDR2WUQtTUxiVjJVVkpzMWNlODVzS1lRMnE1MGFiOEcxSFdkMVU?oc=5",
-      "date": "07/24 12:03",
-      "pub_ts": 1784862181.0,
       "summary": "",
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
+    },
+    {
+      "title": "利府町の県道で乗用車２台が衝突し３人搬送　車載システムから自動通報　全員命に別条なし〈宮城〉(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/e353d447b73ec6efcba1c273b9eb0420f41e871b?source=rss",
+      "date": "07/24 12:03",
+      "pub_ts": 1784862181.0,
+      "summary": "７月２４日午前、宮城県利府町の県道で乗用車同士が衝突する事故があり、３人がけがをしましたが、いずれも命に別条はないということです。\n\n消防によりますと、２４日午前８時半ごろ、利府町中央３丁目の県道・仙",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "「爪痕やフンも」梅田川沿いでクマ目撃相次ぐ　緊急銃猟も視野に市が箱わなを新たに増設〈仙台市〉(仙台放送)",
@@ -2102,16 +2122,6 @@
       "emoji": "📺"
     },
     {
-      "title": "夏空と猛暑 午後は夕立も 7月22日(水)宮城県の天気予報(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/ad0c15c7cf48cbd2fdfd0b3f86d007cde8573210?source=rss",
-      "date": "07/22 12:07",
-      "pub_ts": 1784689620.0,
-      "summary": "22日(水)午前11時半時点の宮城県の天気予報。\n\n※詳しくは動画をご覧ください（7月22日放送『ミヤギテレビストレイトニュース』より）",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
-    },
-    {
       "title": "大型トラックと軽乗用車が正面衝突　軽乗用車の男性が意識不明　仙台・太白区(khb東日本放送)",
       "link": "https://news.yahoo.co.jp/articles/db07d5cf3fda644eee8d68a66b924e00ee4de6df?source=rss",
       "date": "07/22 11:51",
@@ -2130,6 +2140,16 @@
       "source": "khb東日本放送",
       "source_key": "khb",
       "emoji": "📺"
+    },
+    {
+      "title": "【山形県】JR山形駅で、パン販売イベント『えきパンin山形駅』を、2026年7月24-26日に開催！ - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RdlRVaDFxYnE5bGE5MnB0LThpalhkOC1HU1ZIdy0wOHN1aEtOTGRjcml3elQ1ZWpFVlFYanI0UEJySXFDLXQwcllGcTFZM1ZhQU1CamZSNllqZDZy?oc=5",
+      "date": "07/22 07:49",
+      "pub_ts": 1784674179.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
     },
     {
       "title": "【仙台駅西口】天体＆海モチーフ ハンドメイド作品即売会 『星海旅行展』、いよいよ今週末に開催！ - 仙台つーしん",
@@ -2393,13 +2413,13 @@
     }
   ],
   "debug_info": {
+    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
+    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
+    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
     "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
-    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
-    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
-    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
     "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)"
   }
 }
