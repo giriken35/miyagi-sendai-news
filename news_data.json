@@ -1,6 +1,26 @@
 {
-  "fetched_at": "2026-08-02 22:58:31",
+  "fetched_at": "2026-08-03 00:29:13",
   "items": [
+    {
+      "title": "大雨の影響で涌谷町内の川が氾濫　1255世帯に避難指示　宮城(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/7cc8c234bff3b17e18a288ac9ae676237dc42850?source=rss",
+      "date": "08/02 23:02",
+      "pub_ts": 1785679334.0,
+      "summary": "洪水が発生する危険性が高まっているとして、2日に宮城県涌谷町は一部の地域に避難指示を出しています。\n\n県北部土木事務所によりますと、涌谷町内を流れる出来川（できがわ）は、2日朝、明治水門上流の右岸側で",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
+    },
+    {
+      "title": "岩手、宮城、秋田で土砂崩れや浸水被害 大崎市鳴子温泉の国道108号通行止め 東北で大雨 - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qaldQYmVHS21QSXptZzU0bVIzcUd2RzVjUkItZ1VCVmxZQXNLb3IzVm8weXJmZm9DZ1BsOVJIY3JOazNvS2Vyb2tJdmgtVnNaejNvV1ZzRFJCMlZWWk1TLQ?oc=5",
+      "date": "08/02 21:24",
+      "pub_ts": 1785673473.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
+    },
     {
       "title": "夏の甲子園　仙台育英の初戦は開幕カード　倉田葵生主将「札幌日大は攻守のバランスが整っていて粘り強いチーム」(khb東日本放送)",
       "link": "https://news.yahoo.co.jp/articles/4a974a9465e2d4ddc51cbf0890bc37f8a5716cc3?source=rss",
@@ -42,10 +62,10 @@
       "emoji": "🍜"
     },
     {
-      "title": "【2日午後6時20分】宮城県内の気象警報は全て解除（河北新報） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwRU42ZlJKdXFvcGZPZXVEaUVqdm1JWG1MY1B3MjkzTFFCdm1fWllieWZyVFhCMVhUZmlOWkExeC1xQ0FmUzU2NGU1YlRUcDdrZzhGRjFRTFdQXzVyNVhLeVlQaW9SMHV1aXBTLTlCS1hBZ2JnaG9TQVRpeXRXM0U?oc=5",
-      "date": "08/02 20:49",
-      "pub_ts": 1785671340.0,
+      "title": "【甲子園】プロ注目の仙台育英・田山纏、昨年の雪辱へ「甲子園の借りは甲子園で返せるよう」（日刊スポーツ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vb241ZlFCUC1WdzJWYXQ0S0lOUUx1R1ROcl9ZdTFVTmFoSlc2eHNlRnVGTlVRd1BNRGhWaGZNZksxTUotRDhRTnh6bjVJdDZibFNzN0Q1dW9PQzNWNTh6UjlEM3R2eGF0MkpKNHJDamcwVGM0WXgyU2o4OWZ4RkE?oc=5",
+      "date": "08/02 20:37",
+      "pub_ts": 1785670651.0,
       "summary": "",
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
@@ -60,16 +80,6 @@
       "source": "khb東日本放送",
       "source_key": "khb",
       "emoji": "📺"
-    },
-    {
-      "title": "【更新】仙台南部道路の通行止め解除 - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zNzFVOHh6QXBOX1dxWEoxUFBBc2xSY0tMQmVDMFNtNlBKMzZnQU80dDZ5dmJyVFNDa0w3WHExbGUzSXJtejVlSDRuNHVlNENodzYwVUhSRmxXZmpudTV5MQ?oc=5",
-      "date": "08/02 19:51",
-      "pub_ts": 1785667864.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
     },
     {
       "title": "大雨の影響各地で　大崎市鳴子温泉で土砂崩れ　涌谷町の出来川で氾濫(khb東日本放送)",
@@ -122,14 +132,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "夏を彩る「気仙沼みなとまつり」 パレードや競漕で活気＜宮城・気仙沼＞(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/9e891ab9edf75782458bc0dea757f51a5ec0cd17?source=rss",
+      "title": "夏を彩る「気仙沼みなとまつり」 パレードや競漕で活気＜宮城・気仙沼＞（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95ZTZ3LWdPRnk0bGdsUmpZSy1VaW94a0RYNURlWDdISVlGQzFMU1NGcjEzaW9rSDNPNFNhUUlHSnlpTUExNHdGWW9Ca3MwUXdOdUphdENRZnoyNWxxRzhPbjl0aDNXQlN3cWN0WHFmUnFaOHlFakFKNDI1ZXU2eG8?oc=5",
       "date": "08/02 19:03",
       "pub_ts": 1785664980.0,
-      "summary": "気仙沼市の夏を彩る「気仙沼みなとまつり」で、パレードやカッター競漕が行われました。\n\n2日目の8月2日は、14の団体が演奏や歌、踊りを披露して会場を盛り上げ、パレードが行われました。東京から帰省した人",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【関西地方在住者が選ぶ】買ってきてほしい「仙台土産」人気ランキング！ 同率1位は「づんだ餅」ともう一つは？（ねとらぼ） - Yahoo!ニュース",
@@ -192,14 +202,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "原爆投下から81年を前に追悼式典 仙台・青葉区（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tSFJwYlVVYXJnUnpnVHhlSzVFZjFhUUpHaU95ajEzOWZ0OUI1cG05R2YyYW1ONmNqZW1HUGhNVWp6UmRjTmQ5WWJvemliQXJEbmcycm8wR1laaTVJUGhDZV9BQkJQQXI5ZGs3VktobDk4aXg1cjdEZzRDNEdNQTA?oc=5",
+      "title": "原爆投下から81年を前に追悼式典　仙台・青葉区(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/bfd2791878ce698ca991f3994ad774fd68aa3b14?source=rss",
       "date": "08/02 16:53",
       "pub_ts": 1785657194.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "広島と長崎に原爆が投下されてから81年を迎えるのを前に、きょう仙台で犠牲者を追悼する式典が開かれました。\n\n仙台市青葉区の戦災復興記念館で行われた式典には県内に住む被爆者や遺族ら75人が参列しました。",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "仙台南部道路の通行止め解除（河北新報） - Yahoo!ニュース",
@@ -210,6 +220,16 @@
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
+    },
+    {
+      "title": "【更新】仙台南部道路の通行止め解除 - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zNzFVOHh6QXBOX1dxWEoxUFBBc2xSY0tMQmVDMFNtNlBKMzZnQU80dDZ5dmJyVFNDa0w3WHExbGUzSXJtejVlSDRuNHVlNENodzYwVUhSRmxXZmpudTV5MQ?oc=5",
+      "date": "08/02 16:52",
+      "pub_ts": 1785657148.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
     },
     {
       "title": "仙台市地下鉄の裏側に潜入　夏の親子探検ツアー(khb東日本放送)",
@@ -312,14 +332,14 @@
       "emoji": "📰"
     },
     {
-      "title": "【避難指示解除】宮城県大崎市（鬼首地区、中山東行政区、中山西行政区）(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/4ac79e76f483f88722492b45c4140eb913264fe2?source=rss",
+      "title": "【避難指示解除】宮城県大崎市（鬼首地区、中山東行政区、中山西行政区）（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJNFY0Y0lVcnJRSXBfTFF6ZHNiWldacHhBVXNpZTZzUldzMGVScndzaFI5S0pfODVhSWlVb2hqTWFzNEU1a0ZsbGJ0aGZ1a01NTll3MlA3ZDZ4UWRIZG9TeTdTVGI4eHpwTlpnRHpoZDh1S1QyUTQ4djRRbVYyXzA?oc=5",
       "date": "08/02 14:45",
       "pub_ts": 1785649500.0,
-      "summary": "宮城県大崎市は土砂災害の危険性が高まったとして発令していた市内一部地域の「避難指示」を午後1時半に解除した。\n\n＜避難指示が解除されたエリア＞\n▼鬼首地区　３４４世帯　６９２人\n▼中山東行政区　１１９",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【高校野球】仙台育英「優勝候補のレベルにいない」プロ注目大砲がいても…須江監督が見据える甲子園必勝法 - Yahoo!ニュース",
@@ -372,16 +392,6 @@
       "emoji": "🗞️"
     },
     {
-      "title": "BiVi4階に8月6日4店舗がオープン！ - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fX0p0UjJ0WXF5Z3NuZnp0VFhDU3AxUDlVaEdDalIxdU5ESk83MTMyeTA5U2ZhMFlJdzhFUFN3R0J3UXVwZ0l1dVc3dHZ0M2J2WWdwbDY2VEcwVFpM?oc=5",
-      "date": "08/02 13:58",
-      "pub_ts": 1785646683.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
       "title": "【高校野球】仙台育英の打率６割超えスラッガー・田山纏「甲子園の借りは甲子園で返す」 星よつはマネジャーも笑顔 - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMNk1FVDZReks2czA4aHZBazE5S1cteVk1MkRMS2NQTWZfRGRrQTJmb2ZOa3Bta0lka2F5QWw3OWxaS3lhelBRTE9jYjc5Uzd2LW5HR2R6dmZlSHZHWVdtT1gyTWxTMkJ5Zmo5czh5Y3hXYmxSUk1fLUJQamxLbGs?oc=5",
       "date": "08/02 13:45",
@@ -392,14 +402,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "大崎市の537世帯の避難指示解除 宮城（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nU1BSTm5seENEV3NUQ0VPN180TFhLc1VzTTVRT0xVYjZsbURxVmRsVGdIRWktNkVlLUlNTWlmeTlPTGczRnp1Q1NQWW1sQ3ZpNzJvN0tkcU5xZ0FIeTFoYzdXTTZkS01FUVVTeVdKSXF3VDZFbDNmcFhOWENqblU?oc=5",
+      "title": "大崎市の537世帯の避難指示解除　宮城(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/77b5500b84ab945c71c551ada228a4c2a0e07134?source=rss",
       "date": "08/02 13:38",
       "pub_ts": 1785645494.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "大崎市の537世帯に出されていた避難指示は土砂災害の恐れが低くなったため2日午後1時半に解除されました。",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "宮城県内は大雨 美里町などを流れる出来川で氾濫発生（2日午前9時頃）（ミヤギテレビ） - Yahoo!ニュース",
@@ -452,21 +462,21 @@
       "emoji": "🗞️"
     },
     {
-      "title": "出来川が氾濫 県が周辺の住民に安全を確保するよう呼びかけ 大崎市では土砂崩れ相次ぐ〈宮城〉（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vUWZCcWItTU9sUVhOVFFQWGtUYkVRUGRuOFp3UERfNWtpRy1tWDJ0SE9yQWJ0Ukpqb1ZpR3VZMFpHZk1WM2hINDRvSlRkLVB3S2hxZVlrQy1rT2hVOXZxd29KbTZ3cnZfcnhaQnpneEhSMWJHOVZLTFRnTzhFMFU?oc=5",
-      "date": "08/02 12:18",
-      "pub_ts": 1785640681.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
       "title": "「みやぎ元気まつり」グルメに体験型コンテンツも！東日本大震災からの復興を歩む宮城を盛り上げようと開催(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/0254dfaf9f772cfa52fc3709a11cb25442a29904?source=rss",
       "date": "08/02 12:18",
       "pub_ts": 1785640681.0,
       "summary": "宮城野区では、「みやぎ元気まつり」が行われています。\n\n東日本大震災からの復興を歩む、宮城県を盛り上げようと仙台放送が主催している「みやぎ元気まつり」。\n\n会場には、親子で楽しめる体験コンテンツや、グ",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
+      "title": "出来川が氾濫 県が周辺の住民に安全を確保するよう呼びかけ 大崎市では土砂崩れ相次ぐ〈宮城〉(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/d6076fe630de772cc9a8a00fa536628e2cf94466?source=rss",
+      "date": "08/02 12:18",
+      "pub_ts": 1785640681.0,
+      "summary": "宮城県内は前線の影響で大雨となっている所があります。大崎市では土砂崩れによる通行止めが相次いだほか、出来川では氾濫が発生しました。\n\nこちらは、午前９時半ごろの出来川が江合川と合流する地点近くの河川カ",
       "source": "仙台放送",
       "source_key": "ox",
       "emoji": "📺"
@@ -482,7 +492,7 @@
       "emoji": "🗞️"
     },
     {
-      "title": "宮城の熊目撃情報（2日正午現在） - 河北新報オンライン",
+      "title": "宮城の熊目撃情報（2日午後11時現在） - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pYjNoUVNkVUpuSmFobTkwTjFPak8taFpYLUZJZU13UXdycWVzbEt4UEpSLXRBb0F2M01RaEN4Skg5Ym0wRkxDMm1yZDc1RXQ2eE5jSG10QVZSLVVFaGU4Rg?oc=5",
       "date": "08/02 12:04",
       "pub_ts": 1785639871.0,
@@ -492,14 +502,14 @@
       "emoji": "📰"
     },
     {
-      "title": "【速報】涌谷町が出来川の氾濫受け２１３世帯４９５人に避難指示 近くの安全な場所に避難を〈宮城〉（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RaEFKN0w0UUNLeDFzNWlabFNYMERnVVB6ekF5YXhZem03NDJid1h1cHpvcTl2em50ckJFTk9lMVF3dUU3QlA5V1hmU3dnNGZoUmtIV3FvNGdEb2h1TklCZS1LWTcyd21yaW5pNTFERmU3MnZBVTJkVnNNOFBJZlE?oc=5",
+      "title": "【速報】涌谷町が出来川の氾濫受け２１３世帯４９５人に避難指示 近くの安全な場所に避難を〈宮城〉(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/192543ad820db001ebf0e2d8822109d43dcc774c?source=rss",
       "date": "08/02 12:04",
       "pub_ts": 1785639842.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "涌谷町は、出来川が氾濫したことを受け、２日午前１０時に、町内１１区、２１３世帯・４９５人を対象に避難指示を出しました。",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "青葉区台原に明日オープンするお店があるみたい。 - 仙台つーしん",
@@ -522,14 +532,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "出来川でレベル5「氾濫発生情報」 宮城・美里町 涌谷町 （tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sR0hlMkxQdkZtTnNGUVQzTDAzdEUySFdoemQycTVOdlozMFloN3h6WnYwLXJDcEdXbDctcmZfSHlobWhyZTZWTkstLXo4VmpTaFFCMTZBN0hiclRsOXhFbTVvUUkzMUZVdlNfOTFSYTRvNHNTX25SRzg1WUNWRkk?oc=5",
+      "title": "出来川でレベル5「氾濫発生情報」　宮城・美里町　涌谷町　(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/75c63c9ed7ab83a626a27ecf4ac6f8c0dc99ab6a?source=rss",
       "date": "08/02 10:58",
       "pub_ts": 1785635894.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "宮城県北部土木事務所によりますと、美里町と涌谷町を流れる出来川が氾濫しました。\n\n氾濫したのは出来川の明治水門上流の右岸側で、2日午前8時ごろ職員がパトロールした際に確認したということです。これまでの",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "出来川で「氾濫発生情報」警戒レベル5相当＜宮城・美里町＞（ミヤギテレビ） - Yahoo!ニュース",
@@ -562,14 +572,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "【速報】出来川でレベル５氾濫発生情報 江合川の合流地点付近 急激に水位が上昇〈宮城・美里町〉（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xZmdybFRENmZ2eHZ0bkd0YVNNckU2OUpDSzlHTVVKMnZIdUZ1cVhhUndkNUphNFlyaW5XZllVWEFTS011RWc2MTUtV2hkaVNHZXJzSURNQUU0b0oyOEIxckUyeDg3VmZSR1Rud2hWeUd3LUlMWlNPOXlkOUFUZlk?oc=5",
+      "title": "【速報】出来川でレベル５氾濫発生情報　江合川の合流地点付近　急激に水位が上昇〈宮城・美里町〉(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/bd3eb74d15b69e994fa45f6147a74f3e05b69572?source=rss",
       "date": "08/02 09:57",
       "pub_ts": 1785632221.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "宮城県北部土木事務所によりますと、２日午前、江合川に合流する美里町と涌谷町の出来川で氾濫が発生しました。氾濫が確認されたのは出来川の明治水門付近の右岸で、土木事務所職員が午前８時ごろ、出来川の水が堤防",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "【一覧】クマの目撃情報 住宅街や高校付近での目撃も 8月1日夕方～2日朝まで＜宮城＞（ミヤギテレビ） - Yahoo!ニュース",
@@ -622,16 +632,6 @@
       "emoji": "🍜"
     },
     {
-      "title": "【大雨の影響】東北本線は午前中・陸羽東線は終日運転取りやめ　宮城(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/4cc0604a4c77c4124e585a12aae9ff2d81c96055?source=rss",
-      "date": "08/02 06:34",
-      "pub_ts": 1785620040.0,
-      "summary": "JR東日本によりますと、大雨の影響で、東北本線「小牛田駅～一ノ関駅」間は上下線ともに始発から正午頃まで運転を取りやめるということです。\nこの影響で、「岩沼駅～小牛田駅」間の上下線一部列車に運休が発生し",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
-    },
-    {
       "title": "【甲子園】札幌日大は道勢１１年ぶり開幕戦で仙台育英と対戦…前田和磨主将「１２０パーセント出したい」（スポーツ報知） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44QUlWS1dwSzd3bDBlcm0tLU43cXJVVkhqZmVzdWRWVjVmQVFCbXFzdExOemxPRUpWODNraTY1NlBTald1b0NHOXh5TmtfOXY4M1dPZ3JnZi1CYnE0Rkg4Nk5SdEVhaWU1dHZWNGZpb2RNbHFmWjVrdW1TS05YZjA?oc=5",
       "date": "08/02 06:20",
@@ -682,14 +682,14 @@
       "emoji": "📺"
     },
     {
-      "title": "大崎市鳴子温泉で大雨による土砂崩れ相次ぐ 国道108号線と県道で通行止め 復旧のめど立たず〈宮城〉（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HSmdhN0pRd3h1aFRHWm5SVEMzekotTWZvY0N3V0N0RTZCR3lCOWFac3N4OG5KU3JHSVVELVpHWEFiaTc2di1zT0lHbV9CclNkLWFJajF3VjU4QzJBUm5hZTBpaWNtR0hBaEV3U2pucjFrMlhVZXNHd2IyYjRsSW8?oc=5",
+      "title": "大崎市鳴子温泉で大雨による土砂崩れ相次ぐ　国道108号線と県道で通行止め　復旧のめど立たず〈宮城〉(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/9653c566bd40ebdffdf834eb0113d30bc4196ec6?source=rss",
       "date": "08/02 05:45",
       "pub_ts": 1785617101.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "警察によりますと、1日午後11時17分ごろ、宮城県大崎市鳴子温泉にある荒雄湖畔公園付近の国道108号線で、秋田県へ向かおうとしていたトラックの運転手から「土砂崩れが起きていて通れない」と110番通報が",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "【宮城県】8/2の天気予報（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
@@ -752,14 +752,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "県道３号線を横切るクマ…大和町で目撃相次ぐ 仙台市の温泉街近くにもクマ 警察が注意呼びかけ〈宮城〉（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZaFNacEVOaklFWUxkMzJZazBNZWFDX1B5SjNBdms4SFYzd2p5c0ZYRU9mNTB4b2FYbW9QekVqWkstdUZUb1AtVU5oVjNvMXJ6VlRfdERzRkFSclp2aW9HRGNzQ3cwcmhhdDFjV29MNGk1Zi1ZcTJ3THhWYm1xZjQ?oc=5",
+      "title": "県道３号線を横切るクマ…大和町で目撃相次ぐ　仙台市の温泉街近くにもクマ　警察が注意呼びかけ〈宮城〉(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/93acbdfe70e2b4e87a5a58dbf8044eaec6746812?source=rss",
       "date": "08/01 22:45",
       "pub_ts": 1785591901.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "警察によりますと、1日午後5時50分ごろ、宮城県大和町まいの3丁目の県道3号線で、車を運転していた人が道路を北から南に横切るクマを目撃しました。クマは体長1メートルほどで、そのまま立ち去ったということ",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "【甲子園】仙台育英31年ぶり開幕戦 花咲徳栄は通算勝率２割台と分が悪い「しんがり登場校」に（日刊スポーツ） - Yahoo!ニュース",
@@ -780,16 +780,6 @@
       "source": "仙台つーしん",
       "source_key": "tushin",
       "emoji": "🍜"
-    },
-    {
-      "title": "仙台育英・倉田主将「しっかり準備していこうと」 夏の甲子園（毎日新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zeExJMU1LbTdpczFPTGxtYUpreUMwbzRJUzE2TFBCMF9YZWoxalpBUE5LVHBUSTE2Qlk1eW14YnFycmNkZWZFdHVRaUJhYlNuRHFlVDVPcDg0RmoxNDRlbVVMUERDM28xWk1VbF9PLXVEWTdjSG1QQTg3a3UwSG8?oc=5",
-      "date": "08/01 21:33",
-      "pub_ts": 1785587595.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
     },
     {
       "title": "【青葉区】本町の『自家製麺 仙台中華蕎麦 仁屋』が、2026年8月25日をもって閉店か。 - 仙台つーしん",
@@ -880,16 +870,6 @@
       "source": "仙台放送",
       "source_key": "ox",
       "emoji": "📺"
-    },
-    {
-      "title": "【甲子園】札幌日大は開幕試合で仙台育英（宮城）と、白樺学園は東日本昌平（福島）と大会4日目に対戦 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTnlKMEpiRzFrVzc0OUFZLWdtNDFMN1hDanhDNFg1Nl9wcU83R1ZnMGlybGp5cDdqNmJjY1FVTXFkM1VuNHZrQkRKWVhwQ0dkMlJONWtRMkhUelVMdEJTcVZyY1lUbHRXN3l6ZTU5N3RCcnJ1QzBnMm91SFljSlE?oc=5",
-      "date": "08/01 20:44",
-      "pub_ts": 1785584654.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
     },
     {
       "title": "宮城県大崎市鳴子温泉地区で土砂崩れ相次ぐ 国道108号は花渕山バイパス含め通行止め（河北新報） - Yahoo!ニュース",
@@ -1030,16 +1010,6 @@
       "source": "仙台放送",
       "source_key": "ox",
       "emoji": "📺"
-    },
-    {
-      "title": "夏の甲子園、開幕戦は札幌日大―仙台育英！ 北海道勢と東北勢が大会初戦で激突（ベースボールチャンネル） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXa0pPeUk1X1I2elp2d0JrNnVNY3RDTUFNQ3NXdmlaRENzSGRmQ1FYS3VxNmtUS09mYnlmUU5qcTEtM0dXT2R1RUM1QWhuZExXXzg1T2xHaGtwUmx1VzJacDIwNVN6WjJVQVl2d2w4SnNWZ1ZEZlFsRGk3Yk9CckU?oc=5",
-      "date": "08/01 17:55",
-      "pub_ts": 1785574501.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
     },
     {
       "title": "小学生がプロの職人から技術を学ぶ木工教室（宮城・白石市）(ミヤギテレビ)",
@@ -1392,14 +1362,14 @@
       "emoji": "📺"
     },
     {
-      "title": "【夏の高校野球】復活のマウンドへ 甲子園のベンチ入りをかけ最後の紅白戦でラストチャンスに挑んだ選手 仙台育英学園高等学校（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WEZ1bTNweHpnbWJTWndHV0loeGxyZmZ2ZTJRUGI0cFFNSVp6VWJBZ1h3bHFQZnprX3RWWFI1WnZTVzdUMDVtdFZOU2RnM1NzV2RKblE3YjBTWG5weHJ1YXhhOUt2SXBKeUJPVjBXRjlvZkVzOW42Wk16ZzZDbFk?oc=5",
+      "title": "【夏の高校野球】復活のマウンドへ　甲子園のベンチ入りをかけ最後の紅白戦でラストチャンスに挑んだ選手　仙台育英学園高等学校(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/d0a0d07db95ba44fab656870ada0c58e3a26aa72?source=rss",
       "date": "07/31 19:49",
       "pub_ts": 1785494954.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "夏の高校野球宮城大会、2年連続32回目の優勝を果たした、仙台育英学園高校。\n7月29日、甲子園のベンチ入りをかけ最後の紅白戦が行われました。\nラストチャンスに挑んだ選手がいます。\n\n甲子園出場を決めた",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "東北大学出身のトヨタ自動車・近健太社長　単独インタビューで語った東北への思い　「震災を忘れずにいる」(仙台放送)",
@@ -2192,16 +2162,6 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城・岩沼市の「原遺跡」で子どもたちが遺跡ツアー参加　市は国指定の史跡を目指し原遺跡の発掘調査を続ける(tbc東北放送)",
-      "link": "https://news.yahoo.co.jp/articles/3d9e67253a986beae6558ad25944cea2ed39e27b?source=rss",
-      "date": "07/30 18:55",
-      "pub_ts": 1785405324.0,
-      "summary": "夏休みに地元の歴史を肌で感じたようです。\n阿武隈川近くにある宮城県岩沼市の「原遺跡」で子どもたちが遺跡に触れるツアーが開かれました。\n\n玉置佑規・キャスター:\n「今からおよそ1300年前の奈良、平安時",
-      "source": "TBC東北放送",
-      "source_key": "tbc",
-      "emoji": "📺"
-    },
-    {
       "title": "手足口病の患者数が今季最多 警報レベル続く＜宮城＞(ミヤギテレビ)",
       "link": "https://news.yahoo.co.jp/articles/05f94a638d53305d87687f0f9ec933a77d2a604f?source=rss",
       "date": "07/30 18:55",
@@ -2402,16 +2362,6 @@
       "emoji": "📡"
     },
     {
-      "title": "アーケード「Ever-i中央」1階に明日オープンするお店があるみたい。 - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sN1pRbURNd05VbFBkQXdzR0ZEVmo3U0hNRXJuRHJiSlFqUVlZXzAwNDZwNnJ0TWR4S0s4em1BZmpqbkRCdHFqYkQwZHl3VE5VREQ4bkFFcDJlU3hF?oc=5",
-      "date": "07/30 13:58",
-      "pub_ts": 1785387512.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
       "title": "不同意わいせつ未遂の罪で起訴された栗原市職員の男　混浴露天風呂で面識のない女性に犯行か〈宮城〉(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/4283f3257135a97c91f17518aab27a276b95976e?source=rss",
       "date": "07/30 13:56",
@@ -2522,6 +2472,16 @@
       "emoji": "📡"
     },
     {
+      "title": "亀山テラス360°が営業再開 モノレールの安全確認が終了＜宮城・気仙沼市＞(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/81734c3c175dc61bf7b5772c98109419ab305847?source=rss",
+      "date": "07/30 11:27",
+      "pub_ts": 1785378420.0,
+      "summary": "気仙沼市の発表によりますと、気仙沼大島にある亀山モノレールは27日昼頃、車体が５度傾いて停止する事象が発生したことから、午後から安全確認のため運行を休止。これに伴い山頂にある亀山テラス360°も営業を",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
+    },
+    {
       "title": "ゆず×羽生結弦が仙台で初共演 『NHK夏の音楽祭 うたであえたら 2026』で「幾重」披露 - ぴあエンタメ情報",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1N3I4OHBFcG9VS2ZSZ2tyZ2RQT2VMZkY5Z0RpQ2hjMVpwVmRCMHVQaF9uNi1CWmw1VWNyRTVROWVuY0I4YkVJaXdLUXVtTUZ5Qk9sdUwwQnIyamhRbzZ6dGVtcml0ZS1XVm51RUZNcw?oc=5",
       "date": "07/30 11:00",
@@ -2539,6 +2499,16 @@
       "summary": "宮城県南三陸町の（有）阿部水道設備が、７月１５日、仙台地裁気仙沼支部から破産開始決定を受けた。\n\n東京商工リサーチによると、阿部水道設備は１９７６年創業の水道工事業者。\n南三陸町などを主な受注先として",
       "source": "仙台放送",
       "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
+      "title": "南三陸町で水道施設工事など手掛ける会社が破産開始決定　負債総額は約3300万円〈宮城〉(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/7687ef028d415a8bb5b08deac1e5db86660009fb?source=rss",
+      "date": "07/30 09:50",
+      "pub_ts": 1785372600.0,
+      "summary": "南三陸町に本社を置く「阿部水道設備」が、仙台地裁気仙沼支部から破産開始決定を受けました。負債総額は2025年9月期決算時点で約3300万円です。\n東京商工リサーチ東北支社によりますと、阿部水道設備は1",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
       "emoji": "📺"
     },
     {
@@ -2672,6 +2642,16 @@
       "emoji": "🍜"
     },
     {
+      "title": "夏休みのお出かけは仙台コロナの湯♪【夏の特別企画】開催中みたい！ - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CRnF4YVZEbjhXb2hVc2pBY1loSVpkTU1zQWRBN3ZTTFdWeWR5RWxrVVpzbl8yRlNOS3FPSE5mUGxBQkVfdlpWU3BqMFhjV0pjM1p4bmpvY28tMXR6?oc=5",
+      "date": "07/28 19:30",
+      "pub_ts": 1785234614.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
+    },
+    {
       "title": "七ヶ浜国際村で夏のおでかけ！アンフィシアターにカフェ、食の工房まで楽しめるみたい - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpSElMdy14TjZnMzdFNnRBaDEwandPRnVDSmN4Zk1oUGE4RlVUQUpvZUZpSmNfYjdSQnpXUGxyeWxxaDJIbHk1bHhsTU1RUWxyczRtZEZFODJ2dzFh?oc=5",
       "date": "07/28 18:30",
@@ -2783,13 +2763,13 @@
     }
   ],
   "debug_info": {
+    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
     "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
-    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
+    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
-    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
-    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
-    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)"
+    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)"
   }
 }
