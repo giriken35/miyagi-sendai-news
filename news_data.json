@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04 03:08:32",
+  "fetched_at": "2026-08-04 05:00:15",
   "items": [
     {
       "title": "仙台三越で「ジャパニーズカレーフェス」 全国34店が入れ替わり出店（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
@@ -52,7 +52,7 @@
       "emoji": "📰"
     },
     {
-      "title": "【ひき逃げ】無免許で追突後、車を降りた運転手にも衝突し逃走か　40歳の男を逮捕　宮城・亘理町(ミヤギテレビ)",
+      "title": "【ひき逃げ】無免許で追突後、車を降りた運転手をはねて逃走か　40歳の男を逮捕　宮城・亘理町(ミヤギテレビ)",
       "link": "https://news.yahoo.co.jp/articles/26118f658616a7c1e9937115df4b9875486d9390?source=rss",
       "date": "08/03 20:08",
       "pub_ts": 1785755280.0,
@@ -70,6 +70,26 @@
       "source": "TBC東北放送",
       "source_key": "tbc",
       "emoji": "📺"
+    },
+    {
+      "title": "向山のマンション下崖崩れから約１カ月 宮城県と仙台市が１５年ぶり連絡会議を開催 常時カメラ監視へ（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4ycktseU96bUdKUGtRZmI2Slh0aDhJR18zdDMxaVJvTHp2dnRJUXdIY1A2YURzVThBc3dwLWtOQ1g3dzRaREotNXlZNFU4bjBMbk8zYkhoMUhaYWJoczVyQzZ6eS1GUERobUpVYk5tdDRVYzhnd1lBSmNtOGduUzA?oc=5",
+      "date": "08/03 19:50",
+      "pub_ts": 1785754201.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
+    {
+      "title": "仙台市地下鉄広瀬通駅「星空のプロムナード」４年ぶり点灯 交通事業１００周年で８月５日からライトアップ（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5SkR4aDNZN0hUcV9BeGhnRzJLbHhjU3AzQUFlUU9KVFZXUTRNMDRMS1k4VkJwMGh4bS1Jbk9wSTZZUEtKRGNranAtT1MtUjdXMUxydzRkMjI0bGNnUjdVRnBZMkVHZmR4SzRGN29wdzBqclFJTFpfTi1kYzZfQmM?oc=5",
+      "date": "08/03 19:50",
+      "pub_ts": 1785754201.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "災害危険区域の東松島市野蒜地域にグランピング施設オープン　震災発生から１５年　変わるにぎわい創出の形(仙台放送)",
@@ -102,26 +122,6 @@
       "emoji": "📺"
     },
     {
-      "title": "仙台市地下鉄広瀬通駅「星空のプロムナード」４年ぶり点灯　交通事業１００周年で８月５日からライトアップ(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/ba9f841e1ed8939154885fa0db1a4d22d1b984b0?source=rss",
-      "date": "08/03 19:50",
-      "pub_ts": 1785754201.0,
-      "summary": "多くの人が行き交う、８月３日朝の仙台市地下鉄の広瀬通駅…。こと座やわし座など４５の星座が描かれた星空のプロムナードは、１９８７年の開業から多くの市民に親しまれてきました。 \n\n仙台市は電気料金の高騰な",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
-    },
-    {
-      "title": "向山のマンション下崖崩れから約１カ月　宮城県と仙台市が１５年ぶり連絡会議を開催　常時カメラ監視へ(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/927367f226ff2da0f33ac3e9d76b70dcf8621263?source=rss",
-      "date": "08/03 19:50",
-      "pub_ts": 1785754201.0,
-      "summary": "７月、仙台市太白区向山のマンションの下で起きた崖崩れ。宮城県と仙台市は８月３日、対応を協議する連絡調整会議を開き、常時、カメラで監視することなどを決めました。\n \n７月９日、太白区向山２丁目のマンショ",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
-    },
-    {
       "title": "仙台七夕まつりを前に商店街も準備着々　上杉中央商店会が伝統の竹切り出し作業を実施(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/66665fe747c470ad0de9ccdc6e620222f6bfaa30?source=rss",
       "date": "08/03 19:50",
@@ -132,14 +132,14 @@
       "emoji": "📺"
     },
     {
-      "title": "仙台市で開催のポケモンGOリアルイベント　東北大学の入試日程と重なり宿泊場所に不安の声　支援の動きも(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/33563cabc7184579e5483a71d2ebfd2ea60b6294?source=rss",
+      "title": "仙台市で開催のポケモンGOリアルイベント 東北大学の入試日程と重なり宿泊場所に不安の声 支援の動きも（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aS1V1RXRKNVNaMHNLaDdsX2F4eU1jNFQySWpFMDVaby1MLUdhRmt1N1dKZWRqTDBjb05jdEYtYmVEekM2RXNqXy01ZW1HdnBpQXRWdU5TQ21aSndabC1walZjcUtaWWNzUFl1UGpYeDdIR3dacVZIYVFOUE1FdUU?oc=5",
       "date": "08/03 19:45",
       "pub_ts": 1785753901.0,
-      "summary": "世界中で人気のスマートフォン向けゲームアプリ、「ポケモンＧＯ」のリアルイベントが、１１月に仙台市で開催されますが、このイベントの日程と重なったのが、東北大学の入試です。県外から試験に臨む学生の宿泊場所",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "石巻川開き祭りで１万発の花火　気仙沼みなとまつりでは１０００機のドローンショーが夜空を彩る〈宮城〉(仙台放送)",
@@ -170,6 +170,16 @@
       "source": "ミヤギテレビ",
       "source_key": "mmt",
       "emoji": "📺"
+    },
+    {
+      "title": "明治28年創業、仙台の食肉販売業者が自己破産申請へ - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Xb05GSjJzMHVYSkJXWmxjdjhUZUNFdGJNSU45NGdsajQ3Z19VOHVSN0NjX1J2S3d0R2lLemFYeDRSUGlwRWozY3NpSlNfYTFqTE5SWFdmNS1zcjFURXFVbw?oc=5",
+      "date": "08/03 19:13",
+      "pub_ts": 1785752000.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
     },
     {
       "title": "食料品の消費税「2年間限定で1％」みんなの意見は?仙台の街で聞いてみた(tbc東北放送)",
@@ -512,14 +522,14 @@
       "emoji": "📺"
     },
     {
-      "title": "ごみ処理施設の建て替え断念 塩釜市が宮城東部衛生処理組合へ加入で協定締結　２０４１年度めど〈宮城〉(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/45f819b729b07f6ce5d9ebc790a85888ce0ffc05?source=rss",
+      "title": "ごみ処理施設の建て替え断念 塩釜市が宮城東部衛生処理組合へ加入で協定締結 ２０４１年度めど〈宮城〉（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wdXZHMFEtMVFrN2wwUDdScnVsX0ZiUTh4T0QxWS1sSE5QcnhkbFpSMTNjc3NhQThrTVRWOHpBOW8xRjZlQTdhMmltQlZWQ2M0S29rdmk2UWpzazBobWZvd2hJeklaNVVTdEtRWDV1X1VabDVmeFVVdTM2ZXI5QWc?oc=5",
       "date": "08/03 12:22",
       "pub_ts": 1785727321.0,
-      "summary": "ごみ処理施設の老朽化が問題となっている、宮城県塩釜市が隣接する自治体でつくる処理組合への加入に向けて、協定を結びました。  \n\nごみ処理施設が老朽化している、塩釜市は単独で建て替えする方針を示していま",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "白石市から熊本地震の被災地へ支援物資　ブルーシート３００枚を積んだ公用車が出発〈宮城〉(仙台放送)",
@@ -612,7 +622,7 @@
       "emoji": "🗞️"
     },
     {
-      "title": "【速報】宮城の不動産会社が破産 - 河北新報オンライン",
+      "title": "宮城の不動産会社が破産 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51eWhmYmtfS0E0dks5cGZja3VOMGk3US1YTFZRUXA0bkZRX29Ma0k1dmxXWGZmTk4zcmJMRG9RaURBRm1lRVluc3lQMzlJQzNfY0NWdFdIUVU1UnAwclNlTg?oc=5",
       "date": "08/03 09:26",
       "pub_ts": 1785716768.0,
@@ -1202,14 +1212,14 @@
       "emoji": "📺"
     },
     {
-      "title": "【速報】出来川でレベル５氾濫発生情報　江合川の合流地点付近　急激に水位が上昇〈宮城・美里町〉(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/bd3eb74d15b69e994fa45f6147a74f3e05b69572?source=rss",
+      "title": "【速報】出来川でレベル５氾濫発生情報 江合川の合流地点付近 急激に水位が上昇〈宮城・美里町〉（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xZmdybFRENmZ2eHZ0bkd0YVNNckU2OUpDSzlHTVVKMnZIdUZ1cVhhUndkNUphNFlyaW5XZllVWEFTS011RWc2MTUtV2hkaVNHZXJzSURNQUU0b0oyOEIxckUyeDg3VmZSR1Rud2hWeUd3LUlMWlNPOXlkOUFUZlk?oc=5",
       "date": "08/02 09:57",
       "pub_ts": 1785632221.0,
-      "summary": "宮城県北部土木事務所によりますと、２日午前、江合川に合流する美里町と涌谷町の出来川で氾濫が発生しました。氾濫が確認されたのは出来川の明治水門付近の右岸で、土木事務所職員が午前８時ごろ、出来川の水が堤防",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【一覧】クマの目撃情報　住宅街や高校付近での目撃も　8月1日夕方～2日朝まで＜宮城＞(ミヤギテレビ)",
@@ -2572,16 +2582,6 @@
       "emoji": "🍜"
     },
     {
-      "title": "熊本市出身のベガルタ仙台・森山監督 地震を受け「震災被災地のクラブとして寄り添う気持ちが重要」 - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wMzRVSmVEb2E0eVE5cFJ1OEp2cXVSOFZYVVdGMmtlNTU0bVYtd1dTS3NMNjhSdWE5Q2hMWjBRY0dvUUFXS1lYZjl4WTMzbUY2YVg4TG5CcXQ0aW1uX0h5bg?oc=5",
-      "date": "07/29 18:00",
-      "pub_ts": 1785315600.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
-    },
-    {
       "title": "アーケードのビル地下に8月10日にオープンする飲食店があるみたい。 - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xb2dCd3JhUk9lVHZJU1V6ME9PWFB2TmNaTGNaNWRuWUd0aENQSmp4YmJiekFmM3p0XzlOZElJN2lLSThfSDhILXlPYXJwd3RYQ003dGJnQnI1YmYw?oc=5",
       "date": "07/29 17:58",
@@ -2733,13 +2733,13 @@
     }
   ],
   "debug_info": {
-    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
     "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
     "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
     "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
     "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
-    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)"
+    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)"
   }
 }
