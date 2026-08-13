@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14 02:14:44",
+  "fetched_at": "2026-08-14 03:11:45",
   "items": [
     {
       "title": "レベル4「土砂災害危険警報」とレベル3「大雨警報」をそれぞれレベル2に切り替え　宮城県【午前1時42分発表】(tbc東北放送)",
@@ -12,11 +12,11 @@
       "emoji": "📺"
     },
     {
-      "title": "【解除】レベル4土砂災害危険警報解除 14日午前1時42分(ミヤギテレビ)",
+      "title": "レベル4土砂災害危険警報　レベル3大雨警報　それぞれレベル2に切り替え　14日午前1時42分(ミヤギテレビ)",
       "link": "https://news.yahoo.co.jp/articles/29e1e3dffef220958240a3965fe0bf31dc5ff681?source=rss",
       "date": "08/14 01:57",
       "pub_ts": 1786640220.0,
-      "summary": "仙台管区気象台は8月14日午前1時42分に、仙台市東部、仙台市西部、蔵王町、村田町、川崎町に発表していたレベル4土砂災害危険警報を解除しました。\n\n14日午前1時42分現在、宮城県内の全ての土砂災害に",
+      "summary": "仙台管区気象台は8月14日午前1時42分に、仙台市東部、仙台市西部、蔵王町、村田町、川崎町に発表していたレベル4土砂災害危険警報をレベル2土砂災害注意報に切り替えました。\n\n14日午前1時42分現在、",
       "source": "ミヤギテレビ",
       "source_key": "mmt",
       "emoji": "📺"
@@ -62,6 +62,16 @@
       "emoji": "📺"
     },
     {
+      "title": "甲子園 仙台育英の3回戦は8/15(土)夏の全国高校野球はNHKONEで全試合配信 - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Q0tWUTVrSUxfMXNQZjRKOG1vOW1RZTJwVUlXeDVTRXZCMjhEU1V6YVBCU1JGY0dKTGtpcDlFd1JhYVA0eFpsZExPX0tSMFEtY2N5VkkxOG01Q3dTQUZFd2IyVGI?oc=5",
+      "date": "08/13 23:12",
+      "pub_ts": 1786630353.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
+    },
+    {
       "title": "蔵王町にレベル4土砂災害危険警報　宮城【午後10時51分発表】(tbc東北放送)",
       "link": "https://news.yahoo.co.jp/articles/de65041acc7c73927a5a26f600c8bb22f3ed5067?source=rss",
       "date": "08/13 23:08",
@@ -82,40 +92,40 @@
       "emoji": "📺"
     },
     {
-      "title": "レベル４土砂災害危険警報　仙台市東部・西部　宮城・川崎町と村田町に(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/68a70a8b0387939feeaa0ce1bfb69570c17bad06?source=rss",
+      "title": "レベル４土砂災害危険警報 仙台市東部・西部 宮城・川崎町と村田町に（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02c0FvZVFSUnBhcVdVRW5oOWd2OFI1Wno5N0ZiS3ZBcVE5NGJ6QTlNU1pMaHRUSERnaXZ6ZHFFS3pDWUpxa0JIWGNNNERkRlU2bzVZcWpDai1KRVdHaUhucGYzNjBGeFNaU3lQaTFZdDJVQWk2a1BaTkdzUDdYOG8?oc=5",
       "date": "08/13 22:57",
       "pub_ts": 1786629469.0,
-      "summary": "気象庁は１３日午後９時５４分、仙台市東部・西部と宮城・川崎町に、午後１０時２２分、宮城・村田町にレベル４土砂災害危険警報を発表しました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
+    {
+      "title": "仙台市東部・西部と川崎町にレベル4土砂災害危険警報　宮城【午後9時54分発表】(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/b7275daa3f3817c02331d3e8ac77f48f8ac0cda9?source=rss",
+      "date": "08/13 22:15",
+      "pub_ts": 1786626932.0,
+      "summary": "気象庁仙台管区気象台は午後9時54分、仙台市東部・仙台市西部・川崎町にレベル4土砂災害危険警報を発表しました。\n\nこの地域では、土砂災害に対する厳重な警戒が必要です。\n\n「レベル4」は危険な場所からの",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
       "emoji": "📺"
     },
     {
-      "title": "【レベル4土砂災害危険警報】宮城県・蔵王町に発表 22:51時点（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12TzR4T2ZRNElJYklONXB4aU1yQ1dBaVpNbHE1QU0tc3U0M29IQUtUMTAzcDJIbXN3dGxHYnpRbHdaT2FXd0tEcDBpNXFwUnQwX3dmeXFQVGdvVW1taUxzbDd5S0JfLXB4NWVQUENRUk1qaDlOcy1yQUl3M3VDaEk?oc=5",
-      "date": "08/13 22:53",
-      "pub_ts": 1786629193.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "仙台市東部・西部と川崎町にレベル4土砂災害危険警報 宮城【午後9時54分発表】（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2eHJjMjk3UmtKOVhReDQwYUwyZllGY2E3dkdqSl80dFlJY2hqclZjRmk2WmR4bkNwYnA0RTNMazNoellYRWY1R29CaTEtaG5ra1lyMnNjRHltMEZYckphckFlQzhVLS1pMHhYbFFXcVJlQVZNMkU0cVZ5MjFBMjg?oc=5",
-      "date": "08/13 22:15",
-      "pub_ts": 1786626932.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "仙台市東部、仙台市西部、川崎町にレベル4土砂災害危険警報 13日午後9時54分（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIVWxEc0d6WlJEWUJhVG56QW5RTHRZbGNRSmVPbkpUMFBoN1AybFc1V3Vhbm93VHl2WnJvZ242NC1DUy1rQ1Brc1hzc3NxNkVyMERGUUlZVWlaZ2hIV2psbU4waGIxTTYyNVB6N194bVY1c01zWGNrZWM3ZTJ0RWc?oc=5",
+      "title": "仙台市東部、仙台市西部、川崎町にレベル4土砂災害危険警報 13日午後9時54分(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/0a6a7072f3dce9af7376b3ede37535672be4b779?source=rss",
       "date": "08/13 22:10",
       "pub_ts": 1786626600.0,
+      "summary": "仙台管区気象台は13日午後9時54分に仙台市東部、仙台市西部、川崎町にレベル4土砂災害危険警報を発表しました。土砂災害に厳重に注意してください。\n\n13日午後10時3分現在、宮城県内の全ての土砂災害に",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
+    },
+    {
+      "title": "【レベル4土砂災害危険警報】宮城県・仙台市東部、仙台市西部、川崎町に発表 21:54時点（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IcnpCTWVOdXJmUk1QNFBpUFhZTXVUNVd0djhZZjF0VERwTWI2MjFMRWhjbnBZaVI3dXBGT04zX000X2FzMWt2LVQwU1YxeERBUlE4RDJ2cHJTY3lqS0lvdWw2QUxlX25wbFpKMTEwaXY2QzNCRTZoZnd6Qmxla0U?oc=5",
+      "date": "08/13 21:57",
+      "pub_ts": 1786625838.0,
       "summary": "",
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
@@ -212,14 +222,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "世界各地のクワガタやカブトムシなどを展示するイベント〈宮城・南三陸町〉（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Zem9FN3QtQS12clRmTE15R28zSFRhdGkyRjdFNllyTEJ3MEhMYk85Q2ZRTmwzLUs1NUlhclV5MzU5clQ0UjV3bnl5SjVkMWdvX1c1U0VGazdSMWd1amxFaEpuQmRxWlZKYkxPVmZtUGVwdTRlYnBfdkhtR1BreTg?oc=5",
+      "title": "世界各地のクワガタやカブトムシなどを展示するイベント〈宮城・南三陸町〉(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/427ee3820895b839b67db000e2124a632cdc91c6?source=rss",
       "date": "08/13 20:11",
       "pub_ts": 1786619460.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "南三陸町では世界各地のクワガタやカブトムシなどを展示するイベントが開かれています。",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
       "title": "終戦からまもなく81年　戦争の悲惨さや原爆の恐ろしさを伝えるパネル展〈宮城・仙台市〉(ミヤギテレビ)",
@@ -292,14 +302,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "【速報】宮城県が「クマ出没警報」発令 青葉区でのクマによる人身被害受け（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbkF5Q1hZcVpQY3VzaDZubURnV2l3VFR4cU1keGI1QXZYWTlmcDJaUkZZRVZYN1BEVTFMaTNpU2FjX0RyQmJvM05QZ2hWSkpxTG5wZ3dXUGdrNDUzcU84N3g5d1U3R0tXYU11VU1Oa1ZBSVJteC1TTEpjVkVVVGc?oc=5",
+      "title": "【速報】宮城県が「クマ出没警報」発令 青葉区でのクマによる人身被害受け(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/eb98b8c7b627d3d529b62dbf0f4e16ac80dc4845?source=rss",
       "date": "08/13 19:33",
       "pub_ts": 1786617180.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "宮城県は、13日に仙台市青葉区上愛子で発生したクマによる人身被害を受け、31日まで青葉区に「クマ出没警報」を発令しました。\n\n青葉区以外の県全域には引き続き「クマ出没注意報」が発令されています。",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
       "title": "【宮城県】8/14の天気予報（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
@@ -392,24 +402,24 @@
       "emoji": "📺"
     },
     {
-      "title": "サッカーJ2・ベガルタ仙台は8月15日にホーム開幕戦で大分トリニータと対戦!（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdWNua01VbVJwbGJtUjRqQjF3cXpiZXkzRmlTMlZwN043a0gzbWpZc202YVhxQVQ5NkJfZ0xKWW9RTGtSeXM3Z2Jwakhacm1sR0I0V2FlUmF4RjYySldaaFBVSjdFc01nemV1ZTFfeDFOME9YN3U1ZXN1cVBvWWtoaHRzS1hRZjR5dl81dlhn?oc=5",
+      "title": "サッカーJ2・ベガルタ仙台は8月15日にホーム開幕戦で大分トリニータと対戦!(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/147b662565f0be3f5df5a0a62b7bbf5caaf4b722?source=rss",
       "date": "08/13 19:18",
       "pub_ts": 1786616297.0,
+      "summary": "サッカーJ2・ベガルタ仙台は8月15日、ホーム開幕戦です。\n前節、メンバー入りを逃したキャプテンの菅田真啓選手がスタメン復帰を狙っています。\n\n森山監督:\n「また波に乗れないのか、ここ（ホーム開幕戦）",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
+    },
+    {
+      "title": "【速報】仙台・青葉区でのクマによる人身被害受け 宮城県が青葉区に「クマ出没警報」発表（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xWlVGdmM5WU5yQXNia0I5eHMwb0pNZVlzamNKWGhBMEFMWVNOS0JzMUdjXzRhODBQQUtXeUZnUzQycnJ4T3VtUnJrZk0xSmNuSXAycnAwa0RsN1ZncnRicWdyd0xsSW4zV3BxYjJmRmF3anRQTC1Ib3RCcjRsNzg?oc=5",
+      "date": "08/13 19:18",
+      "pub_ts": 1786616287.0,
       "summary": "",
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
-    },
-    {
-      "title": "【速報】仙台・青葉区でのクマによる人身被害受け　宮城県が青葉区に「クマ出没警報」発表(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/aa7d4cb95d496fe2e999867b366c3adec5b620d4?source=rss",
-      "date": "08/13 19:18",
-      "pub_ts": 1786616287.0,
-      "summary": "宮城県は、8月13日に仙台市青葉区上愛子地区でのクマによる人身被害の発生を受け、8月31日まで青葉区を対象に「クマ出没警報」を発表しました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
     },
     {
       "title": "【宮城限定】タリーズの「ずんだシェイク」が最高すぎる＆お得な裏ワザ（トンちゃん） - エキスパート - Yahoo!ニュース",
@@ -432,14 +442,14 @@
       "emoji": "📺"
     },
     {
-      "title": "仙台の藤崎で「ちゅらな沖縄・うまか九州フェスティバル」が8月13日から開催中 被災地・熊本県からも出店（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VT0NzdmNWYXNHSWVCOVRFQzFJRmxzODU1RkdhWGtTSDNFazQ4Q2lSa2xiTlNTMmczbGFqUHVBQ0FVOTR5d1VNbzc0UUxzSXFId3czSUZVYkV4UmJmb2YwQ21FcmczSzZwbTJsMHpQeXNscFdMdngwNklkM2pyeVU?oc=5",
+      "title": "仙台の藤崎で「ちゅらな沖縄・うまか九州フェスティバル」が8月13日から開催中　被災地・熊本県からも出店(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/238039c098ad3436702714b95bd297aae07e8ab7?source=rss",
       "date": "08/13 18:55",
       "pub_ts": 1786614925.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "九州・沖縄のおいしいものが集まりました!\n仙台市内の百貨店は8月13日から九州・沖縄の物産展が始まっていて、被災地・熊本の和菓子屋も出店しています。\n仙台市青葉区の藤崎で8月13日から始まった「ちゅら",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "宮城・大崎市「あ・ら・伊達な道の駅」開業２５周年　記念イベント始まる　１５日まで(khb東日本放送)",
@@ -462,34 +472,34 @@
       "emoji": "📺"
     },
     {
-      "title": "住宅街をピョンピョン…　仙台・宮城野区にニホンカモシカ　今年２５件目撃(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/24210a037400920254665923aefc53953088b17a?source=rss",
+      "title": "住宅街をピョンピョン… 仙台・宮城野区にニホンカモシカ 今年２５件目撃（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLN2JtQXpKRWdGTUZzVFBqTy1CakdVZHB1S2RtQmVla1cyeGJya1hYNjBkTnJnV3pMRGZzU21YSFdEQXdaeXlabkl0ejN3Mzctbm1KSjZ1aEFoTVZNdnZ1anNpcXZhajFPTEx6M1dIZ2lGb0h2SGZtZ1R3bnlRYUE?oc=5",
       "date": "08/13 18:48",
       "pub_ts": 1786614537.0,
-      "summary": "１１日仙台市宮城野区の住宅街で国の天然記念物に指定されているニホンカモシカが目撃されました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
-      "title": "仙台市の高齢者施設でレジオネラ菌　基準値の約３倍　健康被害は確認されず(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/19f3698e34e04f5e928f121edc9882dea42d83ac?source=rss",
+      "title": "仙台市の高齢者施設でレジオネラ菌 基準値の約３倍 健康被害は確認されず（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91X0FYdWlUQl8xbHI2dDUyOS1PMm5tNURpbGdfZVR3UGJVRHowaF9NTmxNS1F4R1RBUURUQlZ1NUdBdWRfQWVNbE1PdjU3Tm92X1ExZGVBYzY0VVU2TEROTVM4a0lPdXEteTFTMFZfTm40TlEydHlfXzU0cTJpQWs?oc=5",
       "date": "08/13 18:47",
       "pub_ts": 1786614454.0,
-      "summary": "仙台市宮城野区の高齢者施設で浴槽の水から基準値を超えるレジオネラ菌が検出されたことが分かりました。これまでのところ、健康被害は確認されていません。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
-      "title": "手足口病の患者数　宮城県で今季最多　４週連続で警報レベル超える(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/b299bb2a025b728b03c2a0e3250ec1053ea7ebd4?source=rss",
+      "title": "手足口病の患者数 宮城県で今季最多 ４週連続で警報レベル超える（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51eDRzZjl6dWV3ZXZOQ1RrUzgwOGp1bG4zN3JVdTFpNjJYalp2MHlUbm4zdFRRNHdLOTg0UVYyUVRBZ2xxQ0FZY2JtUWh2M055TGh0d2pleEJZbDlNLUtpYmJWeDdocDg3UGN6Q2FMZVJMa2pHRUtfTXRzQVJUOU0?oc=5",
       "date": "08/13 17:25",
       "pub_ts": 1786609528.0,
-      "summary": "口の中や手足に発疹ができる手足口病の県内の患者数が、今シーズン最多となり４週連続で警報レベルを超えました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "天候不順のお盆休み　屋内遊び場が人気　宮城・富谷市「ユートミヤ」賑わう(khb東日本放送)",
@@ -512,14 +522,14 @@
       "emoji": "📺"
     },
     {
-      "title": "仙台・青葉区の園芸店で従業員がクマに襲われけが　箱罠設置し警戒続く(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/e4d7de74f9231ac4e4547eff3a66f9773b64a06c?source=rss",
+      "title": "仙台・青葉区の園芸店で従業員がクマに襲われけが 箱罠設置し警戒続く（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mUVQ4X2Y1bkREWmdNbzNTb1FKdFp5QV9CMGNKZEFDMlJHRzVvUjBUSFlnckpNcGtFTS01MGZ2aUZ0bkN5bUp3TjZncGF2M3hzekdrNHVCSHpDRUR2aHdUeWR2cHFzOThaLWVzbDRfbkNGdXBNTXk4Y2JTWmpPNzA?oc=5",
       "date": "08/13 17:22",
       "pub_ts": 1786609365.0,
-      "summary": "１３日午前、仙台市青葉区の園芸店で６０代の男性従業員が作業中にクマに襲われ、顔などにけがをしました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【JR東北本線】「小牛田駅～瀬峰駅」午後5時頃に運転再開〈宮城〉(ミヤギテレビ)",
@@ -602,14 +612,14 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城県内のヘルパンギーナ感染者数が7週連続で増加 おむつ交換後の手洗いやタオルの共用を避ける事など感染対策徹底を県が呼びかける（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RS2hpTG1tYllhbHJRRFdxVGhvRnVoNDY3SVZVSW5Mc2ZKWXhXcW95aUFRUlpFTFVZNWpFVm9MWVgzcEF5WHA0VE9Dai1fOF9kUTFMMEVlb2pTOG1qNEJJeFVGZWdQYkp3YTBJNHFNNjloaGNMRkVteEQ0YW9OWnM?oc=5",
+      "title": "宮城県内のヘルパンギーナ感染者数が7週連続で増加　おむつ交換後の手洗いやタオルの共用を避ける事など感染対策徹底を県が呼びかける(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/93766eef459b9d0ec5fda1d2acbb206469eaeb3a?source=rss",
       "date": "08/13 13:58",
       "pub_ts": 1786597093.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "8月9日までの1週間に宮城県内の定点医療機関でヘルパンギーナと診断された人の数は1医療機関あたり3.23人となりました。7週連続で増加していて、県が感染対策を徹底するよう呼びかけています。\n\n宮城県に",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "今週末の花火大会6個をまとめました。 - 仙台つーしん",
@@ -652,14 +662,14 @@
       "emoji": "📺"
     },
     {
-      "title": "【続報】顔や腕に出血を伴うけが 店舗敷地内で作業中の男性がクマに襲われる〈宮城・仙台市〉（ミヤギテレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44V3MwLWY2a2JDbml1Sm9xZkhGOTFFY1ZpQjZkUEk1V2s1amp1a0NGbGxpU1F5UXhWS3lYbnZzYjhia21mazJsSGM5WWduNVR2a3BOdVFHWHFwUHFxQWxPZGdobWpHRGNNSXBsWm5pLUk4YzRXX3hicWRwaXQzQUk?oc=5",
+      "title": "【続報】顔や腕に出血を伴うけが　店舗敷地内で作業中の男性がクマに襲われる〈宮城・仙台市〉(ミヤギテレビ)",
+      "link": "https://news.yahoo.co.jp/articles/df817c3e294b937e5295b3c7ababa4ac1df64fd9?source=rss",
       "date": "08/13 12:57",
       "pub_ts": 1786593420.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "警察などによりますと、13日午前8時35分頃、仙台市青葉区上愛子にある大型園芸用品店「ガーデンガーデン愛子本店」の敷地内で作業をしていた60代の男性がクマ1頭に襲われ、顔や腕に出血を伴うけがをして病院",
+      "source": "ミヤギテレビ",
+      "source_key": "mmt",
+      "emoji": "📺"
     },
     {
       "title": "盆の入りの8月13日 仙台市内の霊園でも多くの人が墓参り 静かに手を合わせ亡くなった人に思いを寄せる(tbc東北放送)",
@@ -702,16 +712,6 @@
       "emoji": "🗞️"
     },
     {
-      "title": "【速報】仙台・青葉区の園芸店で６０代男性従業員がクマに襲われけが　クマは立ち去り警戒続く(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/8105baeec2d006a8dee215bce7377efc470315db?source=rss",
-      "date": "08/13 12:02",
-      "pub_ts": 1786590156.0,
-      "summary": "１３日午前、仙台市青葉区の園芸店の敷地内で、従業員の６０代男性がクマに襲われ病院に搬送されました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
-    },
-    {
       "title": "仙台・青葉区の店舗敷地内 パート従業員の60代男性がクマに襲われけが（khb東日本放送） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CTWhRVzVjemlLR19BbENVWmo3TVFvVXk2LXJNTmtyY3JXVjV3U1NQZ3I3OVNyQ2lyLWg0ZTM4ZFZhMDdwWDdFT2NTMzlKLThYbTZFdC1zWWFSZGxjSHQtLXRKZlVpblpGM29SUENvN09URnVPWTg0S1RHRGFqMFU?oc=5",
       "date": "08/13 12:02",
@@ -720,6 +720,16 @@
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
+    },
+    {
+      "title": "【速報】仙台・青葉区の園芸店で６０代男性従業員がクマに襲われけが　クマは立ち去り警戒続く(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/8105baeec2d006a8dee215bce7377efc470315db?source=rss",
+      "date": "08/13 12:02",
+      "pub_ts": 1786590156.0,
+      "summary": "１３日午前、仙台市青葉区の園芸店の敷地内で、従業員の６０代男性がクマに襲われ病院に搬送されました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
       "title": "【速報】店舗敷地内で作業中の男性がクマに襲われけが〈宮城・仙台市〉(ミヤギテレビ)",
@@ -802,14 +812,14 @@
       "emoji": "📺"
     },
     {
-      "title": "クマに襲われけが「草の処分をしていた」園芸用品店の60代男性店員が顔など引っかかれ出血 仙台（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9reFZlcTdXRTItTnRDOEhNWXJSVFByTXU4dmlacTlWMWhVVVlqcW83WjZqSVk3RngxLUJEc3Qtam1XM1ppRDNqR2ZqR2xwOHhWRGFFeW1HZlFrS1oxRmZJS0g5dGota2syeHJjX2R0TWFWaWJXY2lhMldwOXc2MFE?oc=5",
+      "title": "クマに襲われけが「草の処分をしていた」園芸用品店の60代男性店員が顔など引っかかれ出血　仙台(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/d0ca25615e92d3468fac1fd08dc58b139168ac9b?source=rss",
       "date": "08/13 11:50",
       "pub_ts": 1786589424.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "13日午前8時半頃、仙台市青葉区上愛子の園芸用品店の敷地内の山林で店で働く60代の男性が作業をしていたところクマに襲われました。クマは男性の顔を引っかくなどして襲ったあと南の山の方へ逃げていったとみら",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
     },
     {
       "title": "仙台育英の応援団長・二口選手 チームのため「自分がやるしかない」（朝日新聞） - Yahoo!ニュース",
@@ -1340,16 +1350,6 @@
       "source": "TBC東北放送",
       "source_key": "tbc",
       "emoji": "📺"
-    },
-    {
-      "title": "仙台育英 星よつはマネも大喜び！１－０で花咲徳栄を振り切る 得点の六回には両手で大きな丸ポーズも（デイリースポーツ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55aU9oUmNNN3hCekU4YnF1T05vM19ua1E4TmE0RXhHVWlYWUdMQWc5WktNYUVDbUhHM1RfNjY5VlltcWV5ZDFkQm9rRy1iOEw2bUg2bnFyZWlhV2lwTC03OVBKSlZQS1EzVGtIWGtBTGdnQkhYTXZvV1ZNQ3dvYWM?oc=5",
-      "date": "08/12 15:56",
-      "pub_ts": 1786517760.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
     },
     {
       "title": "【速報】全国高校野球選手権大会・2回戦　仙台育英が花咲徳栄を1対0で破る(tbc東北放送)",
@@ -2524,12 +2524,12 @@
   ],
   "debug_info": {
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
-    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
+    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
+    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
     "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
     "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
-    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
-    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
-    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)"
+    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)"
   }
 }
