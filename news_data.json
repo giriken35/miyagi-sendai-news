@@ -1,6 +1,16 @@
 {
-  "fetched_at": "2026-08-15 06:42:43",
+  "fetched_at": "2026-08-15 07:42:18",
   "items": [
+    {
+      "title": "【甲子園】初戦4四球から7日後に“別人”…仙台育英の2年生右腕が高校初完封 須江監督が「精神と時の部屋」に例えた急成長 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rb21LWjJDTFBQZ21HS1JaODJ3Zl9OSTl6U3NCNjdyaTNxTHlJNm1JSWhjQ1lTNXU0T1h4SWFqUFVUUXc3U3NyQnZTMXQzTkthM1dONmt2YTRoYWZDZVZGS0d2WUFlbnAxQ1QwY1JjeW1aV0FFV0c5QnJwX3pBdVk?oc=5",
+      "date": "08/15 07:05",
+      "pub_ts": 1786745115.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
     {
       "title": "【青葉区】仙台三越で、2026年8月17日にオープン予定のお店があるみたい。 - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yVEROOEZBeF92QXlOMFR5c2xRMUtIdm5pM1o0dm9vTEd5bmxEY3pRU3VRc0d6Q1oweG9iUFJZVzBBcFp6UEdvWWF2YkszREdBRWFiZ0pUTnJlbWc1?oc=5",
@@ -462,16 +472,6 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城県の栗原市西部にもレベル4土砂災害危険警報 気象庁 千葉県の一部などが継続（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvTUMzR0JSUm96ZjlnV09KRjVDUTZleHliTVpJdjk3ODBndG9uQXpYUTF4UExRQnBNZjJVeHBfZ2lsejlTOUJjWHhzdDJYT2hNdktGZHhJV21TZVVaYkdBTGZKeC1kMVY2T1FiVzRkd25QWm40TUcyYnVaZlZuMm8?oc=5",
-      "date": "08/14 14:19",
-      "pub_ts": 1786684757.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
       "title": "宮城・大崎市西部にレベル４土砂災害危険警報（河北新報） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU1FFMThQOG9Pa0JBeGxfajdBWUdibG5yREdUbGRjTmtCQ0tCWFhPaWZZTHRNamtWTV8yaVlsOUpkTmJzbHhiWWRybnYxeFVtMFNQbWZENC1fcktBWl9veV9wcndiQl9KNlRfRGxlUlM3ZWlsZ3dHVlhTbDd3ME0?oc=5",
       "date": "08/14 14:15",
@@ -843,7 +843,7 @@
     },
     {
       "title": "【規制解除】関山トンネル付近で土砂流入による通行止め 仙台・青葉区（tbc東北放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUotaXdrbV96WXgtSGhzWkZmbXVidVNkZGJkWXlwVkh3V0ZvLVM5U2hfM2hQbWlpQUtQYWJhVzE3V0ZCTE5KMUUzd2NMZzRXYjZGN1JSS3o3YmlNZ1lCSDdGOFptb3JSRmhjZWhCWlowbm9uR2R3WV9DQkVqaHpVMnVXSUFGX2hRcFJLYm9B?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MbldSdTB4a2xpNlpZLVhVU1dzdlA4YllIX3JocGFCWlRURDFHeWZPN1RPajV4VFpTeXVrc05zU0hoTV9GWjdGc3VCTFRsQ2h4ZmNVaGZjdEpwdGVqTVFDRGM2MEM4eGZNdXVHRm9oSFRnNkRaU1d0VnpNcFZZUEU?oc=5",
       "date": "08/14 04:00",
       "pub_ts": 1786647630.0,
       "summary": "",
@@ -2463,13 +2463,13 @@
     }
   ],
   "debug_info": {
-    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
     "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
+    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
     "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
-    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
-    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)"
+    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
+    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)"
   }
 }
