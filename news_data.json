@@ -1,6 +1,16 @@
 {
-  "fetched_at": "2026-08-16 13:03:33",
+  "fetched_at": "2026-08-16 13:51:35",
   "items": [
+    {
+      "title": "「母のことを思い出す」　先祖の霊を送る　ぼんと祭　仙台市の寺(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/58d6372200769e8e98245565b768df72247eaa7c?source=rss",
+      "date": "08/16 13:19",
+      "pub_ts": 1786853975.0,
+      "summary": "１６日はお盆の最終日、「送り盆」です。仙台市の寺では先祖の霊を送り出す「ぼんと祭」が行われました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
+    },
     {
       "title": "【続報】JR石巻線が午後0時2分に運転再開＜宮城＞(ミヤギテレビ)",
       "link": "https://news.yahoo.co.jp/articles/02a88c234509d42cce30c39d8650b7b824bb245a?source=rss",
@@ -652,6 +662,16 @@
       "emoji": "🗞️"
     },
     {
+      "title": "仙台で無料セミナー開催！重粒子線治療について専門医から学べるみたい！ - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10TEVvbld4TXNHTDZxS3NjU2Y5OE5rLWpCNFRwbENHTFFWTkEyMEViUUpZRG9hQ2dVM2ItWUhxWnFVczkzSFplTFBmUnlOdy1TQjZQNzRtZDVmTFRO?oc=5",
+      "date": "08/15 18:00",
+      "pub_ts": 1786784457.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
+    },
+    {
       "title": "仙台駅前に10月上旬新しくオープンする居酒屋があるみたい。 - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhbUxUTlJGZ0FWTm9LWVJPLUotdUNSWks0Q2h0LVowUEwxeGlkYjJPb1ZaYUpLejRTRzFLLUlEamJQWTJaYlUyY19VRGYzYVZhMFNlZEZyZmFIZS1o?oc=5",
       "date": "08/15 17:58",
@@ -940,16 +960,6 @@
       "source": "仙台つーしん",
       "source_key": "tushin",
       "emoji": "🍜"
-    },
-    {
-      "title": "仙台・中江で休業中の銭湯脇に交流拠点「花の湯となり」が完成 - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dmcxTVB0S0ZkRnZoOWItR0xfZW8zd2hWZHNqVU9tZDllTzNpdGFNcE53NmlTeEIyU3ZaUTZMc01LLXZkSUxlX29NQVlZRENIWVRUWW9lN2M3dnVlQ1REWA?oc=5",
-      "date": "08/15 06:00",
-      "pub_ts": 1786741200.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
     },
     {
       "title": "【青葉区】仙台三越で、2026年8月17日にオープン予定のお店があるみたい。 - 仙台つーしん",
@@ -1546,16 +1556,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBteFdxOENDUzM5bWdPMC1EMXdiaWJLSEtPZU5SeDQwbkFGSnBaY2N2NEdLME1ldzlzQzdvLUlCLTB4ZTI2cElWY2FxQzVKOEc1V084UUVyTXpWTWVR?oc=5",
       "date": "08/14 06:42",
       "pub_ts": 1786657379.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
-      "title": "【青葉区】『仙台竹灯り』が、2026年8月13日に開催。震災被災地『熊本』への祈りも。 - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LaTUwSWtQa1NzRTVEMjhQN3VRajhwR3NTbTBOOEZ2dWFqRVVzbnhDclFWSWdYMGQ3WHdyWmNYYTlNbHpnTVlRallrUHdjS2dOS3dHc0NzbDNsNEp3?oc=5",
-      "date": "08/14 06:41",
-      "pub_ts": 1786657316.0,
       "summary": "",
       "source": "仙台つーしん",
       "source_key": "tushin",
@@ -2162,16 +2162,6 @@
       "emoji": "🍜"
     },
     {
-      "title": "【青葉区】ぶらんどーむの『JINS 仙台一番町店』が閉店に。2026年9月1日までの営業。 - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLMUY2RjRNQUg3bDg5LVpIZldTemZJaUtrOU5nUnZWa3piRjdCNjVpVHdZOFRVMUdtZ0NpeWRrM0p0QWpxc2J5VkdXNW9fT0g5NnpPV2ZzMzRIeE1G?oc=5",
-      "date": "08/13 06:43",
-      "pub_ts": 1786570982.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
       "title": "宮城県が全国の４分の３の生産量を誇る水産物「ギンザケ」　一大産地の女川町で魅力を伝える活動(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/ab3ebf6c7d1a63386a51e7bd469fee3279fc88b2?source=rss",
       "date": "08/12 20:06",
@@ -2642,16 +2632,6 @@
       "emoji": "📺"
     },
     {
-      "title": "ヒマワリなど９万球の光で彩る　「サマーイルミネーション」仙台農業園芸センター(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/fae69b478c71e1355697e7b3146e1cd1d226ef52?source=rss",
-      "date": "08/11 19:01",
-      "pub_ts": 1786442484.0,
-      "summary": "仙台市若林区のせんだい農業園芸センターでは、夏季限定で夜に花々がライトアップされ美しく照らされています。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
-    },
-    {
       "title": "【泉区】泉中央駅前が、『ベガルタ・ゴールド』に染まってきたみたい！ - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEcHhXZzhSVDE0MnhwSXNNVDhEcmo0a1ZaTUNMQTNHNkJ2QldJRFVfOHY0MXNhUTV3QWU0Y2NsRThRMUFDMDEyc1lhaTVhVHRKN3otRnk1V2R0YVV4?oc=5",
       "date": "08/11 06:45",
@@ -2720,6 +2700,16 @@
       "source": "NHK東北",
       "source_key": "nhk",
       "emoji": "📡"
+    },
+    {
+      "title": "仙台七夕の夜は青葉山へ！「仙台七夕ナイトフェス2026」で光・夜景・ライブを楽しもう - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HWnpFd0lUckh1bWFjdXlWNFdTNm1CM2JjS3VjaS1iT0lza3dsanJ6ZnFIQUltWWRPV1ZlczJ5T2pudEdVSkFrOFVBTVowYkRodGYtWEQ4U0pSS0Fo?oc=5",
+      "date": "07/30 16:00",
+      "pub_ts": 1785394800.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
     },
     {
       "title": "NHK仙台キャラクター やっぺぇ壁紙バックナンバー - nhk.or.jp",
