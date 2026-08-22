@@ -1,6 +1,16 @@
 {
-  "fetched_at": "2026-08-22 16:01:13",
+  "fetched_at": "2026-08-22 16:47:10",
   "items": [
+    {
+      "title": "「エアコンの吹き出し口から黒煙が…」仙台市内の中古車販売店で車両火災　車１台が全焼　けが人なし(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/a7c32f9e25c956762d4e9b061906e77188fc8d29?source=rss",
+      "date": "08/22 16:20",
+      "pub_ts": 1787383201.0,
+      "summary": "宮城県仙台市にある中古車販売店で２２日、車１台が焼ける火事がありました。\n\n火事があったのは、仙台市宮城野区岩切の中古車販売店です。\n消防によりますと、２２日午後２時４５分ごろ、「車１台が燃えている」",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
     {
       "title": "舗装されていない道”グラベル”コースで競い合う自転車ロードレース開催　宮城・加美町(tbc東北放送)",
       "link": "https://news.yahoo.co.jp/articles/722ee4b0c488257654f7ef99c7d0eac4517b6037?source=rss",
@@ -36,16 +46,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yZnZOLXZCRlplaGd3QUR2NGhra0ZwZWtMMUtCaXJyaGt4T2xkN1RzY1lZaHNhQkxsUlZBV1VrN2kwMFh1OG42T0gyS003RnNGNnlpZ1Uxb1ZhNFphOXp0eXgtWXhseWt3MjAzMWpWWGR6T1NXRUtOYURJeDFPbW8?oc=5",
       "date": "08/22 11:12",
       "pub_ts": 1787364720.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "障がい者芸術世界展が仙台市で開催中 入選した約140点が並ぶ（朝日新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55NDZ5SEs5RFpiQVFCZTlyRjFrUjAwZTNQS1FXcThZNUtQN3Y1bWtiVE95SGlsb0MxckdhMUFGSWpUa2ZhQllTUGdWSWtXYjJodUlzOWRsODhETUJUSFJxN216LVBWTldTUnpPczJaQW80SlpPMi1NXzFoSjk0SDA?oc=5",
-      "date": "08/22 10:00",
-      "pub_ts": 1787360401.0,
       "summary": "",
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
@@ -312,14 +312,14 @@
       "emoji": "📺"
     },
     {
-      "title": "「今はすごく相場が良い」　仙台市の４０代男性が暗号資産１６００万円相当をだまし取られる(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/f5e6cd0e32a630b3d2cd6e828230fba408140e65?source=rss",
+      "title": "「今はすごく相場が良い」 仙台市の４０代男性が暗号資産１６００万円相当をだまし取られる（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rN0VaaXBxZzA4MGM4UmZMYmNZdFhOdnJpaWs2ZW12NkZPT0pVWGo2YWU4QnVQNDlUdFJSNDhpQnpIRXd0WlVOcERrbFY1aURKalh4clloNFhYZ0hEUm05TXRzNjlDWk5XREZ3Q25MQ2U4VlpmQWhHSFltaER2QlU?oc=5",
       "date": "08/21 20:06",
       "pub_ts": 1787310406.0,
       "summary": "",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "韓国SK、宮城に半導体工場建設か（時事通信） - Yahoo!ニュース",
@@ -552,24 +552,24 @@
       "emoji": "🗞️"
     },
     {
-      "title": "熊本地震の被災地で仮設住宅整備を支援　宮城県が職員を派遣(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/5adb3b3352e81b449135cab84b8008be76d444c6?source=rss",
+      "title": "熊本地震の被災地で仮設住宅整備を支援 宮城県が職員を派遣（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ZWVSYkRSSG1zR2JyRWpmY0dWeG5KSk5rLXl0VU11SDB1SFdhV0pkSVIzNXlZQXI4RDVMLVVYa3lMN1ZJQmVpQ2hYUU1PeENPTjU2U3FPaGRjd1JTZW5uT3g3bGQ4UkFRTjhyUk5ld0pwLTU4cjhWNEpJbFJvOEk?oc=5",
       "date": "08/21 18:26",
       "pub_ts": 1787304380.0,
-      "summary": "熊本地震の被災地で、仮設住宅の整備を支援するために派遣される宮城県職員の出発式が行われました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
-      "title": "パワハラ問題の宮城県議会議員に改めて厳重注意　自民党・県民会議(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/ffe2b9e3db5b0301d14588f19614393f6b00e9e7?source=rss",
+      "title": "パワハラ問題の宮城県議会議員に改めて厳重注意 自民党・県民会議（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bjBOOW9ob0VvZ3o0TU5KX0tLTE1iaUI0VFpWOFBCWFdLMjFadDFHMmtBcTR2VHRjV1N0OGRua2VIRTM5Z0hJWDIwUXNzUEJMSm5lQTU2cnZoWk9TT3hCeWxsclNiT1FiRmJtRXRyMnB5Tml4bHFOVXRxUVVMcTA?oc=5",
       "date": "08/21 18:20",
       "pub_ts": 1787304023.0,
-      "summary": "自民党の渡辺拓宮城県議会議員が、宮城県職員へのパワハラ行為をしたとされる問題で、所属する会派が総会を開き改めて厳重注意を言い渡しました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "「思っていたよりいっぱいでびっくり」100万本のヒマワリが見頃＜宮城・加美＞(ミヤギテレビ)",
@@ -612,14 +612,14 @@
       "emoji": "🍜"
     },
     {
-      "title": "夜の動物たちを観察できるナイトズージアム　仙台・八木山動物公園(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/5e7da00209c1408af4d94ca9e7a870ad27bcecde?source=rss",
+      "title": "夜の動物たちを観察できるナイトズージアム 仙台・八木山動物公園（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBycDBqSEZfY2lfRGNtZkVuRlNrVDFYZWQ2LTVEbUt1MU9YOC1pWXdib3dlc0QwQnpwTUtQaFF3WHJERWlkWXhPVmg0Y3U0QWtORGlwQ1JEOTFYa2JCQkU2bDE2LTM2M1BlQzFSdGJscDA4eHN3YWYzdGtfb1h1V0E?oc=5",
       "date": "08/21 17:43",
       "pub_ts": 1787301814.0,
-      "summary": "仙台市の八木山動物公園で、夜に動物の様子が見られるナイトズージアムが始まりました。昼とは違う動物たちの姿に、子どもたちは興味津々です。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【警戒】女子高校生に対するつきまとい事案発生　宮城・登米市(tbc東北放送)",
@@ -642,14 +642,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "不登校の悩みを電話で相談　仙台市が専用ダイヤルを開設(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/005fe261942b8eb7351e321779420efe8230b100?source=rss",
+      "title": "不登校の悩みを電話で相談 仙台市が専用ダイヤルを開設（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00OXlLRW52c1pMNXlYYklHSDFMN1dxT1dSVmZ2bUNwNGpDUmF1ZHlObFFQYXRnZTE0RkR2cUx3a1RzVmZWRW0zNDlYLW9ZUjUzb1FBU00wVGpqanZTcEJ0U29QZFp1X0JmZlotTzhFUEF5bEptRHE3Y3BpQmxUMVU?oc=5",
       "date": "08/21 16:50",
       "pub_ts": 1787298636.0,
-      "summary": "仙台市は、不登校の悩みを抱える児童や生徒などが相談できる専用の相談ダイヤルを新たに設けました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "養殖ノリの種付けが始まる　重油流出で被害を受けた宮城・七ヶ浜町(khb東日本放送)",
@@ -662,14 +662,14 @@
       "emoji": "📺"
     },
     {
-      "title": "仙台市の消防団　全５６分団のうち８分団で出動報酬の不正請求を見聞き　聞き取り調査に回答(khb東日本放送)",
-      "link": "https://news.yahoo.co.jp/articles/3dafab2fae69a7d8c4494b7f8f731c0613a899c5?source=rss",
+      "title": "仙台市の消防団 全５６分団のうち８分団で出動報酬の不正請求を見聞き 聞き取り調査に回答（khb東日本放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxZzJnWkZrM0Zud1BfcmZGN2xucHhTeVU5MG5VTHdabG5VMXJ5YnVQcWx6MnNOUjlFZjczTmVnV1p0T1NWMGtXYU9HRmd1cm1EYjBXSU0tSlNNdnNoOV9HSS00YmRkaHp4bVBwejlmaGY3ek9vQUNCcnEybGNpRWs?oc=5",
       "date": "08/21 16:40",
       "pub_ts": 1787298055.0,
-      "summary": "仙台市の消防団の全５６分団のうち８分団が、実際には活動していない出動報酬の不正な請求を見聞きしたと調査に回答したことが分かりました。",
-      "source": "khb東日本放送",
-      "source_key": "khb",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "楽天、9月15日の西武戦で「仙台89ERS」Bプレミア開幕に向けた壮行式を開催（ベースボールキング） - Yahoo!ニュース",
@@ -902,16 +902,6 @@
       "emoji": "📡"
     },
     {
-      "title": "ＳＫ、宮城に半導体工場か 韓国紙報道 - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBSFlTVXNfUmJHMHlTdU5KZ3NIendnZ2VPWW5LazFwekhNeElIVm1BTFNFZ1dDVWY5Y01Pc1lxWXk1TTFfRVN6QUlfNWUzYlVtV3hLRDlqeG52clBwaUVld0M1cw?oc=5",
-      "date": "08/21 10:36",
-      "pub_ts": 1787276197.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
-    },
-    {
       "title": "SK、宮城に半導体工場か 韓国紙報道（共同通信） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jY1h4QkxVMlVlTjVjaUxVUk1zc19FZ2NHRUpIWVlGWGVfUFBBMzB5SklOSENWbGlSMnRSQ25EQmFVbm5fdHU0TEJXWjVyc3NicF9GMklCY2k5QzNMaVVzMmpUUm1xdFM5RFZNME5SakhIdHJ0OW9oeS1oS1JKNkE?oc=5",
       "date": "08/21 10:36",
@@ -920,6 +910,16 @@
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
+    },
+    {
+      "title": "ＳＫ、宮城に半導体工場か 韓国紙報道 - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBSFlTVXNfUmJHMHlTdU5KZ3NIendnZ2VPWW5LazFwekhNeElIVm1BTFNFZ1dDVWY5Y01Pc1lxWXk1TTFfRVN6QUlfNWUzYlVtV3hLRDlqeG52clBwaUVld0M1cw?oc=5",
+      "date": "08/21 10:36",
+      "pub_ts": 1787276197.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
     },
     {
       "title": "レッサーパンダやカンガルーをはじめ夜間の動物たちの姿を楽しめる!八木山動物公園で「ナイトズージアム」が8月20日から22日まで開催中(tbc東北放送)",
@@ -1030,6 +1030,16 @@
       "source": "河北新報",
       "source_key": "kahoku",
       "emoji": "📰"
+    },
+    {
+      "title": "伊集院光、宮城県高野連の「殺」「死」見直しの動きに「笑われるっつーの」「記名で言え。心の底からバカにしてやるから」 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnZDVlLW5GdEtMWVpGeWxRWG5HY3FXZ0xQM2tYRXhZV2pTbEtkYzRrM1ZGbFVRbU1JLVRMS043dXh4NHpXa3ROTk52alZaNHlmT0w0TUpTeXhFNDlIYjlINjNfWS1oajNXbFZGUW5wNWt3MG1LRi1Ed0xTdHpOMmM?oc=5",
+      "date": "08/20 22:17",
+      "pub_ts": 1787231822.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【青葉区】東一市場で『麺処 こばやし』が、2026年8月の週末にかけて間借り出店！ - 仙台つーしん",
@@ -2402,16 +2412,6 @@
       "emoji": "📺"
     },
     {
-      "title": "「子供たちと必ず来ている」先祖を送る伝統行事　仙台の寺で「ぼんと祭」　７０年以上続く(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/f7fff825880fdb869d7585445d83e7c7099a6859?source=rss",
-      "date": "08/16 18:08",
-      "pub_ts": 1786871281.0,
-      "summary": "８月１６日は、送り盆です。仙台市青葉区の寺では、お盆のお供え物などをたき上げる「ぼんと祭」が行われました。\n\nぼんと祭はお盆のお供え物や卒塔婆などをたき上げ、先祖を送り出す仏教行事です。青葉区の龍宝寺",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
-    },
-    {
       "title": "この夏は、憧れの輸入車でちょっと贅沢な旅へ。気軽に始められるレンタルサービスを見つけた！ - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UdEs0OEJJcWktODltR3Z6VVZTVnZUUnN0X29LaWN0R0NYd1dxRUZESDRMdkdmV3pRVy1hbE9IS2RqRThLRGFOZmZtbjFiMU9mX0RfYmEzZHdGOXRy?oc=5",
       "date": "08/16 18:00",
@@ -2472,6 +2472,16 @@
       "emoji": "📡"
     },
     {
+      "title": "【大竹しのぶのスピーカーズコーナー】9/5(土)NHK仙台放送局で公開収録！ - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PdXRueXktdksxWEZEREp2VktFY1NPSzRlNXZxN2EtZ2pkUXBISzJnRWwtTlF5X0FfM2NuS0lTUzBZanJ3ZXFRX3RLZWF0Ri1nMWtNMHR6cU1pV0JERlZtY2F1TlE?oc=5",
+      "date": "08/07 16:00",
+      "pub_ts": 1786086000.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
+    },
+    {
       "title": "【東北 しゃべり亭】大竹しのぶさんが出演！9/5(土)NHK仙台放送局で公開収録！ - nhk.or.jp",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEbnI5SnFocEVzeWFTZzFVR0dkUDQ0Y2pkNWpBdE5TaHdudVZRYWZsN1RLOE92V2lZNFZDQS02RFp3b3lKSm5TTGhZMG04OExMMDlxY2lIU0lieEprN0VOTllja3A?oc=5",
       "date": "08/07 16:00",
@@ -2482,10 +2492,10 @@
       "emoji": "📡"
     },
     {
-      "title": "【大竹しのぶのスピーカーズコーナー】9/5(土)NHK仙台放送局で公開収録！ - nhk.or.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PdXRueXktdksxWEZEREp2VktFY1NPSzRlNXZxN2EtZ2pkUXBISzJnRWwtTlF5X0FfM2NuS0lTUzBZanJ3ZXFRX3RLZWF0Ri1nMWtNMHR6cU1pV0JERlZtY2F1TlE?oc=5",
-      "date": "08/07 16:00",
-      "pub_ts": 1786086000.0,
+      "title": "観覧募集🌟ミドリーズ ステージショー in 仙台 ９月１３日（日） - あおきいろブログ - あおきいろ - NHK",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwZ0lQZFNyMms0NmNsTVBjYUtKRG1ONmREOGhuOUFRS3hpdkZnazVaYVpHUldxeWhpYXdSYzRwRGdneDdDVlNfWlNjVUZhTjdVUUJPV29BMzJZUGJsRDh1dUtmMktlX3JycWJtTnZob2dhQ0tGeDhZ?oc=5",
+      "date": "08/06 16:00",
+      "pub_ts": 1785999600.0,
       "summary": "",
       "source": "NHK東北",
       "source_key": "nhk",
@@ -2563,13 +2573,13 @@
     }
   ],
   "debug_info": {
-    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
-    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
     "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
-    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
     "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
-    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)"
+    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
+    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
+    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)"
   }
 }
