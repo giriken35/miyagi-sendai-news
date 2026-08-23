@@ -1,6 +1,16 @@
 {
-  "fetched_at": "2026-08-23 16:03:05",
+  "fetched_at": "2026-08-23 16:48:37",
   "items": [
+    {
+      "title": "川に乗用車が転落し女性がけが　駐車する際ブレーキとアクセルの踏み間違いか　仙台(tbc東北放送)",
+      "link": "https://news.yahoo.co.jp/articles/a0b0d33238a0f0094279b0b9f9d3096cb1e81255?source=rss",
+      "date": "08/23 16:20",
+      "pub_ts": 1787469624.0,
+      "summary": "23日昼ごろ、仙台市内を流れる川に乗用車1台が転落し、運転していた女性がけがをして病院に運ばれました。\n\n23日午前11時半ごろ、仙台市泉区西田中で「川に車が落ちた」と、付近にいた人から消防に通報があ",
+      "source": "TBC東北放送",
+      "source_key": "tbc",
+      "emoji": "📺"
+    },
     {
       "title": "【U18日清食品トップリーグ2026】仙台大明成「ひたむきな泥臭さと全員バスケでトップに食らいつく」（バスケットボールキング） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWXNHLVVoQ0VYejNPT0xoZzhOTmVZbnFjVld0WkgwT1JzczVyMGlTTnpEMmJrWUtMbnFabWlQMGtnNmJ5djNrbVA3T2tzRUFKS19lNzFCQjBFZW1FcnBRaTVOSDBwNzNyV2wxY2ZYUVBvenNKOFVORkhHX0NLbXc?oc=5",
@@ -100,6 +110,16 @@
       "source": "ミヤギテレビ",
       "source_key": "mmt",
       "emoji": "📺"
+    },
+    {
+      "title": "仙台で映画『BLUE GIANT』のリバイバル上映が行われるみたい。 - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oRWNZeVVoY0JmQmZfTmxYYm5MUjM0MnBwTGRWZWtWOUZSMjg3LXB0Rk5FWHdpb0JiSzN0SU5nVTRrX1gySENXbGVHczdhbFQ3SktSNDNJV1p3OWtW?oc=5",
+      "date": "08/23 11:57",
+      "pub_ts": 1787453858.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
     },
     {
       "title": "宮城の熊目撃情報（23日午前11時15分） - 河北新報オンライン",
@@ -1300,16 +1320,6 @@
       "source": "仙台つーしん",
       "source_key": "tushin",
       "emoji": "🍜"
-    },
-    {
-      "title": "宮城県議パワハラ疑惑で自民会派揺れる 「会見で自ら一線を越えた」「後ろ足で砂をかけられた」 政治倫理審査会設置求める声も - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hV0trejBfWFk5ZXJ3TlZUNXFLU1RINnVrZlNBdUpJYUZfRGdFa2c5S2dLdGNCbTA2UWZ1RW9LV3dTUnhITGlVaTQyZ0dBNlI0WTVKcno5by1FSXZYU1hVaQ?oc=5",
-      "date": "08/21 06:00",
-      "pub_ts": 1787259600.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
     },
     {
       "title": "発生していない地震情報など誤送信 20日午後4時45分から52分にかけて「宮城県で震度7」や「阿蘇山の火山ガス」情報 気象庁「事態を重く受け止め」（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
@@ -2552,16 +2562,6 @@
       "emoji": "📡"
     },
     {
-      "title": "仙台七夕の夜は青葉山へ！「仙台七夕ナイトフェス2026」で光・夜景・ライブを楽しもう - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HWnpFd0lUckh1bWFjdXlWNFdTNm1CM2JjS3VjaS1iT0lza3dsanJ6ZnFIQUltWWRPV1ZlczJ5T2pudEdVSkFrOFVBTVowYkRodGYtWEQ4U0pSS0Fo?oc=5",
-      "date": "07/30 16:00",
-      "pub_ts": 1785394800.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
       "title": "喜久水庵の南小泉本店が、25周年で特別な感謝祭を開催するみたい！ - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tQjdDbnE5bldaV1FRWUYtazc1S3BZRzhsWVJuOXRuYnBZNE12SUh5ZVRSZlZIUmFyang2WDJXaE8wTms2aGo1UE9GQ085ZjAyeG1ZQi1oV3lQSWtn?oc=5",
       "date": "07/14 16:00",
@@ -2613,13 +2613,13 @@
     }
   ],
   "debug_info": {
-    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
     "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
-    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
     "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
+    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
     "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
-    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)"
+    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
+    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)"
   }
 }
