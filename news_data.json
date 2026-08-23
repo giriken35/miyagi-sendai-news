@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24 02:37:06",
+  "fetched_at": "2026-08-24 03:50:03",
   "items": [
     {
       "title": "【地震】宮城県内で震度1 浦河沖を震源とする最大震度4の地震が発生 津波の心配なし(khb東日本放送)",
@@ -220,6 +220,16 @@
       "source": "TBC東北放送",
       "source_key": "tbc",
       "emoji": "📺"
+    },
+    {
+      "title": "一力遼杯仙台囲碁フェス2日目 大会に90人出場「おそろいの服装のチームもいて盛り上がり感じる」（河北新報） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lbzdIX09UMS1fSlV1ZjNqc0pNVzlxUzhVX25Damp3bkdHUDI2cWtwdXlDb29LUlJZQmlzRmQzcVFXNzRWQmlya1ZsZDJGT2d4NEdyc25RbjM5bUs2WW9ZbmN3THZKYVQ2N2VXRFlFTkpsbFZfcF9tUktZcnJISUE?oc=5",
+      "date": "08/23 14:11",
+      "pub_ts": 1787461885.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "BiViに9月15日オープン予定の飲食店があるみたい。 - 仙台つーしん",
@@ -542,16 +552,6 @@
       "emoji": "🗞️"
     },
     {
-      "title": "ベガルタ仙台 今季初勝利 FW梅木がチーム初ゴール 武田がダメ押し弾 八戸と対戦 - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43ZHhsQkF5VFZobGpmWjRVWHZYZUtQSW9PSmJRZi13cXpzNGJSWmVPQ3NiT2syUlVORGFkZjlFcGE2bkVOMFRSVnJ5OC02a25TeG9ERkJsNE04cUduQ0VxSw?oc=5",
-      "date": "08/22 19:00",
-      "pub_ts": 1787392857.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
-    },
-    {
       "title": "宮城・栗原市の50代の男性会社役員　著名な投資家名乗る人物らに暗号資産１６５０万円相当だまし取られる(khb東日本放送)",
       "link": "https://news.yahoo.co.jp/articles/58f6b57aa637726616dc1113dba34dbf52d28bd3?source=rss",
       "date": "08/22 18:50",
@@ -762,16 +762,6 @@
       "emoji": "📺"
     },
     {
-      "title": "【太白区】三神峯に『喫茶まきも』がオープンしてるみたい。 - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpWUNMUkpBUHpWdmh6MGNUOHpZeHdZOWRfdVgwdnFYeDNpYjB4bHdzZnlRYkVtSGVWOVVNQ3Y2eEtERVI2S3owb1dZd29jZy03QVc1dkNmdWNaZ1ZU?oc=5",
-      "date": "08/22 06:38",
-      "pub_ts": 1787348290.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
       "title": "【利府町】『高等学校ロボット相撲選手権2026・北海道東北選手権』を、8月22日に開催！ - 仙台つーしん",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10OGdDMUh3OVJwVXpWSmhTcDdFZ3YzTXVtVWxCY1MyU0p1WGpjMjJiMXhuUHhpcmFXRkhiLXR1ODJkT2h4VWdlZ2hYWm9naVhlbDJqMkJMRHhGejd2?oc=5",
       "date": "08/22 06:37",
@@ -840,6 +830,16 @@
       "source": "TBC東北放送",
       "source_key": "tbc",
       "emoji": "📺"
+    },
+    {
+      "title": "【大崎市】古川『食の蔵 醸室』にパン屋さん『ジラフ大崎古川店』、2026年9月中旬以降に出店か。 - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wbzh5UDQybThob3FpQXlzTEFLa0tIbXI5dkhhOURoVThJLUYxR0tZTHF5S0JFeV9Cdml2Ti10azJLejNDUWxXYm83Z3JkTDBZd2ZyQ0prWXhXTnRG?oc=5",
+      "date": "08/21 20:52",
+      "pub_ts": 1787313149.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
     },
     {
       "title": "【富谷市】富ヶ丘の『アマヤドリ珈琲』が移転に。現店舗での営業は2026年9月20日頃まで。 - 仙台つーしん",
@@ -1400,6 +1400,16 @@
       "source": "仙台つーしん",
       "source_key": "tushin",
       "emoji": "🍜"
+    },
+    {
+      "title": "伊集院光、宮城県高野連の「殺」「死」見直しの動きに「笑われるっつーの」「記名で言え。心の底からバカにしてやるから」 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnZDVlLW5GdEtMWVpGeWxRWG5HY3FXZ0xQM2tYRXhZV2pTbEtkYzRrM1ZGbFVRbU1JLVRMS043dXh4NHpXa3ROTk52alZaNHlmT0w0TUpTeXhFNDlIYjlINjNfWS1oajNXbFZGUW5wNWt3MG1LRi1Ed0xTdHpOMmM?oc=5",
+      "date": "08/20 22:17",
+      "pub_ts": 1787231822.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【青葉区】東一市場で『麺処 こばやし』が、2026年8月の週末にかけて間借り出店！ - 仙台つーしん",
@@ -2202,16 +2212,6 @@
       "emoji": "🍜"
     },
     {
-      "title": "終わりではありません。始まりです 仙台育英のラストミーティング（朝日新聞） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pdjV4emNIRmtLWmVNR1QwRFZoZDU3VTA5ZGlnQ1E4Tjl4MkFuT0lqRG9JTWtHdzF5bld2YzNuTFlGQmJ4akFFZWtncTV3X1B4UHlBdWl3TWxaLUg4QUJzM0NxTmxjM1dwc0FQZVRBZjVHaGVoT3BBQzk4UVJ6cWs?oc=5",
-      "date": "08/18 23:10",
-      "pub_ts": 1787062200.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
       "title": "「みちのく潮風トレイル」でクマ対策　環境省が９月から撃退スプレーを試験的に貸し出し　宮城(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/03839756223e2da97ccbabf4c7e497ddde82e3ed?source=rss",
       "date": "08/18 19:31",
@@ -2492,16 +2492,6 @@
       "emoji": "📡"
     },
     {
-      "title": "【東北 しゃべり亭】大竹しのぶさんが出演！9/5(土)NHK仙台放送局で公開収録！ - nhk.or.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEbnI5SnFocEVzeWFTZzFVR0dkUDQ0Y2pkNWpBdE5TaHdudVZRYWZsN1RLOE92V2lZNFZDQS02RFp3b3lKSm5TTGhZMG04OExMMDlxY2lIU0lieEprN0VOTllja3A?oc=5",
-      "date": "08/07 16:00",
-      "pub_ts": 1786086000.0,
-      "summary": "",
-      "source": "NHK東北",
-      "source_key": "nhk",
-      "emoji": "📡"
-    },
-    {
       "title": "観覧募集🌟ミドリーズ ステージショー in 仙台 ９月１３日（日） - あおきいろブログ - あおきいろ - NHK",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwZ0lQZFNyMms0NmNsTVBjYUtKRG1ONmREOGhuOUFRS3hpdkZnazVaYVpHUldxeWhpYXdSYzRwRGdneDdDVlNfWlNjVUZhTjdVUUJPV29BMzJZUGJsRDh1dUtmMktlX3JycWJtTnZob2dhQ0tGeDhZ?oc=5",
       "date": "08/06 16:00",
@@ -2516,6 +2506,16 @@
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBWC1FZFFES0ZjMG1MNW5wZkRoMldXN2R4RzdoR0VxTFJ0ak9rUDM1Z1NFVU1mMWh5amoyY3IwUS1XallydTJ2YUx3Zkh4dllwYXdzVk5kZG96N2pLYlN3TGJuM00?oc=5",
       "date": "07/30 16:00",
       "pub_ts": 1785394800.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
+    },
+    {
+      "title": "【東北 しゃべり亭】王林さんが出演！8/29(土)NHK仙台放送局で公開収録！ - nhk.or.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfaXFBWVFZZFNadkt3RDg5RkVPYzNCX0RLd3ZrcWFDYVhOT3B5VS1Dd0NrcEs2dVJVRHFfNWRtVUYtUUhmUjNoaDhpWWl0SS00MXV0aHV2NzJNQ0xtU3ZkbkhjSnU?oc=5",
+      "date": "07/24 16:00",
+      "pub_ts": 1784876400.0,
       "summary": "",
       "source": "NHK東北",
       "source_key": "nhk",
@@ -2573,11 +2573,11 @@
     }
   ],
   "debug_info": {
-    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
     "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
-    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
-    "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
     "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
+    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
+    "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
     "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
     "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
     "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)"
