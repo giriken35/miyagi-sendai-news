@@ -1,6 +1,16 @@
 {
-  "fetched_at": "2026-08-25 04:01:08",
+  "fetched_at": "2026-08-25 04:46:58",
   "items": [
+    {
+      "title": "宮城の熊目撃情報（24日午後10時現在） - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzRUdMcEtRS0FtU0I2UnEyNkhQVXVIbHlvc3Q3Sy1wdEhTQmg0TmxwekZSdmExUS1TVk9CNmY2RTZHSXdYTWJHNzBwQnBNc1BDYXM4NFExSGRqTjdXTjNaOQ?oc=5",
+      "date": "08/24 22:34",
+      "pub_ts": 1787578485.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
+    },
     {
       "title": "大郷町役場に侵入しパソコン等を盗んだ男を逮捕＜宮城県・大郷町＞(ミヤギテレビ)",
       "link": "https://news.yahoo.co.jp/articles/c72a8d2284e2b9d039a9ca66257940516990d35d?source=rss",
@@ -70,6 +80,16 @@
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
+    },
+    {
+      "title": "宮城・気仙沼の遠藤市議が「当選無効」の決定取り消し求めた審査申し立て、県選管が棄却 - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aYnI4bG9Kd3poUjdjYU1VendMazQ2RFM4TExpU2Q1b1RpMUNTSWFONFNiekpkWGR6aHFOY0ZmcExWUTVxekNWOExrODVCQVFkeUE3YlZPYVFBT2ZSdktzYQ?oc=5",
+      "date": "08/24 20:15",
+      "pub_ts": 1787570100.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
     },
     {
       "title": "延長戦2戦ともホームランに泣く　楽天4連敗＜仙台＞(ミヤギテレビ)",
@@ -2472,38 +2492,8 @@
       "emoji": "📡"
     },
     {
-      "title": "高校野球 夏の甲子園 仙台育英が札幌日大高に競り勝ち2回戦へ - NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2RkEwMFE5MUN5Yl9iUEFmR2g2UGhkY0t3R0hzM3g5a3hUWGpzbDRORTVDa0RfbnpMQ3ZEZy1raXFGRjVBTzBkdlNabkk3Z1ozT0RfdkVYMF9BOG1ncHpR?oc=5",
-      "date": "08/05 16:00",
-      "pub_ts": 1785913200.0,
-      "summary": "",
-      "source": "NHK東北",
-      "source_key": "nhk",
-      "emoji": "📡"
-    },
-    {
-      "title": "ゆず×羽生結弦が仙台のリンクで初コラボ『NHK夏の音楽祭 うたであえたら 2026』特別企画 - CINRA",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiRlVjZjU1cTFIZGhnS0dtVjQxbzdIUHdJMEx0b3JQa1JGU3dMUFducEp5V0dpSG5oeG5YajlmbUEyMVhxTDVzenFodVJ4NHNOOEVyT0VxU0M5MzhXZXdzd2Vma2JNWTNFazNkWm92VDU?oc=5",
-      "date": "07/31 16:00",
-      "pub_ts": 1785481200.0,
-      "summary": "",
-      "source": "NHK東北",
-      "source_key": "nhk",
-      "emoji": "📡"
-    },
-    {
       "title": "NHK仙台キャラクター やっぺぇ壁紙バックナンバー - nhk.or.jp",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBWC1FZFFES0ZjMG1MNW5wZkRoMldXN2R4RzdoR0VxTFJ0ak9rUDM1Z1NFVU1mMWh5amoyY3IwUS1XallydTJ2YUx3Zkh4dllwYXdzVk5kZG96N2pLYlN3TGJuM00?oc=5",
-      "date": "07/30 16:00",
-      "pub_ts": 1785394800.0,
-      "summary": "",
-      "source": "NHK東北",
-      "source_key": "nhk",
-      "emoji": "📡"
-    },
-    {
-      "title": "「もやもや」 | 2026-07-30 NHK Eテレ・仙台 - web.nhk",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9abFBTVzVBRXhFTHFtbnBIODlwTnlwbWZVYWJmdk9mb1c1NzBBNWlpVkVNbW5MeVZRN2NpMmdxZlgwU0RHV1VGdHhKVEpFNU1tcXdGQ0dqU1M1YmkwTU1XTW9JUGhselFzTUMtRnhqTFZQd0tYbWpB?oc=5",
       "date": "07/30 16:00",
       "pub_ts": 1785394800.0,
       "summary": "",
@@ -2583,13 +2573,13 @@
     }
   ],
   "debug_info": {
-    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
-    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
-    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
     "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
+    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
     "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
-    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
-    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)"
+    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)"
   }
 }
