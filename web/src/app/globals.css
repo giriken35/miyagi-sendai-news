@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans JP", sans-serif;
+  --font-serif: "Noto Serif JP", serif;
+}
+
+body {
+  font-family: var(--font-serif);
+}
