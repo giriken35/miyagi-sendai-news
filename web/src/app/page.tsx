@@ -15,10 +15,14 @@ export default function Home() {
     fetch("https://raw.githubusercontent.com/giriken35/miyagi-sendai-news/main/news_data.json?t=" + new Date().getTime())
       .then(res => res.json())
       .then(data => {
-        // Sort and categorize
-        const sorted = data.sort((a: any, b: any) => new Date(b.published).getTime() - new Date(a.published).getTime());
+        const itemsArray = data.items || [];
+        // Sort and map fields to match NewsItem interface
+        const sorted = itemsArray.sort((a: any, b: any) => b.pub_ts - a.pub_ts);
         const categorized = sorted.map((item: any) => ({
           ...item,
+          published: new Date(item.pub_ts * 1000).toISOString(),
+          source_name: item.source,
+          source_emoji: item.emoji,
           category: categorizeItem(item.title + " " + (item.summary || ""))
         }));
         setNews(categorized);
