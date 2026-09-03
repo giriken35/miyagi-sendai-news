@@ -59,7 +59,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-[#F5F0E8] text-[#1A1A2E] font-serif pb-12">
-      <div className="max-w-[680px] mx-auto px-4 pt-2">
+      <div className="max-w-[960px] mx-auto px-4 pt-2">
         {/* Header */}
         <header className="bg-gradient-to-br from-[#1A1A2E] via-[#16213E] to-[#0F3460] text-[#E8D5B0] p-6 rounded-b-[18px] -mx-4 mb-6 text-center shadow-lg">
           <h1 className="text-[1.6rem] font-bold tracking-wider leading-tight m-0">仙台ニュース</h1>
@@ -75,7 +75,7 @@ export default function Home() {
               <button
                 key={key}
                 onClick={() => setActiveTab(key)}
-                className={`font-sans text-[0.78rem] font-medium py-1.5 px-2.5 rounded-lg transition-all flex-grow-0
+                className={`font-sans text-[0.78rem] md:text-[0.9rem] font-medium py-1.5 px-2.5 md:py-2 md:px-3 rounded-lg transition-all flex-grow-0
                   ${isActive 
                     ? 'bg-[#1A1A2E] text-[#E8D5B0] shadow-md' 
                     : 'text-[#5A5A6A] hover:bg-white/50'}`}
@@ -87,15 +87,15 @@ export default function Home() {
         </div>
 
         {/* Search Bar */}
-        <div className="mb-6 bg-[#EDE8DC] p-2.5 rounded-xl shadow-inner flex items-center gap-2">
-          <span className="text-[#8A8070] text-[1.1rem] pl-2">🔍</span>
-          <span className="text-[#8A8070] font-sans text-[0.8rem] whitespace-nowrap hidden sm:inline">全記事からキーワードで検索</span>
+        <div className="mb-6 bg-[#EDE8DC] p-2.5 md:p-3 rounded-xl shadow-inner flex items-center gap-2">
+          <span className="text-[#8A8070] text-[1.1rem] md:text-[1.3rem] pl-2">🔍</span>
+          <span className="text-[#8A8070] font-sans text-[0.8rem] md:text-[0.95rem] whitespace-nowrap hidden sm:inline">全記事からキーワードで検索</span>
           <input
             type="text"
             placeholder="例: 紫区、お祭り、火事..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full bg-transparent border-none outline-none text-[#1A1A2E] placeholder-[#A09070] font-sans text-[0.85rem] px-1"
+            className="w-full bg-transparent border-none outline-none text-[#1A1A2E] placeholder-[#A09070] font-sans text-[0.85rem] md:text-[1rem] px-1 md:px-2"
           />
         </div>
 
