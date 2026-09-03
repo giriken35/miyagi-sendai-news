@@ -8,6 +8,7 @@ export default function Home() {
   const [news, setNews] = useState<NewsItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState("all");
+  const [searchQuery, setSearchQuery] = useState("");
 
   useEffect(() => {
     // Fetch directly from GitHub raw to bypass Vercel build process
@@ -44,7 +45,13 @@ export default function Home() {
     return counts;
   }, [news]);
 
-  const filteredNews = activeTab === "all" ? news : news.filter(n => n.category === activeTab);
+  const filteredNews = news.filter(n => {
+    const matchesTab = activeTab === "all" || n.category === activeTab;
+    const matchesSearch = searchQuery === "" || 
+      n.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+      (n.summary && n.summary.toLowerCase().includes(searchQuery.toLowerCase()));
+    return matchesTab && matchesSearch;
+  });
 
   return (
     <div className="min-h-screen bg-[#F5F0E8] text-[#1A1A2E] font-serif pb-12">
@@ -52,7 +59,7 @@ export default function Home() {
         {/* Header */}
         <header className="bg-gradient-to-br from-[#1A1A2E] via-[#16213E] to-[#0F3460] text-[#E8D5B0] p-6 rounded-b-[18px] -mx-4 mb-6 text-center shadow-lg">
           <h1 className="text-[1.6rem] font-bold tracking-wider leading-tight m-0">仙台ニュース</h1>
-          <p className="font-sans text-[0.72rem] text-[#A09070] mt-1 tracking-widest">Sendai News Hub</p>
+          <p className="font-sans text-[0.72rem] text-[#A09070] mt-1 tracking-widest">SENDAI NEWS - 河北新報 / 仙台つーしん / Yahoo!宮城</p>
         </header>
 
         {/* Tabs */}
@@ -73,6 +80,19 @@ export default function Home() {
               </button>
             );
           })}
+        </div>
+
+        {/* Search Bar */}
+        <div className="mb-6 bg-[#EDE8DC] p-2.5 rounded-xl shadow-inner flex items-center gap-2">
+          <span className="text-[#8A8070] text-[1.1rem] pl-2">🔍</span>
+          <span className="text-[#8A8070] font-sans text-[0.8rem] whitespace-nowrap hidden sm:inline">全記事からキーワードで検索</span>
+          <input
+            type="text"
+            placeholder="例: 紫区、お祭り、火事..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="w-full bg-transparent border-none outline-none text-[#1A1A2E] placeholder-[#A09070] font-sans text-[0.85rem] px-1"
+          />
         </div>
 
         {/* Content */}
