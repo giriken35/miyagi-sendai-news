@@ -56,9 +56,9 @@ export default function NewsCard({ item }: { item: NewsItem }) {
             {item.source_emoji} {item.source_name}
           </span>
           {item.summary && (
-            <details className="mt-1 w-full text-xs md:text-sm text-[#2A2A3E]">
-              <summary className="cursor-pointer text-[#0F3460] font-medium py-1 hover:text-[#1A6B8A]">
-                要約
+            <details className="mt-1 w-full text-xs md:text-sm text-[#2A2A3E] group/details">
+              <summary className="cursor-pointer text-[#0F3460] font-medium py-1 hover:text-[#1A6B8A] select-none">
+                冒頭を読む
               </summary>
               <div className="bg-[#F7F3EC] p-3 md:p-4 rounded-lg border border-[#E0D8C8] mt-1 md:mt-2 leading-relaxed break-all" dangerouslySetInnerHTML={{ __html: item.summary }} />
             </details>
