@@ -1,6 +1,16 @@
 {
-  "fetched_at": "2026-09-21 04:29:12",
+  "fetched_at": "2026-09-21 07:28:54",
   "items": [
+    {
+      "title": "【宮城県】9/21の天気予報（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VNzZ4N1FqQXpZSHYxYWtpTDVaRHJXeFU5X253U1d4QWl6YjZ6d2ZjZzBkdF8ya3d1b0R6NkhmTml0ZWxZUXVfR0VOa0lzSV9zeVJMQ2ZNQ29jc2hBWWItaU1qSmtKcFF1czJwUGtZTmFMLXdnMGxvSVBscm5xelk?oc=5",
+      "date": "09/21 05:17",
+      "pub_ts": 1789935430.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
     {
       "title": "宮城・大崎古川でひき逃げ 男性死亡（河北新報） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91TllNOXB1TFVQZnl3V20tTHgwM3pwSk5Ra2luOFhYYVAzZ29oS1pPcDRRU08weVBGUWhCQjFVQ2JCUVVsSk1JTm5JalRMX1dTQk9xRDRNYktvcTY0UW5sOVExVUtqdWFleWZMdE9kQm52ZEVJQVl4SDNRNEF1Q2M?oc=5",
@@ -12,24 +22,34 @@
       "emoji": "🗞️"
     },
     {
-      "title": "大崎市内の路上で死亡ひき逃げ事件　「外から音がして男性が倒れている」と通報〈宮城〉(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/ff0af1c8a603b1ef7bb6c2e4a95e5619f0f00d3b?source=rss",
-      "date": "09/21 00:27",
-      "pub_ts": 1789918021.0,
-      "summary": "９月２０日夜、宮城県大崎市内の路上で、男性が倒れているのが見つかり、その後死亡が確認されました。警察は現場の状況などから、ひき逃げ事件として捜査しています。\n\n２０日午後９時４０分ごろ、大崎市古川休塚",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
+      "title": "【速報】宮城・大崎古川でひき逃げ 男性死亡 - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQRXQxRWhLUVFxQndVbjdPMDF6UVNIRUozbG5TNzc3Rnh4Q2RyTDRmbHJZWXpjNFhvMHM5T3AxZ3Qtdy1OSTZMOWhrYmh5bnREd2EtZTVfMXRUaEp6YmZMNQ?oc=5",
+      "date": "09/21 01:41",
+      "pub_ts": 1789922507.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
     },
     {
-      "title": "宮城県大崎市　道路に倒れた男性死亡　ひき逃げ(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/3e932940223fe1097153fe7c2a5b34db568b2841?source=rss",
-      "date": "09/21 00:03",
-      "pub_ts": 1789916580.0,
-      "summary": "20日午後9時半ころ、宮城県大崎市古川休塚の県道で男性が倒れて\nいると近くに住む人から通報があった。\n\n警察によると男性は現場で死亡が確認されたという。\n\n警察は現場の状況から、男性は車にはねられたひ",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "title": "大崎市内の路上で死亡ひき逃げ事件 「外から音がして男性が倒れている」と通報〈宮城〉（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40eGRsbE1YQm9FaEFoejFidXBocjdOMWMwVnQ1aVVHUnVjLWgzZ0o0YnFLTFY2RmhYOGRTWV9SRFdOQm1hMjhkeWZBX1NtSGh4aFpXcGI5MWNraVE3ak9PM3pQMFRtMnJ4Z01IZzNPVmRnb1BtZlQ0QzZIa1dxamc?oc=5",
+      "date": "09/21 00:29",
+      "pub_ts": 1789918144.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
+    {
+      "title": "宮城県大崎市 道路に倒れた男性死亡 ひき逃げ（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tOEs0Q21jNXVpdTVRaGxjWjVXNnYzQVcxWWNLM3Joeko4ZnhNZWNyQ3JEbVdpYXN1SlNLNUI0NUxIdDc4X3pSSjBIT1BYb1RYaks4RHdUc1RQZUdxYm1OVWtUVWtENmdvQ3ZLaEJEUTg3MXhUTHh3RXMwQkQ4VDA?oc=5",
+      "date": "09/21 00:08",
+      "pub_ts": 1789916925.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "宮城県南三陸町の「化石発掘体験」がシルバーウィークの3日間、東京・高円寺で出張開催（旅行読売） - Yahoo!ニュース",
@@ -42,7 +62,7 @@
       "emoji": "🗞️"
     },
     {
-      "title": "ベガルタ仙台・岩渕が今季初ゴール 「ほっとした」と疲れに充実感 3得点の勝利で2位浮上 - kahoku.news",
+      "title": "ベガルタ仙台・岩渕が今季初ゴール 「ほっとした」と疲れに充実感 3得点の勝利で2位浮上 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3QkZrZTBLeF9FQ3BycUZDSDU2QUhJa0VQT1pWejhTcjdWcjBoenExV2ZLNUI2QV9FVjJaYU5nQ1NYWE9Lc3pEc01fbzMwSDZlRnRrRXZHSmJaNnRfRTdZbw?oc=5",
       "date": "09/20 20:57",
       "pub_ts": 1789905420.0,
@@ -142,14 +162,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "【宮城県】9/21の天気予報（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzSXBFb09IVl9reW1vZXJrbnNPS2xTOHI5ajU4YjZna2pQamFRa0g3c2ZCTFNxV3VKZm1jaVdOYTlJQldrVzdCSVZoZWNkaEIwaExnY2Y1U0loUFVTS2hmbDBnd3FPTmFORi1RbGVJNEtPeFZZSFh3TWxKaFprNHc?oc=5",
-      "date": "09/20 19:30",
-      "pub_ts": 1789900245.0,
+      "title": "【名簿あります】青森国スポの宮城県選手団は367人 旗手は陸上・男乕（おのとら）結衣選手（東北高3年） 県スポーツ協会が発表 - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11emRLX0tmTWxnejBWUHZ0N1owUm1KWHVnWEkwMjAxblFzNWZnYmN0SzdYaV93eTF6SkRtWmM5eHcyUVFHSzR2UGJmVWNBUUQ1aUFjUW5kakM0VmdKZGk2OA?oc=5",
+      "date": "09/20 19:12",
+      "pub_ts": 1789899120.0,
       "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
     },
     {
       "title": "「沿道の応援がすごく励み」ツール・ド・東北に1600人超＜宮城＞(ミヤギテレビ)",
@@ -172,7 +192,7 @@
       "emoji": "🗞️"
     },
     {
-      "title": "【速報】ベガルタ仙台、栃木Cに3-1で勝利 - kahoku.news",
+      "title": "ベガルタ仙台、栃木Cに3-1で勝利 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OdkQ3X2pwVG1pcHFFQnc1d1Etb3RjT2tRRGhQT2hhN1hZX3U1ekc5bF9nRHhxVkM3NkFPTWpjdTNEcXVwMXhGQ0l0dnVLU2FrcXRmUHVVbHZXMEU0bmo5cQ?oc=5",
       "date": "09/20 19:03",
       "pub_ts": 1789898580.0,
@@ -192,14 +212,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "大型で強い台風２５号　２１日夜から東北地方に最接近する見込み　陸羽東線の一部区間で運転取りやめも(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/2f10bd2aa14e26fc293861f007b485ace967d7f2?source=rss",
+      "title": "大型で強い台風２５号 ２１日夜から東北地方に最接近する見込み 陸羽東線の一部区間で運転取りやめも（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92ekNseWo3Z1Mwbmtac3NrS2lBREoyZm1JdGExUF9xT2dhRC1DTTZ1Rklxc01uMVVZNncxMUhCZ0hfRWcwVTV1S0MyRk9odElEbm1PaW1YQjNwV2dDQmR6bzBPd090cVMyMUM4VktlNi1ZRS1Cci11LWwwY1pnNVk?oc=5",
       "date": "09/20 18:18",
       "pub_ts": 1789895882.0,
-      "summary": "台風２５号の影響で、宮城県内でも９月２１日から大雨となる恐れがあり、在来線に影響が出ています。\n\n大型で強い台風２５号は、当初の見込みよりも進みが遅くなっていて、２１日夜から２２日の朝にかけて東北に最",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "塩釜市で初のクマ目撃　漁船に居座り海へ飛び込み逃げる　漁港から約１キロ離れた茂みで発見も捕獲に至らず(仙台放送)",
@@ -212,14 +232,14 @@
       "emoji": "📺"
     },
     {
-      "title": "【台風25号が接近】交通機関への影響は?（20日午後4時40分時点・宮城）(tbc東北放送)",
-      "link": "https://news.yahoo.co.jp/articles/12bd2fb45e6796f40f4b40325db7bde6f5f4e10e?source=rss",
+      "title": "【台風25号が接近】交通機関への影響は?（20日午後4時40分時点・宮城）（tbc東北放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IdThxTTl5bTcwSE1xeTJMY2NfdDNLQVlLSEM1V1RJYkptUTB6aW4yTkJUZTUwQy0zNUZVQlIzUUZiSXhueXIwOWVCcmtEVGtuNDNFQ2l1QWlpU1gtZE9WNHVtUElTOFRNem9rTE4ydGRmaG1YSnpfZFdkc1dXcTA?oc=5",
       "date": "09/20 17:09",
       "pub_ts": 1789891756.0,
-      "summary": "JR東日本によりますと台風25号の接近に伴い、21日、常磐線の特急「ひたち」は仙台といわき（福島県）の間で上下あわせて2本が運休を予定しています。\n※ひたち21号　いわき（午後7時17分発）-仙台（午",
-      "source": "TBC東北放送",
-      "source_key": "tbc",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "宮城で「ツール・ド・東北」 ライダー快走、復興肌に（共同通信） - Yahoo!ニュース",
@@ -232,7 +252,7 @@
       "emoji": "🗞️"
     },
     {
-      "title": "合計176歳 宮城・多賀城の夫婦ボウラー 宮城県内最高齢コンビに認定 毎週仲良くプレー「互いの投げる姿を見るのが喜び」 - kahoku.news",
+      "title": "合計176歳 宮城・多賀城の夫婦ボウラー 宮城県内最高齢コンビに認定 毎週仲良くプレー「互いの投げる姿を見るのが喜び」 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2Q0RDZUF3VXRSUGxoSld0LWloc1FmTVNqanZTRkpuQ3EzSkc3VkVaeWt6d0ZLRXhmY3JDdUMwNkY2SzhCWkVhdUd6UzFROTFVX3d1RV9mVXU4TkdaeFhGNA?oc=5",
       "date": "09/20 14:00",
       "pub_ts": 1789880400.0,
@@ -262,14 +282,14 @@
       "emoji": "📺"
     },
     {
-      "title": "クマがパトカーから逃げ漁船に…居座り→海に飛び込み→再び陸地　連休中の港町でクマ騒動〈宮城・塩釜市〉(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/750583e4b8907497949eef2032a954c0db1255e8?source=rss",
+      "title": "クマがパトカーから逃げ漁船に…居座り→海に飛び込み→再び陸地 連休中の港町でクマ騒動〈宮城・塩釜市〉（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ucm9KS2RvVnMycExEZExyc1ZYNmpUbi1LaUdnY2N2bzRyWHk1d29CUFlfY24tNlM2UFNDcncyVFBMYTJLRnFRdDZiQm1ybzFTTFA0dlpOQVFldGkzWmhWVEVobGpmdzE5alFDRGsyRkU5d0dYaEZSbzR6T0xBQWs?oc=5",
       "date": "09/20 12:30",
       "pub_ts": 1789875001.0,
-      "summary": "シルバーウイーク中の１９日午後８時半ごろ、宮城県塩釜市新浜町１丁目の漁港で、釣りに訪れていた人が撮影した映像です。\n\n警察によりますと、この１時間ほど前の午後７時半ごろから、近くの住宅街で「クマが庭を",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "クマが漁船に“居座り” 海に飛び込み逃げたか 宮城・塩釜市（テレビ朝日系（ANN）） - Yahoo!ニュース",
@@ -322,7 +342,7 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城の熊目撃情報（20日午前10時55分現在） - kahoku.news",
+      "title": "宮城の熊目撃情報（20日午後11時現在） - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHNU53TjNEekR5STczZTZzbWV2VW5YNnVaUjNZRTVsSVZUS2VqVHFMaWFrVXZFbHdzTGQwaW1DMk1xWmowX1ZyZ1dQZGltVWFRODlFeTNSZG5uOG9SZ3h3Sg?oc=5",
       "date": "09/20 11:00",
       "pub_ts": 1789869655.0,
@@ -362,14 +382,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "小学校の近くで・・・クマの目撃情報 ＜宮城・多賀城市＞(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/27348b4e04093bcec0512b51f8b14f0636259d21?source=rss",
+      "title": "小学校の近くで・・・クマの目撃情報 ＜宮城・多賀城市＞（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hTU56SDNhRlZUOTN5bVhQcXdhdExCM3c3X1JwYTdJOEdtMmJHenJWSUhOWk5NOUF4SXB5ZzJ3Y3dhLVpsOUJJYWFfaFhpNk9PVkJsdUdhMWRVMi1fZU4zT0NSa0d2TENPSFZUZ19GNmdVcy1zUGxjamx1LWJ1M2s?oc=5",
       "date": "09/20 11:00",
       "pub_ts": 1789869600.0,
-      "summary": "警察によりますと、9月20日午前2時20分頃、多賀城市山王山王二区で、「クマが道路を横切り田んぼの中へ立ち去った」と、付近を車で通過した男性から通報がありました。\n\n目撃されたのは体長約1mのクマ1頭",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "雨の中、復興ロードをライダー快走 宮城の沿岸部で「ツール・ド・東北」開催（河北新報） - Yahoo!ニュース",
@@ -382,14 +402,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "海へ飛び込んだとみられるクマ、陸で目撃 ＜宮城・塩釜市＞(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/bd3d63ceec0f336641955f9adcf59db63275081a?source=rss",
+      "title": "海へ飛び込んだとみられるクマ、陸で目撃 ＜宮城・塩釜市＞（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iQk5QVE1nV19uWVJ3cm5RVnd4U1lPZzZMbThFaVZoeGR0RUxSb0NKUElZWWJmYmlsSUtHanVnVkhabW9GUHY0ZVQ5d2RlRE1HWlNLYUFhY2hnUWZNX3JvWXZUdjhWcXFrMmhMOFBqN2lUaGNQczJDNlhrUFJ2RUE?oc=5",
       "date": "09/20 08:35",
       "pub_ts": 1789860900.0,
-      "summary": "警察によりますと、20日午前1時頃、塩釜市新浜町1丁目付近に停泊中の漁船から、体長約1mのクマ1頭が海に飛び込んだとみられるということです。\nその約1時間20分後に、約1キロ離れた海岸付近の林からクマ",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "仙台・錦ケ丘の天文台近くでも熊目撃（河北新報） - Yahoo!ニュース",
@@ -402,7 +422,7 @@
       "emoji": "🗞️"
     },
     {
-      "title": "【速報】仙台・錦ケ丘の天文台近くでも熊目撃 - kahoku.news",
+      "title": "【速報】仙台・錦ケ丘の天文台近くでも熊目撃 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qLWpFVjhsUjJEMlZpUDloMTduVlJjYlBCYnBGUGlITlo1LTl6S29jemZuY3FfLUYwaGdrbWlPZzk1dXRIdjhqc3VhQ0JUU25ueUl5ZzItQWtYN1ZyY0twTQ?oc=5",
       "date": "09/20 08:05",
       "pub_ts": 1789859123.0,
@@ -422,14 +442,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "マグロ漁船に乗り込み\"居座ったクマ\"海に飛び込み姿消すも1キロ離れた場所で目撃される　宮城・塩釜市(tbc東北放送)",
-      "link": "https://news.yahoo.co.jp/articles/c1f4e012ab3a0799a800340d22518eb1dd2c7bb9?source=rss",
+      "title": "マグロ漁船に乗り込み\"居座ったクマ\"海に飛び込み姿消すも1キロ離れた場所で目撃される 宮城・塩釜市（tbc東北放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvZ0Uyb3N0dGt6X3BsMERTcnp2YWdweXpDeDFocjJVX01fQTZ6YVQzOThhaHE1U0YzOGJjUkhIZHVjY2VTZG02X2pWRHZxVk1MQ2lycXZ2bDhJMTNuaGFzbXFKdWRGSGNiTVVKeGtkQnd2UlNpX1Z4SnJIX3RncFU?oc=5",
       "date": "09/20 07:15",
       "pub_ts": 1789856133.0,
-      "summary": "18日からクマの目撃情報が相次いでいた宮城県塩釜市の沿岸部で、19日夜、岸壁に停泊していたマグロはえ縄漁船にクマが居座り、その後、漁船から海に飛び込んだということです。\n\n警察によりますと、19日午後",
-      "source": "TBC東北放送",
-      "source_key": "tbc",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【利府町】2026年10月16日オープンの『THE BREAD BAR 利府沢乙店』の出店場所が、明らかに。 - 仙台つーしん",
@@ -482,7 +502,7 @@
       "emoji": "🍜"
     },
     {
-      "title": "宮城・利府のＱスタ 24日に7年ぶりサッカー日本代表戦 関係者が気をもむ周辺道路事情 - kahoku.news",
+      "title": "宮城・利府のＱスタ 24日に7年ぶりサッカー日本代表戦 関係者が気をもむ周辺道路事情 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rdE5SNEhfS2FONEZvTXVPZEpjYUJKQnRXWTRsQTZjengtMVZveElIR2Y3Z3NVVlVqTU1ncFg4SnpHdUtsYkRKMmN6c2puZXFIYmZpX2JBQWZSUHpWR2NZLQ?oc=5",
       "date": "09/20 06:00",
       "pub_ts": 1789851600.0,
@@ -492,7 +512,7 @@
       "emoji": "📰"
     },
     {
-      "title": "宮城県と8市町、アンダーパスの予防的通行規制を実施・検討 冠水の恐れ19市町の58カ所 「規制開始の判断難しい」 - kahoku.news",
+      "title": "宮城県と8市町、アンダーパスの予防的通行規制を実施・検討 冠水の恐れ19市町の58カ所 「規制開始の判断難しい」 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SSTJ0UGQ5ellqZGk2MWl4NFhyNkpDeTYtYW1uMVA3cmh3cXZ0NG9PSlhsTXBKR1pZcXVSVERsU2lQYWhDMldPQUt0bjZKNEd4Ml9TbFRNc3BxQXhvYXJseg?oc=5",
       "date": "09/20 06:00",
       "pub_ts": 1789851600.0,
@@ -512,7 +532,7 @@
       "emoji": "🗞️"
     },
     {
-      "title": "宮城学院の創立140周年記念 劇中歌「民衆の歌」合唱の参加者募集 10月5日締め切り - kahoku.news",
+      "title": "宮城学院の創立140周年記念 劇中歌「民衆の歌」合唱の参加者募集 10月5日締め切り - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iem1rWTJXUUlYd1VwRGRTblk3TmtXX1hsWW0tNkM2eko1MW9tb2tQVW9ETVg4d3FlX21UMTA4bjBWTmdFcmpJSlVlM2hZNEdTdEd4cVVSNks4QXowQlNUSg?oc=5",
       "date": "09/20 05:00",
       "pub_ts": 1789848000.0,
@@ -522,7 +542,7 @@
       "emoji": "📰"
     },
     {
-      "title": "元日本代表の永島昭浩さんらが清掃活動 24日にサッカー日本ーウルグアイ戦 宮城・利府のスタジアム周辺 - kahoku.news",
+      "title": "元日本代表の永島昭浩さんらが清掃活動 24日にサッカー日本ーウルグアイ戦 宮城・利府のスタジアム周辺 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91LWRLYnp1QUV1eUVmMUlQM2NQclI2SGVfNlFoVGZsVlRnb3NFYUFmak82TVFOOUJkaU9OV19iQ3FoZ2ZFLXVnUkZLSFl4aGllbUhsVnp6b1lpRnVaUmxhNQ?oc=5",
       "date": "09/20 05:00",
       "pub_ts": 1789848000.0,
@@ -552,24 +572,24 @@
       "emoji": "📡"
     },
     {
-      "title": "【速報】マグロ漁船に居座っていた\"クマ\"漁船から海に飛び込んだか　クマが姿消す　宮城・塩釜市(tbc東北放送)",
-      "link": "https://news.yahoo.co.jp/articles/06cb77aa4a6add973971834b72e85676d402e1ea?source=rss",
+      "title": "【速報】マグロ漁船に居座っていた\"クマ\"漁船から海に飛び込んだか クマが姿消す 宮城・塩釜市（tbc東北放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qeDdvRjdQU3VMT3hQRExBTE9rMnF5N1NydmpzSjZUcDNXVmR2S25mMlpaQTNndHlZN3NZVVNYMzNTVzFKLW9sVnhnUGxYSzFrbHQzdlNuODJjRnVFMmRMa1dqTDlNWUhJRE5ub1pVWi0xRHJwOXRXcHFZZGFmTW8?oc=5",
       "date": "09/20 01:53",
       "pub_ts": 1789836792.0,
-      "summary": "警察と塩釜市によりますと、19日午後8時半ごろ、宮城県塩釜市新浜町1丁目の岸壁に体長約1メートルのクマがいるとの通報で駆けつけた警察官が、現場でクマを発見しました。\n\nその後、クマは近くの岸壁に停泊し",
-      "source": "TBC東北放送",
-      "source_key": "tbc",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
-      "title": "【続報】漁船にとどまるクマ、海へ飛び込んだか ＜宮城・塩釜市＞(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/c94eb67aa5ff4b4494520d4020d873ce622fd158?source=rss",
+      "title": "【続報】漁船にとどまるクマ、海へ飛び込んだか ＜宮城・塩釜市＞（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDNHh6Q2JhWE1JUVE5U2JpZjFKUUpSSmtEVzZrNEpyaUNOSjBLRHIyUmo5ZXRlektoZkxXenl2cW5NeEVQMzNfTWNRNGU0YlB0TEMzU1RGbnJGVEQ5V3dkUFlGRjVCUVhPY3ZfRDRNWHBjcEp2d3NOU3ExaGMwTmM?oc=5",
       "date": "09/20 01:44",
       "pub_ts": 1789836240.0,
-      "summary": "塩釜市によりますと、19日午後8時40分頃から、塩釜市新浜町1丁目付近に停泊中の漁船に体長約1mのクマ1頭が乗り込み、甲板で寝ていましたが、約4時間半後の20日午前1時5分頃、海に飛び込んだとみられる",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "電車がクマと衝突し停止 宮城のJR常磐線（共同通信） - Yahoo!ニュース",
@@ -582,14 +602,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "＜交通情報＞常磐線・運転再開 クマと衝突 宮城(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/95912377b5ac62c64150533572e83061b8530933?source=rss",
+      "title": "交通情報＞常磐線・運転再開 クマと衝突 宮城（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hdFUwZ0xzVjBZU0E1MjhEM2czMkl5M1psbGRDR0hBQktZTk16M0lfaEFvcEc3Wkc4ZUVHdDlzaTBId2sxRnVKS2w1QjZnQS1pQm1NQkFFQ1pPM0h1Rko5aXRKcFFMakF3ZzN0VEJUMDZKUHhtWE5lTmRGSkgySU0?oc=5",
       "date": "09/20 00:46",
       "pub_ts": 1789832760.0,
-      "summary": "JR東日本によりますと、19日午後10時6分頃、常磐線は「岩沼～逢隈駅間」でのクマと衝突の影響で、上下線で運転を見合わせていましたが、列車の下に挟まったクマの撤去が完了し、約2時間後に運転を再開しまし",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "漁船にクマ1頭がとどまる 警察と市の職員が警戒中 ＜宮城・塩釜市＞(ミヤギテレビ)",
@@ -632,14 +652,14 @@
       "emoji": "📺"
     },
     {
-      "title": "＜交通情報＞常磐線で運転見合わせ クマと衝突の影響　宮城(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/0c038931d6d2e5c763e81984bf1707bc067058dd?source=rss",
+      "title": "交通情報＞常磐線で運転見合わせ クマと衝突の影響 宮城（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rLWtQZHFocFBuOU1zaFo5T1JLcm5Xd2RSRmNFcy0zVlZnR3FrR2lrVTQ3NXpCSEJzNUNtR1FTQ2RYUllwQ3RsOFhWRGZZTVNzVHJkUkxhSUt2RjFGZU9EUFJaSGI2MWphajN6a1lINFo2LXR4Mm9hdjZqVkVUMEk?oc=5",
       "date": "09/19 22:52",
       "pub_ts": 1789825920.0,
-      "summary": "JR東日本によりますと、常磐線は「岩沼～逢隈駅間」でのクマと衝突の影響で、「仙台～新地駅間」の上下線で運転を見合わせています。\n運転再開見込みは立っていないということです。\n\n最新の運行情報は、JR東",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【速報】塩釜港内の漁船にクマ１頭逃げ込む　今も甲板に　付近で目撃相次いだクマと同一か　警察・市が警戒続ける(khb東日本放送)",
@@ -652,14 +672,14 @@
       "emoji": "📺"
     },
     {
-      "title": "夕暮れ時にクマの目撃情報2件 ＜宮城・富谷市＞(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/3490189df78a12e7b046b575ee7222eae4bce726?source=rss",
+      "title": "夕暮れ時にクマの目撃情報2件 ＜宮城・富谷市＞（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PRDRvc3BqZk1VQy1kWXdXWFNfa0xsLXdSSUN3VElHY3NxeFIyeWJGTjFYZzdtMFZTaUZNekE3dGZPdFV1TDhIZzU1ZnRlOTdmM3NIQW4zQ1M1RVVYcUJveG40bUU2cHlOdzAyVnowN3dxQk1XbVZreXhsUkZlWkE?oc=5",
       "date": "09/19 22:08",
       "pub_ts": 1789823280.0,
-      "summary": "警察によりますと、9月19日午後5時40分頃、富谷市西成田榎町の仙台三本木線付近の山林で、「クマ1頭いるのを見た」と、付近を歩いていた人から通報がありました。\n\n目撃されたのは体長約1.5mのクマ1頭",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "宮城・塩釜 水産物仲卸市場の南側に熊 停泊中の巻き網漁船に逃げ込む 操舵室の船員3人は無事（河北新報） - Yahoo!ニュース",
@@ -682,14 +702,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "高速道路の路肩に・・・クマの目撃情報 ＜宮城・大和町＞(ミヤギテレビ)",
-      "link": "https://news.yahoo.co.jp/articles/09092e450c91a14c7b2f0da9b0665e81fc8a229d?source=rss",
+      "title": "高速道路の路肩に・・・クマの目撃情報 ＜宮城・大和町＞（ミヤギテレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwdHA4NVFVNmpmSHZHMFhMOUVYU25sUnd5eTIzeUlGakhBUFBpWGhUMHlRYlpkblZNbVJqazBmOTBITFNvNFF0YU90VXVuMkJTOUJGREE3MmNDMWhyNUlMMWQxMi1tdE5wRkw2OENpeVpoMWY4NThIeDVrM1ZfZm8?oc=5",
       "date": "09/19 21:19",
       "pub_ts": 1789820340.0,
-      "summary": "警察によりますと、9月19日午後5時30分頃、大和町落合蒜袋沢目で、「高速道路の路肩にクマ1頭がいる」と、付近を車で通過した人から通報がありました。\n\n目撃されたのは体長約1mのクマ1頭です。けが人な",
-      "source": "ミヤギテレビ",
-      "source_key": "mmt",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【宮城野区】『パンセ 鶴ヶ谷店』が、2026年9月30日で閉店。26日から『感謝祭』を開催。 - 仙台つーしん",
@@ -782,16 +802,6 @@
       "emoji": "🍜"
     },
     {
-      "title": "ツール・ド・東北 20日開催 ライダーをチョークアートで応援 宮城・石巻 - kahoku.news",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHamRkR1d4Mll0YUk5Ny1GM3ktc05CRXRScDc0bXlWMnhtYW10SFIyZzhDR2N3dm1ONk9aS0ZwZVRxalVQbGlGRm5oRzNGZEpIS0ZrTWhmLVFXeVpYbUJydA?oc=5",
-      "date": "09/19 20:25",
-      "pub_ts": 1789817137.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
-    },
-    {
       "title": "記録的不漁から一転して2026年は豊漁　戻りカツオまつりでタタキが無料で振る舞われる　宮城・気仙沼市(tbc東北放送)",
       "link": "https://news.yahoo.co.jp/articles/97b5e24674e5163e55ec7077295e1904c937fd5e?source=rss",
       "date": "09/19 19:28",
@@ -822,7 +832,7 @@
       "emoji": "📺"
     },
     {
-      "title": "【詳しい結果です】東北、仙台一、仙台育英、ウェルネスが4強＜秋季高校野球宮城県大会＞ - kahoku.news",
+      "title": "【詳しい結果です】東北、仙台一、仙台育英、ウェルネスが4強＜秋季高校野球宮城県大会＞ - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zaXVkNHdESzlZclB4UnhhMGhlMjNQdjl5VTBkcnFNSGIzcmxlV1B0YUhyZlJXUXBFQ000ZU1UYVJsNThqVk1ncS1CdXduMng1anFYX0lUNjh2LWJjb3JydA?oc=5",
       "date": "09/19 18:38",
       "pub_ts": 1789810680.0,
@@ -832,14 +842,14 @@
       "emoji": "📰"
     },
     {
-      "title": "大型の台風２５号 月曜から火曜にかけて東北に最接近か 近づく前から備えを(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/057d5722955d22845ee50aa8831457d4e4a57585?source=rss",
+      "title": "大型の台風２５号 月曜から火曜にかけて東北に最接近か 近づく前から備えを（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxbTJoc3ZlT1p0ZEVSQ2VHNl9uN29DWkU1VENzelctdHdPMlZuOUI3Q2RicE8tX3pnWFBhd0piUXFkdjdEVzNhZmhlZ3k0Ukh1VGl2MEhxOG9nVEU0dktyTWdkNXc1OE1WSXlWWXU0cXNvVFA0RFdjTWRYNmY1WTA?oc=5",
       "date": "09/19 18:08",
       "pub_ts": 1789808882.0,
-      "summary": "大型の台風２５号は、連休中の月曜日から火曜日にかけて、東北地方の太平洋側に最も接近する可能性があります。大雨による土砂災害や低い土地の浸水などに注意が必要です。\n\n大型の台風２５号は、日本の南の海上を",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "【映像あり】宮城県の港町 塩釜市内で初めてのクマの目撃 住宅や事業所などが立ち並ぶ地域 けが人なし(仙台放送)",
@@ -862,24 +872,24 @@
       "emoji": "📺"
     },
     {
-      "title": "杜の都・仙台を代表する「定禅寺通」歩行者を中心とした空間へ にぎわい作りに向けて社会実験始まる(仙台放送)",
-      "link": "https://news.yahoo.co.jp/articles/75a00b8c972f6fdb10752d212b9d7fc7f4c47598?source=rss",
+      "title": "杜の都・仙台を代表する「定禅寺通」歩行者を中心とした空間へ にぎわい作りに向けて社会実験始まる（仙台放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KZ3hGSFlPbzFINjhib3J4VFJleDFhVFhSdm4xUzBCdkhUTlBFZ0hJcVVEY1VZcXA1U0lIOXV4d1FZQ3VpZjZZb0JzbTAycE9YcS1XZ0ZEMlkxZ0JZb294RE14U3h3Ml9QVmZCNUp4R0FxeU9hNURvWUhXbU9MSk0?oc=5",
       "date": "09/19 18:06",
       "pub_ts": 1789808761.0,
-      "summary": "歩行者を中心とした空間への再整備が進む、仙台市中心部の定禅寺通で、広くなった歩道を活用した社会実験が、１９日から始まりました。\n\n記者リポート\n「こちらでは、落ち着いた音楽が流れる中、テーブルやキッチ",
-      "source": "仙台放送",
-      "source_key": "ox",
-      "emoji": "📺"
-    },
-    {
-      "title": "復興のシンボル ”北限のシラス”をＰＲ 宮城・名取市 「閖上しらす祭り」（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRkV5aE1UQldNNExJbUZHZUNQNEMzSmlnT1dnZDNNdi1RQTZoMmJoT1U2OThrYnFHN3V0YXFZbTdUMGhMb01KYmFpT2xlNGNxTmV4LUVSU2E2alZIcVB0VlJZZ1FLaFNPYmFoMmc2dVREZ1l6NjVjTzRVTWF0bVU?oc=5",
-      "date": "09/19 18:05",
-      "pub_ts": 1789808755.0,
       "summary": "",
       "source": "Yahoo!ニュース",
       "source_key": "yahoo",
       "emoji": "🗞️"
+    },
+    {
+      "title": "復興のシンボル　”北限のシラス”をＰＲ　宮城・名取市　「閖上しらす祭り」(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/90ba91972056fa825bc462d7ea4fd5cf639ea192?source=rss",
+      "date": "09/19 18:05",
+      "pub_ts": 1789808755.0,
+      "summary": "宮城県名取市閖上で旬を迎えたシラスをＰＲする催しが開かれ、生のシラスが振る舞われました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
       "title": "色とりどりのコスモスが咲きそろい見頃に（宮城県大崎市）(ミヤギテレビ)",
@@ -972,7 +982,7 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城・塩釜でまた熊目撃 同一個体か - kahoku.news",
+      "title": "宮城・塩釜でまた熊目撃 同一個体か - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcU5XNXJvVWdVLUhMbUE0SURWanU3MDF4NEJRRDRLdHlydEdkMmUwZ2V4dUhfX0dyQWFQdW1qc0dJdG5oVS10UTh1TWZ1SHlMTlRuSmtHMnk2dzU5R29tYQ?oc=5",
       "date": "09/19 10:51",
       "pub_ts": 1789782664.0,
@@ -982,7 +992,7 @@
       "emoji": "📰"
     },
     {
-      "title": "【試合結果を速報します】仙台育英、東北、仙台一、ウェルネスがベスト4 準決勝は22日に順延 - kahoku.news",
+      "title": "【試合結果を速報します】仙台育英、東北、仙台一、ウェルネスがベスト4 準決勝は22日に順延 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtdFNGejZTb0RCRTR3blJJaHcxcU13V21SSmpSTkNVZUpXWmUxdU9Bdy1XZ2p6Q2IwY0ZHcDV0TXEwV2p0eE84VUpXMklodzlmbTE2eHhSMnRMZFF0cTI2OQ?oc=5",
       "date": "09/19 10:29",
       "pub_ts": 1789781340.0,
@@ -992,7 +1002,7 @@
       "emoji": "📰"
     },
     {
-      "title": "仙台の老舗もなか店に新職人 洋菓子作りの経験生かし新商品にアイデア - kahoku.news",
+      "title": "仙台の老舗もなか店に新職人 洋菓子作りの経験生かし新商品にアイデア - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCQzN0Qmw5ZFdNSXMwbDVlR2t6UExTWTl3NEVxd1JLSWtWTWhaS18xMUc3bnRxby1jcGxQSjVFRlhDbzhvQkx3WVE1bGNMd2xqdU9ycGNGVXB0V1ZwR19WTQ?oc=5",
       "date": "09/19 10:00",
       "pub_ts": 1789779600.0,
@@ -1082,7 +1092,7 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城・塩釜の住宅地で熊目撃 - kahoku.news",
+      "title": "宮城・塩釜の住宅地で熊目撃 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3b0ViajVsTWJpOUdfc045amhLYkNCOENoNENvV3N3RFY4Zm1xczJrX2RjNVhEMlVuQ1RfelFPZ0QxUmhvWFh3bVg4TFJmR1I4RWpHZVZGZl9raFBndFdrQQ?oc=5",
       "date": "09/18 21:54",
       "pub_ts": 1789736066.0,
@@ -1132,7 +1142,7 @@
       "emoji": "📺"
     },
     {
-      "title": "校内で教師に頭突き 傷害容疑で仙台の男子中学生逮捕 - kahoku.news",
+      "title": "校内で教師に頭突き 傷害容疑で仙台の男子中学生逮捕 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zcnRmUDMtWlpJRmJjbktEYjdJaVR3STJSN2FZbUpXV3JMNUhrcTFwbV8wYm1PMG92NEFTeG1LNldOdmxUc0I3Rk5hbVBiX2JmNTh4UXo3LXdneHRXaUNHbA?oc=5",
       "date": "09/18 20:54",
       "pub_ts": 1789732492.0,
@@ -1342,7 +1352,7 @@
       "emoji": "📺"
     },
     {
-      "title": "ベガッ太、過ちに向き合って ＜ベガルタ仙台 ピッチサイド＞ - kahoku.news",
+      "title": "ベガッ太、過ちに向き合って ＜ベガルタ仙台 ピッチサイド＞ - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jZmdBSjh3RnBMSUlaMUNyVE5teWtLbjl5akZjMUlrSi1IbFN1eVMxTnJQWTR2MjFqY243cExLSkFudF80NE1mMlBia1ZDYVVlUUJiZU9mMzg2amx2aU5oeQ?oc=5",
       "date": "09/18 19:08",
       "pub_ts": 1789726080.0,
@@ -1462,14 +1472,14 @@
       "emoji": "📺"
     },
     {
-      "title": "宮城・多賀城東部線（多賀城市と七ヶ浜町を結ぶバス）が運転手不足で11月から土日祝日の便を運行休止へ(tbc東北放送)",
-      "link": "https://news.yahoo.co.jp/articles/2e42a8eb46bad6738a33479fd152b769f84e1cb3?source=rss",
+      "title": "宮城・多賀城東部線（多賀城市と七ヶ浜町を結ぶバス）が運転手不足で11月から土日祝日の便を運行休止へ（tbc東北放送） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQY2tmQTBDLTluNlNkbWtVZ2ZTNUl1SmQxQm9oMEFnM3dKQmdyeHVPeFI3Y05PeTlFUDh1b1NiY3VNeXZ6alJYemEwbDJBRGM2Ymp5UUwwUWt2dTh2NXhNNExtbjRKYkw1Z0x0Q01PNXYxYW1DVmJyLUhaWlBYdnM?oc=5",
       "date": "09/18 18:19",
       "pub_ts": 1789723154.0,
-      "summary": "宮城県の多賀城市と七ヶ浜町を結ぶバス、多賀城東部線が運転手不足の影響で11月から土日祝日の運行を休止することになりました。\n\n東部線を運行するミヤコーバスは、11月1日から多賀城市の「国府多賀城駅」と",
-      "source": "TBC東北放送",
-      "source_key": "tbc",
-      "emoji": "📺"
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
     },
     {
       "title": "東日本大震災の犠牲者として収容の遺体　震災前に火葬済みの遺体と判明　宮城・南三陸町(tbc東北放送)",
@@ -1670,16 +1680,6 @@
       "source": "khb東日本放送",
       "source_key": "khb",
       "emoji": "📺"
-    },
-    {
-      "title": "「僕のせいで…」ベガルタ仙台・井上詩音、“クレイジーボーイ”の笑顔の裏にある「自分への厳しさ」【コラム】 - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TbEpack1WY3d6cUFSVUpVTUphYmJuX1QzZW15Qm5pZmMyWEFOR05VRmFZMzNaVXlEWkxaVmJ2RzMwZU9QY09EcVliTVo5T09NNHFBbnJndEJnOHVJcTkybDNKYWI5eVZSVmxMSk9rWEdNdUlaajMxeHNuQWEtNmc?oc=5",
-      "date": "09/18 11:46",
-      "pub_ts": 1789699573.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
     },
     {
       "title": "「超変革」仙台育英　夏の甲子園敗退から全国の壁を超えるために大きく変わる(khb東日本放送)",
@@ -2492,16 +2492,6 @@
       "emoji": "📺"
     },
     {
-      "title": "体験型推理ゲーム「マーダーミステリー」の専門店が東北初上陸したみたい。 - 仙台つーしん",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiTnYtWU9ROWNvNVZYaDU3RkZYMllzczB0Q2toNG5pc0FaS2JFWDEzN3Y0aWY4Zi1nZUVVV3NDQnZlLTd4eWxRT2pzT1dCbnJaQVlFTUpxblpjUXBm?oc=5",
-      "date": "09/16 13:58",
-      "pub_ts": 1789534708.0,
-      "summary": "",
-      "source": "仙台つーしん",
-      "source_key": "tushin",
-      "emoji": "🍜"
-    },
-    {
       "title": "ベガルタ仙台クラブマスコットのベガッ太　不適切な行動で１カ月出演停止(khb東日本放送)",
       "link": "https://news.yahoo.co.jp/articles/857864a548cc4eb4db0aed2b475bd2486561f3dd?source=rss",
       "date": "09/16 13:30",
@@ -2642,6 +2632,16 @@
       "emoji": "🍜"
     },
     {
+      "title": "GX戦略地域 データセンター集積型に宮城・富谷市と秋田市を認定 脱炭素電源活用型は東北から青森・六ケ所村と六戸町など3地域 - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zOS1laG1ITGMxaVhKQ2RVaGJsMkhNUUJ3eGVvNVhnRGlkLWNSUkx0VUw1dVRzSWIzT1RIM1RwRWl2WE5ZaW5IcjlCQ0JDeE9YelJkeHZCZUlWWUJXbnM1Mw?oc=5",
+      "date": "09/11 16:00",
+      "pub_ts": 1789110000.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
+    },
+    {
       "title": "【見逃し配信中】櫻坂46山川宇衣の宮城を抱きしめたい！【東北ココから】 - nhk.or.jp",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzeW1ya3RjTjB2UlVFcV9qRlpSVmMxbXdFYmpka0Jpcnd1dURGVVhLZm9QdFBCS2FFT3RPb1NsenZwXzJqOG9WZFNmR0dfOFo3dzZ2WjMxVU1sLUR6ZU4wUE5XT0c?oc=5",
       "date": "09/11 16:00",
@@ -2650,16 +2650,6 @@
       "source": "NHK東北",
       "source_key": "nhk",
       "emoji": "📡"
-    },
-    {
-      "title": "GX戦略地域 データセンター集積型に宮城・富谷市と秋田市を認定 脱炭素電源活用型は東北から青森・六ケ所村と六戸町など3地域 - kahoku.news",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zOS1laG1ITGMxaVhKQ2RVaGJsMkhNUUJ3eGVvNVhnRGlkLWNSUkx0VUw1dVRzSWIzT1RIM1RwRWl2WE5ZaW5IcjlCQ0JDeE9YelJkeHZCZUlWWUJXbnM1Mw?oc=5",
-      "date": "09/11 16:00",
-      "pub_ts": 1789110000.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
     },
     {
       "title": "仙台出身ジャーナリスト 丸山ゴンザレスさんが語る震災経験 - nhk.or.jp",
@@ -2763,13 +2753,13 @@
     }
   ],
   "debug_info": {
-    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
-    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
-    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
-    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
-    "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
     "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
     "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
-    "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)"
+    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
+    "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
+    "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
+    "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)"
   }
 }
