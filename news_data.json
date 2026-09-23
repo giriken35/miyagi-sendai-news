@@ -1,6 +1,16 @@
 {
-  "fetched_at": "2026-09-24 05:25:47",
+  "fetched_at": "2026-09-24 08:44:33",
   "items": [
+    {
+      "title": "【仙台市青葉区】9/24 最高28℃、やや暑さを感じる場面も、朝は雨で昼間から晴れる予想【朝版】 - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12ZVdCaW9JMVFlUHJKR1NXc1d4NXM4d2RQSUZKOHhKZlJWTnZHSmJ0V19GRmgxTTQzbmdvZmZTNkhrNThwdEVDTGVGcWJtckFTSEt5bXcxMzJYLTJUUEVNVHBkckpuLVAtX3h0cGNrR0dON2VwLWl0RkRRaUtIVDA?oc=5",
+      "date": "09/24 05:39",
+      "pub_ts": 1790195955.0,
+      "summary": "",
+      "source": "Yahoo!ニュース",
+      "source_key": "yahoo",
+      "emoji": "🗞️"
+    },
     {
       "title": "【宮城県】9/24の天気予報（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96cjY3SkdXMUx5MERrZnN4YWZfWTNlOVAwMEVaUUU0QUMzSmFFMUpfM0t0YlNOME1wOGJXcFNQOFk1VDlESzZ5cEtpNVAzR1NKYlVYaHZCZHByczZkckdOMmJsM1BSS0M0OFo2NV8yMm82WWJ6bHh2dFV0VWFGTEk?oc=5",
@@ -162,14 +172,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "宮城県内の着用率わずか２割 最新の自転車ヘルメット事情は？（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMUktMDBHUm5GMUw4R0hXWHBzWjlSWW8yMFRWbk9STno1QWkwU1ozRnhCYkNkN1ptTzZQR3hRZ0swN1dkS1RRSVpnSm1hY3JyZHhEd0pxNVk4QWozT3gxcnhDdXVDR191UGxxaEl2WDd2Y3EwYTg5RGhjODVHYWM?oc=5",
+      "title": "宮城県内の着用率わずか２割　最新の自転車ヘルメット事情は？(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/a22acc702a114fa69faa4dee0a57cd572f16b42a?source=rss",
       "date": "09/23 19:25",
       "pub_ts": 1790159134.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "今月こんなデータが公表されました。宮城県内の自転車ヘルメット着用率わずか２割。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
       "title": "仙台で住宅火災、2人死亡（共同通信） - Yahoo!ニュース",
@@ -190,16 +200,6 @@
       "source": "khb東日本放送",
       "source_key": "khb",
       "emoji": "📺"
-    },
-    {
-      "title": "サッカー日本代表が利府町で最終調整 森保監督「宮城で新生サムライブルー初陣」ウルグアイ戦へ意気込み（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WdmNUVVZQVlc1bEoyRmx6bU95dFdNQzZhX01Nd0daNWMtdnpjVmlWUVpDX2R2Wjk0QV90OTZWQXU3M3RvZlZtMmFwSGxlUVBFbmsxRDkyNWd0V2hwT0RCV2hxbnBjMG0tbDVyOVJBa1hzdEtpdi1RZmFQNW5hblU?oc=5",
-      "date": "09/23 19:20",
-      "pub_ts": 1790158801.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
     },
     {
       "title": "塩釜市の無人島にクマが上陸　船で釣りをしていた人が目撃　連日出没の個体とみて警戒続く〈宮城〉(仙台放送)",
@@ -232,6 +232,16 @@
       "emoji": "📺"
     },
     {
+      "title": "サッカー日本代表が利府町で最終調整　森保監督「宮城で新生サムライブルー初陣」ウルグアイ戦へ意気込み(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/4985828d7b8ff8dad91a1f4b79168076c75faca5?source=rss",
+      "date": "09/23 19:20",
+      "pub_ts": 1790158801.0,
+      "summary": "９月２４日、ウルグアイとの国際親善試合に臨むサッカー日本代表。会場となる宮城県利府町のキューアンドエースタジアムみやぎでは、９月２３日、最終調整が行われました。\n\nベガルタ仙台でのプレー経験もある板倉",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
+    },
+    {
       "title": "【映像あり】「誰かいますか！」出火直後 緊迫の一部始終　住宅１棟が全焼し焼け跡から２人の遺体発見(仙台放送)",
       "link": "https://news.yahoo.co.jp/articles/15d86cb461a021a9696f8ad4df87d1c56bccf1c2?source=rss",
       "date": "09/23 19:20",
@@ -242,24 +252,24 @@
       "emoji": "📺"
     },
     {
-      "title": "１０年計画で海岸防風林に 宮城・石巻市の沿岸部で植樹活動（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JN2VSSkRqSFhaV0NURklhNjZvNjVRNnY4d056R1U0WG91bWRLcjlwTWczZkdkOGp4SGthcVlIcHZwempKOXN6SlRsVzIzTTJvbjFRSFlZSEtiLXkwWHp5MXo2bTFVcVY0QTBXQ3Z1STJ3Z2VnWDZ2QnBLdkVCaEU?oc=5",
+      "title": "１０年計画で海岸防風林に　宮城・石巻市の沿岸部で植樹活動(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/732d4cd8c4f730674b49948b2ecaf62c062f6434?source=rss",
       "date": "09/23 19:19",
       "pub_ts": 1790158748.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "震災で津波被害を受けた宮城県石巻市の沿岸部に植物の苗が植えられました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
-      "title": "宮城・石巻市 金華山で一時遭難した３０代男性を救助（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BSEZLcXpLcVNITlQ3dnZNUmtiS0JrbE41UFVjRUFhZmpLY210emJ5SEVoTWtpbFNxWExpZncwOTZ6V09ibFN1dno4N2JoSXh6ZHE4aXNudExoQXNxcHpsTnIwb0QzenlZLWNWVDExNTNULUJ1MHl2R1pyamhjZzA?oc=5",
+      "title": "宮城・石巻市　金華山で一時遭難した３０代男性を救助(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/d68cc8c1e0ab4e6a17f2b015bc3af5f11efeb73d?source=rss",
       "date": "09/23 19:16",
       "pub_ts": 1790158577.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "宮城県石巻市の金華山で２３日、一時遭難した３０代の男性が無事救助されました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
       "title": "【高校野球】仙台育英Ｖ「成長感じられた」須江監督 ６試合60得点＆６投手起用で５失点／宮城（日刊スポーツ） - Yahoo!ニュース",
@@ -302,14 +312,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "仙台市役所の新庁舎に市民が制作のステンドグラスを プロジェクト進む（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NSWJGQXpzblpCZmlkNkpHVDdGMkJ6YTk3UkxkbzdLVFNHTnFPLVhabFg5OEJKTzNuZnRqenFtVXlZZmV1eXZjenUxNEVGcVp0MVhxbjBHSmZuT3F4X3NqNGE4eEUxUUE4amNUOUp3MG1tSnIwRzhGZ3RPcldRR1k?oc=5",
+      "title": "仙台市役所の新庁舎に市民が制作のステンドグラスを　プロジェクト進む(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/15d81e68ab440f1e9319fdcf6c5a1a81bd944ee6?source=rss",
       "date": "09/23 19:09",
       "pub_ts": 1790158174.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "市民が協力して制作したステンドグラスを仙台市役所の新しい庁舎に寄贈するプロジェクトが進んでいます。仙台駅のステンドグラスに続く新たなシンボルを目指します。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
       "title": "「地球のためかなと思いました」復興祈念公園で苗木2000本を植樹＜宮城・石巻＞(ミヤギテレビ)",
@@ -382,44 +392,34 @@
       "emoji": "🗞️"
     },
     {
-      "title": "【更新】仙台南部道路の仙台南―長町IC間上下線の通行止め解除 乗用車が単独事故 - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMRTZtY2l3eTJWdWJBOWl3QVA1OFFQLTBCU1daZU9nbVozY3QtZFJscTBTQmd1VkI1eUlINEdaclQ0SmttQ1A2YS1sQVRWTjlLVWVaYWl5RkQ3UXRiZkZGSQ?oc=5",
-      "date": "09/23 18:07",
-      "pub_ts": 1790154472.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
-    },
-    {
-      "title": "「仙台に来るのはとても珍しい」 滋賀県の伝統工芸品を仙台市で展示販売 ２７日まで（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zeW52NzdMZlBKa0Q5eWxHRWtPRnltazFDcEhLNjJzeV9URU9ENTBxajZjZjliTThwMkpEUjBsYzlRaHRaMzZvR0tRNGhPcE1vQnAycHZkSmhzY29iT2Z2YzkxTGNWbENodUhxTFFCWEVuNHMza2pFX0tNVVVDaXM?oc=5",
+      "title": "「仙台に来るのはとても珍しい」　滋賀県の伝統工芸品を仙台市で展示販売　２７日まで(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/c468295a82dfd3b10717e58ec84bc4af4ce8e723?source=rss",
       "date": "09/23 17:44",
       "pub_ts": 1790153092.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "滋賀県の伝統工芸品を集めた展示販売会が仙台市青葉区で始まりました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
-      "title": "直進車とＵターン車が衝突 直進車の１０代男性ら３人けが 宮城県名取市（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Qk53STRzNWZ2T3NsT0tMT1BuWVZGNVctcklGT25ONFd4WHhiVXUwc0VMb0NkMFIwSHRKbXFhVENnTjg1Q0czMUV3aUZhWlg2OWR0SWFjT0ktTENrQzJNRVB3R0xQTzdkNE1sZXpqZGt6SHhfbDhOSjE1OWJ3VWc?oc=5",
+      "title": "直進車とＵターン車が衝突　直進車の１０代男性ら３人けが　宮城県名取市(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/f5a92def8cea4c0992d54aec3f74bd0b83dd3d19?source=rss",
       "date": "09/23 17:20",
       "pub_ts": 1790151634.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "名取市の市道で２３日、乗用車同士が衝突し１０代の男性ら３人がけがをしました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
-      "title": "仙台市若林区六郷で住宅１棟が焼ける 焼け跡から２人の遺体（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UYjlhZjd3TXRETmRFRWNjN2VOVFJEd0ZnSkJFX1U2YmVrRFJkZk5KTnJkdWRIRjdCZjI0RS04TUI3YzRjZjlEVzNxNHBkZGIxOTVza1pDdEZONG9wM0I1TE9OZUIxMUVhUHVMSXQxaDI3RG1zQWtXT3NtUC1vMTg?oc=5",
+      "title": "仙台市若林区六郷で住宅１棟が焼ける　焼け跡から２人の遺体(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/85c5305ad520dd35c3b7fe0fde9c77d633b0477d?source=rss",
       "date": "09/23 17:14",
       "pub_ts": 1790151284.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "仙台市若林区で２３日、住宅１棟などが焼け、焼け跡から２人の遺体が発見されました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
       "title": "「仙台ポケモンGOイベント」東北大学AO入試と重なり受験生が仙台で宿泊できず…大半は宮城県外に宿泊？ - 河北新報オンライン",
@@ -502,16 +502,6 @@
       "emoji": "🗞️"
     },
     {
-      "title": "年間313万人が訪れる宮城・松島 地元住民14人が仕掛ける、定番スポットだけではない新たな観光（FNNプライムオンライン） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXVnFHNWdRSjdCRmstWVZNTEJfM0pqQXAzbG5Fa1BKV1hHQUFON2dIVHlNWmdoVTZOSFJJaWstTTBhdDNxZGEwZnJOLTgzaDZoUUpBZTloWWtSZmZQSlpOVTdQZ21LZ1ZpeTREa1BZSHZ1TTZyakhpd3pDWWJiMDQ?oc=5",
-      "date": "09/23 15:00",
-      "pub_ts": 1790143244.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
       "title": "2階建ての住宅1棟が焼ける火事で焼け跡から2人の遺体見つかる　仙台・若林区(tbc東北放送)",
       "link": "https://news.yahoo.co.jp/articles/80c279e92c89e05c39cc4975e99e6429d118c5b9?source=rss",
       "date": "09/23 14:59",
@@ -552,14 +542,14 @@
       "emoji": "📺"
     },
     {
-      "title": "クマが海を泳ぎ無人島に上陸 漁船に居座った個体か 宮城・塩釜市（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wRnFYZHZXSjgzTHpzTlh4ZWRvTHZJc1BfTk9qTkVHb0VlNUlxQTNvZXgzOVpac1N1SnFJcnFFZk1WRnFSdkZXa1NqOHU2Rkw4clJTZEJsR0FLMW9VUEpNN1ZGUWdUZ3NiNEFSRkdSYWtJS2tpNmFZZkhyTHd0V3M?oc=5",
+      "title": "クマが海を泳ぎ無人島に上陸　漁船に居座った個体か　宮城・塩釜市(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/b728e114b5714b71a5f67ba319b559ec34f00651?source=rss",
       "date": "09/23 13:51",
       "pub_ts": 1790139067.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "宮城県塩釜市で相次ぐクマの目撃。２３日にはクマが海を泳ぎ、無人島に上陸する様子が目撃されました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
       "title": "クマが泳いで塩釜市の離島に上陸　宮城(tbc東北放送)",
@@ -592,14 +582,14 @@
       "emoji": "📺"
     },
     {
-      "title": "仙台市若林区六郷の住宅で火災発生 消防が消火活動（khb東日本放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcHBfcWlpWENvNkMtWnNnajJwQ0ZFRkZjVTBCWU5OUEJvUm50cl9naTdMcldleDRFdHpmN1BMWXZRUW1GSjJFcmVOQm9CMTBJTGdtbGZMYjNwdnpoX05Gb1ZmU0E1WjdhRWhwbXV0dURodHprcDkxMzFKdWZkZXc?oc=5",
+      "title": "仙台市若林区六郷の住宅で火災発生　消防が消火活動(khb東日本放送)",
+      "link": "https://news.yahoo.co.jp/articles/e693bdc5f60a6d841bc548ef93c868b1ca5361ef?source=rss",
       "date": "09/23 12:41",
       "pub_ts": 1790134904.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "仙台市若林区の住宅で火事が発生し、消防が消火活動に当たりました。",
+      "source": "khb東日本放送",
+      "source_key": "khb",
+      "emoji": "📺"
     },
     {
       "title": "東北高校が県３位で東北大会へ　ウェルネス宮城にコールド勝ち＜秋の高校野球宮城大会＞(ミヤギテレビ)",
@@ -622,7 +612,7 @@
       "emoji": "📺"
     },
     {
-      "title": "【更新】焼け跡から2人の遺体見つかる 仙台・若林区六郷の住宅火災 - 河北新報オンライン",
+      "title": "焼け跡から2人の遺体見つかる 仙台・若林区六郷の住宅火災 - 河北新報オンライン",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kM3pYY1ZGUW5jeUY2TDJRc0tkNmtJZnk1MlNick5KZl9sMVN0MEQ5TzN0Ynl3VGNCcnJTWDRJdF9GRnhXNHp1ZEJ6VHhhWXgwUHd4N2gyQlY1cjBxQ0ZpUg?oc=5",
       "date": "09/23 12:31",
       "pub_ts": 1790134260.0,
@@ -712,14 +702,14 @@
       "emoji": "📺"
     },
     {
-      "title": "【速報】仙台市内で住宅が焼ける火事 「建物から黒煙が出ている」と１１９番通報 消防が消火活動中（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pWW9vYy1QRDg1d2VnZERfbHpHQ2xvUmtHZU02ZEJYRXZvSW9IT05fYVhONDI3cFZlUF90bkRWTmEwbm9YcXY2Q052U0pBVjdQWlRTc0UweXhlR25aS3RSSjg2dlF1NGRLOFhfejRNOTd3QnZVWGcwUWM2eGR1U3c?oc=5",
+      "title": "【速報】仙台市内で住宅が焼ける火事　「建物から黒煙が出ている」と１１９番通報　消防が消火活動中(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/d35ba89d43c5e423d1d1f4fd349c093b14f7c05f?source=rss",
       "date": "09/23 11:50",
       "pub_ts": 1790131801.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "９月２３日午前、仙台市若林区で、住宅が焼ける火事が発生し、現在も消防による消火活動が続いています。\n\n火事が発生しているのは、若林区六郷の２階建ての住宅です。\n\n消防によりますと、２３日午前１１時ごろ",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "2階建ての住宅1棟が焼ける火事　現在も消火活動続く　仙台・若林区(tbc東北放送)",
@@ -762,24 +752,14 @@
       "emoji": "🗞️"
     },
     {
-      "title": "競技歴１年で世界３位の快挙 仙台市在住の吉田穂風選手が流した悔し涙とパワーリフティングへの挑戦（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wQzh2OWNlRTUwM1JtUFlZS0Q4WU83Q3hJSEQ3WkJfX0tnYlVXMnhHa3cyS2NIWk5CcTY4N0lIakFQODdfR0RCcGNoUE5GNFhvVE9TZlMxUzNkTDFtcTA5VkJiQ0t3blo0ZGJTNHQ1MmZINlVhY2UzYXBjZEZoTFk?oc=5",
+      "title": "競技歴１年で世界３位の快挙　仙台市在住の吉田穂風選手が流した悔し涙とパワーリフティングへの挑戦(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/216814a3b63aa39ebab3517889962176d1dfdc54?source=rss",
       "date": "09/23 10:31",
       "pub_ts": 1790127061.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
-    },
-    {
-      "title": "宮城・栗原で10月にフェラーリミーティング 488ピスタやプロサングエ、458イタリアも - 河北新報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KQ2dDejhVVjg1d0N5LTFESGdJNlNDak5kWUdoYThxaUV2MndTUnBpQmxNMkw4Tk1tdGxfZVlRZmhDeU1KWm5QaUVwOFMzcS1Id3BHYXFqUV80MWhraE9oQg?oc=5",
-      "date": "09/23 10:00",
-      "pub_ts": 1790125200.0,
-      "summary": "",
-      "source": "河北新報",
-      "source_key": "kahoku",
-      "emoji": "📰"
+      "summary": "３つの種目で持ち上げたバーベルの重さを競うパワーリフティング。本格的な競技歴はわずか１年ながら、８月に南アフリカで開かれた世界大会で、３位表彰台を獲得した仙台市在住の吉田穂風選手に迫ります。\n\nスクワ",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "東北最大級のご当地餃子イベントが勾当台公園で開催されるみたい！ - 仙台つーしん",
@@ -982,14 +962,14 @@
       "emoji": "📺"
     },
     {
-      "title": "新・宮沢橋であわや大事故 その瞬間がドライブレコーダーに 交差点のルール変更で戸惑うドライバー 仙台（仙台放送） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RNkM3MkMtb3lNWWtKcmxCOEZtU0JnUkNxVHlGcFdjR191cG9GLUJtUWVadHhrQWd6Nlo0TzBrNXF4bk05cEQ5YVktY1dUdFphZ0RfT29oV3ZwM1BaUWxwNGlNdEVxTUFKMmlidFVQcGdsdFBWT2h0N05IMXk2aW8?oc=5",
+      "title": "新・宮沢橋であわや大事故　その瞬間がドライブレコーダーに　交差点のルール変更で戸惑うドライバー　仙台(仙台放送)",
+      "link": "https://news.yahoo.co.jp/articles/9e4fe399d9ea5082cbb756693ab0e4c56a91e763?source=rss",
       "date": "09/22 19:16",
       "pub_ts": 1790072161.0,
-      "summary": "",
-      "source": "Yahoo!ニュース",
-      "source_key": "yahoo",
-      "emoji": "🗞️"
+      "summary": "強引な運転で、あわや大事故に…。ドライブレコーダーがその瞬間を捉えていました。現場は、９月開通し、事故の減少が期待される新しい宮沢橋でした。\n\n道路を直進する１台の乗用車…。\n\n次の瞬間！\n\n対向車線",
+      "source": "仙台放送",
+      "source_key": "ox",
+      "emoji": "📺"
     },
     {
       "title": "帰省中の男性死亡　ひき逃げ事件　２５歳の女性を逮捕　宮城・大崎市(khb東日本放送)",
@@ -1710,6 +1690,16 @@
       "source": "TBC東北放送",
       "source_key": "tbc",
       "emoji": "📺"
+    },
+    {
+      "title": "仙台・国分町にウイスキー専門店をオープンさせたアンドシー社長・千葉惟平さん（35）＜Ｅパーソンアネックス - 河北新報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VnJ2aFRzT1hzRmQzNkRaSVg3WkNqQmFLajhqTGxnUkNQSFh5MUVKanhSRk1raGxnZTBQbVRLdFBRbHZyVEJhazNaNHE3SUpWTmdnWmhKSXNPZVpJVE9IUg?oc=5",
+      "date": "09/21 12:00",
+      "pub_ts": 1789959600.0,
+      "summary": "",
+      "source": "河北新報",
+      "source_key": "kahoku",
+      "emoji": "📰"
     },
     {
       "title": "【台風25号情報】警報級の大雨となるおそれも…22日未明から暴風に警戒　宮城(tbc東北放送)",
@@ -2572,6 +2562,36 @@
       "emoji": "📡"
     },
     {
+      "title": "仙台市 穀町保育園&情報通信設備会社のみなさん - web.nhk",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SQzlNSXJDNnVxdkZ5LXpCVHQ3MDFWZmpUczRQcG5Zb0xLc0NlWWJ2aERPbU1LNkdGZjVQaUNQeVRvQTRRYV9mQTF4T2FESlM0dUV6amhlaW5sWEVQazdPOFB0V1ZjSzk0VmUyT1hXWF9LV3lTZjB3?oc=5",
+      "date": "09/13 18:43",
+      "pub_ts": 1789292580.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
+    },
+    {
+      "title": "宮城 七ヶ宿町長選挙 渡部秀文氏が初当選 - NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JcTlsa194cTc2S2w5NHB1UnRPVjJhNTNSdlRrWVdYc1kzcnpTMktHZVZ3S0xQbklkYzFRN3J6YmFPQ3VaUEZYdlc3WEE3VHd5WUo1UFlyUEE?oc=5",
+      "date": "09/13 16:00",
+      "pub_ts": 1789282800.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
+    },
+    {
+      "title": "日向坂46大野愛実＞NHK「民謡魂」で初ソロロケ 宮城・気仙沼の郷土芸能リポート 正源司陽子も 22日放送（MANTANWEB） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QZ0RwTkVPcmx4TUJmV3A1WkU1QVV2dHY1a1RWTnFuRUFHUHhMdEItLXplcG5tTmZxbzBMazY2RFYyRHNhZndjQXRGcy1nZmctOW1PMmpMTVRLYWtmczlBUTdjM21rWkRJUmx6dFg2U2FvZk9WZVFQVEZGQ1F2ZEE?oc=5",
+      "date": "09/13 16:00",
+      "pub_ts": 1789282800.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
+    },
+    {
       "title": "【見逃し配信中】櫻坂46山川宇衣の宮城を抱きしめたい！【東北ココから】 - nhk.or.jp",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzeW1ya3RjTjB2UlVFcV9qRlpSVmMxbXdFYmpka0Jpcnd1dURGVVhLZm9QdFBCS2FFT3RPb1NsenZwXzJqOG9WZFNmR0dfOFo3dzZ2WjMxVU1sLUR6ZU4wUE5XT0c?oc=5",
       "date": "09/11 16:00",
@@ -2584,6 +2604,16 @@
     {
       "title": "fox capture planが出演！10/10(土)NHK仙台放送局で公開収録！【東北 しゃべり亭】 - nhk.or.jp",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZTlUxRjZ6ODNfeGYzNEhjb2gwM2paMFVRZ2kwNjRGMk9wSGVKX1U5WGlxTUVtbmVpSUw1NkRFaG9NLUtSVDVBd25xUXlTcVZUVTI0U2lzYmNKUzB2eWo2dFQyajU?oc=5",
+      "date": "09/10 16:00",
+      "pub_ts": 1789023600.0,
+      "summary": "",
+      "source": "NHK東北",
+      "source_key": "nhk",
+      "emoji": "📡"
+    },
+    {
+      "title": "東野幸治が率いる新・民謡魂！初回は宮城県気仙沼市からお届けします！ - NHK",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nczJIaUxwZDV6ZjRHV1FBM2tETklKY3pWZFRDUTlaMEZ3aV9kX05pZmtxWTl4emN6RWppUExQOW1qUEZoT096SEFXMGxfb1VzTDVQWWloYWM1SlJLTXZvOUMybnNYYXZXa1ltNlFpVVREbWd2OFln?oc=5",
       "date": "09/10 16:00",
       "pub_ts": 1789023600.0,
       "summary": "",
@@ -2606,6 +2636,16 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80LXBDTzRzT1VCZk1oU2V6UkpnTzlZM2lyZllQX0hjTXR1QlQ1VnY0dzFDTzRoY210emV5QzVMUVVCaGJ0RUlRcGZlWW9pTW1QVFNCRlJ1YjZaRzBX?oc=5",
       "date": "09/07 16:00",
       "pub_ts": 1788764400.0,
+      "summary": "",
+      "source": "仙台つーしん",
+      "source_key": "tushin",
+      "emoji": "🍜"
+    },
+    {
+      "title": "【若林区】新『宮沢橋現場見学会』を、2026年9月5日に開催。 - 仙台つーしん",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BamtHcHJwcVZLdTZaVlBUclk0Uzk1QzF5TGpfQ0xSX3ZPSUhlMy1mOFFsV0hvWFUzeVE3TFhjbzNWUXd1N1hORGhsai1Ha0w5T05vRFgzcklwdGl6?oc=5",
+      "date": "09/05 16:00",
+      "pub_ts": 1788591600.0,
       "summary": "",
       "source": "仙台つーしん",
       "source_key": "tushin",
@@ -2674,12 +2714,12 @@
   ],
   "debug_info": {
     "仙台つーしん": "✅ 50件 (https://news.google.com/rss/search?q=site:sendai-tushin.jp&hl=ja&gl=JP&ceid=JP:ja)",
+    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
     "NHK東北": "✅ 50件 (https://news.google.com/rss/search?q=NHK+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
     "TBC東北放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/tbcv/all.xml)",
-    "ミヤギテレビ": "✅ 50件 (https://news.yahoo.co.jp/rss/media/mmt/all.xml)",
-    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
-    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)",
     "khb東日本放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/khbv/all.xml)",
-    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)"
+    "仙台放送": "✅ 50件 (https://news.yahoo.co.jp/rss/media/oxv/all.xml)",
+    "Yahoo!ニュース": "✅ 50件 (https://news.google.com/rss/search?q=site:news.yahoo.co.jp+%E5%AE%AE%E5%9F%8E+OR+%E4%BB%99%E5%8F%B0&hl=ja&gl=JP&ceid=JP:ja)",
+    "河北新報": "✅ 50件 (https://news.google.com/rss/search?q=site:kahoku.news&hl=ja&gl=JP&ceid=JP:ja)"
   }
 }
