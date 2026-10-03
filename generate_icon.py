@@ -11,8 +11,8 @@ def generate_masamune_icon():
 
     p0 = (717, 1800)
     p2 = (3379, 1300)
-    p1_out = (1800, 3800)
-    p1_in = (1700, 2700)
+    p1_out = (1900, 4300)
+    p1_in = (1600, 2000)
 
     points = []
     steps = 200
